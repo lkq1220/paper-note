@@ -37,3 +37,8 @@ The focus of this research was on the single-hop (star network) WSN for pipeline
 #### 1.2 Aim and objectives
 The principal aim of this research is to design and manufacture a long-term, ultra low power,
 continuous condition assessment monitoring system for buried water pipelines.
+The following objectives:
+(1) identify the parameters affecting the power consumption of underground wireless sensor nodes
+(2) design and manufacture an ultra-low power wireless sensor node for pipeline monitoring
+(3) minimise the power consumption of the node through hardware and software optimisation
+(4)  design and develop non-invasive sensors and assess their performance
