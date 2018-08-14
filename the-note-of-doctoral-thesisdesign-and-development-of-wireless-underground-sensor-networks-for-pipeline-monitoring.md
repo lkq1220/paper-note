@@ -93,7 +93,7 @@ water pipes are exposed to harsh environmental and operational conditions which 
 - dynamic(Environmental factors)
 - operational factors(maintenance and operation parameters of the pipeline networks)
 
-# main reason for pipes failure 
+##### main reason for pipes failure 
 - In the literature corrosion is identified as the main reason for metallic pipes failure.
 - The exertion of excessive forces
 - Suffer from flaws in production
@@ -104,7 +104,10 @@ water pipes are exposed to harsh environmental and operational conditions which 
 - Human errors
     - Design 
     - Installation 
-    - Operational errors
+    - Operational errors    
+##### two categories of Pipe failures 
+    - burst (a sudden failure of pipe)
+    - leaks(existing losses and losses which grow and develop over time)
 
 
 #### 2.3 Pipeline condition assessment and failure monitoring systems
