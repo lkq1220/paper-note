@@ -8,3 +8,4 @@ a comprehensive review of the current state-of-the-art in pipeline monitoring is
 - sensor(a novel non-invasive relative pressure sensor--FSR、temperature sensor)
     -  measure daily pressure variations and detect leak
     -  leak detection position
+- improved model for approximation of RF signal attenuation in soil
