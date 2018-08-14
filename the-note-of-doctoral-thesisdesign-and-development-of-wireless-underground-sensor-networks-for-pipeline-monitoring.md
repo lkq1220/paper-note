@@ -110,7 +110,7 @@ water pipes are exposed to harsh environmental and operational conditions which 
     - burst(a sudden failure of pipe)
     - leaks(existing losses and losses which grow and develop over time)
     
-####2.2.1 Costs of failure and failure management
+#### 2.2.1 Costs of failure and failure management
 
 #### 2.3 Pipeline condition assessment and failure monitoring systems
 #### 2.4 Wireless underground sensor networks for pipeline monitoring
