@@ -106,7 +106,7 @@ water pipes are exposed to harsh environmental and operational conditions which 
     - Installation 
     - Operational errors    
 ##### two categories of Pipe failures 
-    - burst (a sudden failure of pipe)
+    - burst(a sudden failure of pipe)
     - leaks(existing losses and losses which grow and develop over time)
 
 
