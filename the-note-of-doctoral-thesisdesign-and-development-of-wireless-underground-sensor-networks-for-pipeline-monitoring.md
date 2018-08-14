@@ -69,8 +69,11 @@ water pipes are exposed to harsh environmental and operational conditions which 
     - the hydraulic performance and water quality 
     
 ##### three main phases of the life cycle of the pipe
-- Burn in 
-- In usage
+- Burn in (the initial phase after installation of the pipe)
+    - human error
+    - other installation issues 
+    - manufacturing defects
+- In usage()
 - Wear out
 
 ![](/assets/doctor1.jpg)
