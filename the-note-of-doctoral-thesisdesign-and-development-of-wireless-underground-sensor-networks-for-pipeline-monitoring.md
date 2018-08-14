@@ -42,11 +42,19 @@ The principal aim of this research is to design and manufacture a long-term, ult
 (3) minimise the power consumption of the node through hardware and software optimisation
 (4) design and develop non-invasive sensors and assess their performance
 (5) assess the performance of the node and sensors and assess leak detection capabilities of the system
-(6) investigate the effect of soil on Radio Frequency (RF) signal propagation
+(6) investigate the effect of soil on Radio Frequency (RF) signal propagation--extraction of real and imaginary parts of permittivity from TDR waveform for use in prediction of RF attenuation in soil 
 
 ### 2. Literature Review
 #### 2.1 Pipline Systems
-The ageing results in pipeline deterioration and eventually pipes failure,which can potentially have catastrophic financial and environmental effects.
+The ageing results in pipeline deterioration and eventually pipes failure, which can potentially have catastrophic financial and environmental effects.
+- water supply network structure
+    - Transmission networks
+    - Distribution networks
+    - water loss
+        - distribution losses 
+        - supply losses
+- pipe materials and age
+    
 #### 2.2 Pipeline deterioration process and failure
 #### 2.3 Pipeline condition assessment and failure monitoring systems
 #### 2.4 Wireless underground sensor networks for pipeline monitoring
