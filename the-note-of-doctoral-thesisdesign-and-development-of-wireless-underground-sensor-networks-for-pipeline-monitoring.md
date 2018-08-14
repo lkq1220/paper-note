@@ -12,5 +12,14 @@ a comprehensive review of the current state-of-the-art in pipeline monitoring is
 - improved model for approximation of RF signal attenuation in soil
 
 ### 1. introductiom
-#### 1.1 significance 
-Transportation of vital commodities such as water, oil and gas is commonly done by means of pipeline networks. Faults in these pipes can create major financial implications and possible environmental catastrophes.with the development of "Internet of Things",wireless sensor network not only provide operators with a better understanding of their network, but also will have a higher reliability and a faster response to faults. 
+#### 1.1 Background and motivation 
+Transportation of vital commodities such as water, oil and gas is commonly done by means of pipeline networks. Faults in these pipes can create major financial implications and possible environmental catastrophes.with the development of "Internet of Things",wireless sensor network not only provides operators with a better understanding of their network, but also will has a higher reliability and a faster response to faults. 
+The main method for detecting and locating leaks in pipe:
+- acoustic measurements （声学）
+- pressure measurements（压力）
+- vision-based systems（计算机视觉）
+- Ground Penetrating Radar (GPR) based systems （探地雷达）
+- fibre optic monitoring（光纤检测）
+- multimodal systems（多种模式）
+
+
