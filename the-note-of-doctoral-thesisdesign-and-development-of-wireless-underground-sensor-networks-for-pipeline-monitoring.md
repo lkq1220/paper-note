@@ -61,6 +61,11 @@ The ageing results in pipeline deterioration and eventually pipes failure, which
     - The average age of water pipeline networks is estimated to be approximately 50 years
     
 #### 2.2 Pipeline deterioration process and failure
+water pipes are exposed to harsh environmental and operational conditions which result in deteriorating and eventually failing.
+##### two main categories of he deterioration of pipes
+- Structural deteriorations
+- Internal deteriorations
+
 #### 2.3 Pipeline condition assessment and failure monitoring systems
 #### 2.4 Wireless underground sensor networks for pipeline monitoring
 
