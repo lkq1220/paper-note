@@ -32,7 +32,7 @@ Transportation of vital commodities such as water, oil and gas is commonly done 
     - cost and reliability
 - data transmission
 
-The focus of this research was on the single-hop (star network) WSN for pipeline monitoring.(星型网络实现节点通信)This monitoring system contain many other sub-systems.
+The focus of this research was on the single-hop (star network) WSN for pipeline monitoring(星型网络实现节点通信).This monitoring system contain many other sub-systems.
 
 #### 1.2 Aim and objectives
 The principal aim of this research is to design and manufacture a long-term, ultra low power continuous condition assessment monitoring system for buried water pipelines.
