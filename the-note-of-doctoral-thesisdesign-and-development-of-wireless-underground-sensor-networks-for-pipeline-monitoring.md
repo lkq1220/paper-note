@@ -97,7 +97,14 @@ water pipes are exposed to harsh environmental and operational conditions which 
 - In the literature corrosion is identified as the main reason for metallic pipes failure.
 - The exertion of excessive forces
 - Suffer from flaws in production
+    - Porosity
+    - inclusions
+    - Micro cracks 
+    - Variations in thickness 
 - Human errors
+    - Design 
+    - Installation 
+    - Operational errors
 
 
 #### 2.3 Pipeline condition assessment and failure monitoring systems
