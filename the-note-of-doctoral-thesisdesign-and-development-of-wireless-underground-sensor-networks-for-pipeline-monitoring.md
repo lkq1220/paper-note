@@ -57,7 +57,6 @@ The ageing results in pipeline deterioration and eventually pipes failure, which
     - cast iron
     - plastic(colder environment and younger network)
     - metallic
-    
 - pip ages
     - The average age of water pipeline networks is estimated to be approximately 50 years
     
