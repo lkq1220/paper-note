@@ -88,6 +88,13 @@ water pipes are exposed to harsh environmental and operational conditions which 
 ![](/assets/doctor2.jpg)
 ###### Figure2 Stages of deterioration of the pipe
 
+##### three main categories of factors affecting the deterioration process of water pipelines
+- static
+- dynamic(Environmental factors)
+- operational factors(maintenance and operation parameters of the pipeline networks)
+
+In the literature corrosion is identified as the main reason for metallic pipes failure.
+
 #### 2.3 Pipeline condition assessment and failure monitoring systems
 #### 2.4 Wireless underground sensor networks for pipeline monitoring
 
