@@ -45,5 +45,12 @@ The following objectives:
 (5) assess the performance of the node and sensors and assess leak detection capabilities of the system
 (6) investigate the effect of soil on Radio Frequency (RF) signal propagation
 
+### 2. Literature Review
+#### 2.1 Pipline Systems
+#### 2.2 Pipeline deterioration process and failure
+#### 2.3 Pipeline condition assessment and failure monitoring systems
+#### 2.4 Wireless underground sensor networks for pipeline monitoring
+
+
 
 
