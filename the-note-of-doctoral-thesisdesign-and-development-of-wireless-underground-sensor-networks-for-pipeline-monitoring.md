@@ -73,7 +73,9 @@ water pipes are exposed to harsh environmental and operational conditions which 
     - human error
     - other installation issues 
     - manufacturing defects
-- In usage()
+- In usage(longest)
+    - extreme operational/environmental conditions
+    - external interferences
 - Wear out
 
 ![](/assets/doctor1.jpg)
