@@ -5,4 +5,6 @@ a comprehensive review of the current state-of-the-art in pipeline monitoring is
 - node communication
 - power consumption(by multiple iterations of software and hardware design)
 - data management(dispensable)
-- sensor(a novel non-invasive relative pressure sensor--FSR、)
+- sensor(a novel non-invasive relative pressure sensor--FSR、temperature sensor)
+    -  measure daily pressure variations and detect leak
+    -  leak detection position
