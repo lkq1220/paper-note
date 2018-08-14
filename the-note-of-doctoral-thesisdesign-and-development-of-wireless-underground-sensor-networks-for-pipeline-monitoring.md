@@ -73,6 +73,9 @@ water pipes are exposed to harsh environmental and operational conditions which 
 - In usage
 - Wear out
 
+![](/assets/doctor1.jpg)
+######  Bathtub lifecycle of a pipeline. 
+
 #### 2.3 Pipeline condition assessment and failure monitoring systems
 #### 2.4 Wireless underground sensor networks for pipeline monitoring
 
