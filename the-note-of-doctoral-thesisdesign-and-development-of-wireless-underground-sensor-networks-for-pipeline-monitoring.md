@@ -53,7 +53,13 @@ The ageing results in pipeline deterioration and eventually pipes failure, which
     - water loss
         - distribution losses 
         - supply losses
-- pipe materials and age
+- pipe materials(currently plastic pipes are being nearly exclusively used for replacing and expanding existing water networks)
+    - cast iron
+    - plastic(colder environment and younger network)
+    - metallic
+    
+- pip ages
+    - The average age of water pipeline networks is estimated to be approximately 50 years
     
 #### 2.2 Pipeline deterioration process and failure
 #### 2.3 Pipeline condition assessment and failure monitoring systems
