@@ -46,7 +46,7 @@ The principal aim of this research is to design and manufacture a long-term, ult
 
 ### 2. Literature Review
 #### 2.1 Pipline Systems
-
+The ageing results in pipeline deterioration and eventually pipes failure,which can potentially have catastrophic financial and environmental effects.
 #### 2.2 Pipeline deterioration process and failure
 #### 2.3 Pipeline condition assessment and failure monitoring systems
 #### 2.4 Wireless underground sensor networks for pipeline monitoring
