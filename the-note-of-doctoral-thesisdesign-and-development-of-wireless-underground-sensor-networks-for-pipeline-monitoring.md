@@ -13,7 +13,7 @@ a comprehensive review of the current state-of-the-art in pipeline monitoring is
 
 ### 1. introductiom
 #### 1.1 Background and motivation 
-Transportation of vital commodities such as water, oil and gas is commonly done by means of pipeline networks. Faults in these pipes can create major financial implications and possible environmental catastrophes.with the development of "Internet of Things",wireless sensor network not only provides operators with a better understanding of their network, but also will has a higher reliability and a faster response to faults. 
+Transportation of vital commodities such as water, oil and gas is commonly done by means of pipeline networks. Faults in these pipes can create major financial implications and possible environmental catastrophes.with the development of "Internet of Things",underground wireless sensor network not only provides operators with a better understanding of their network, but also will has a higher reliability and a faster response to faults. 
 
 The main method for detecting and locating leaks in pipe:
 - acoustic measurements （声学）
@@ -44,4 +44,6 @@ The following objectives:
 (4) design and develop non-invasive sensors and assess their performance
 (5) assess the performance of the node and sensors and assess leak detection capabilities of the system
 (6) investigate the effect of soil on Radio Frequency (RF) signal propagation
+
+
 
