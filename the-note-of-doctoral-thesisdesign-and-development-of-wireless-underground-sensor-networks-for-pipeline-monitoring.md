@@ -42,3 +42,5 @@ The following objectives:
 (2) design and manufacture an ultra-low power wireless sensor node for pipeline monitoring
 (3) minimise the power consumption of the node through hardware and software optimisation
 (4) design and develop non-invasive sensors and assess their performance
+(5) assess the performance of the node and sensors and assess leak detection capabilities of the system
+(6) investigate and assess the effect of soil on Radio Frequency (RF) signal propagationex
