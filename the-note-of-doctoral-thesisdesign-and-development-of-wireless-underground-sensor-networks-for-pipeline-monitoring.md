@@ -64,7 +64,14 @@ The ageing results in pipeline deterioration and eventually pipes failure, which
 water pipes are exposed to harsh environmental and operational conditions which result in deteriorating and eventually failing.
 ##### two main categories of he deterioration of pipes
 - Structural deteriorations
+    - withstand operational and environmental loads
 - Internal deteriorations
+    - the hydraulic performance and water quality 
+    
+##### three main phases of the life cycle of the pipe
+- Burn in 
+- In usage
+- Wear out
 
 #### 2.3 Pipeline condition assessment and failure monitoring systems
 #### 2.4 Wireless underground sensor networks for pipeline monitoring
