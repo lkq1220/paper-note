@@ -41,4 +41,4 @@ The following objectives:
 (1) identify the parameters affecting the power consumption of underground wireless sensor nodes
 (2) design and manufacture an ultra-low power wireless sensor node for pipeline monitoring
 (3) minimise the power consumption of the node through hardware and software optimisation
-(4)  design and develop non-invasive sensors and assess their performance
+(4) design and develop non-invasive sensors and assess their performance
