@@ -13,4 +13,4 @@ a comprehensive review of the current state-of-the-art in pipeline monitoring is
 
 ### 1. introductiom
 #### 1.1 significance 
-Transportation of vital commodities such as water, oil and gas is commonly done by means of pipeline networks. Faults in these pipes can create major financial implications and possible environmental catastrophes.
+Transportation of vital commodities such as water, oil and gas is commonly done by means of pipeline networks. Faults in these pipes can create major financial implications and possible environmental catastrophes.with the development of "Internet of Things",not only provide operators with a better understanding of their network, but also will have a higher reliability and a faster response to faults
