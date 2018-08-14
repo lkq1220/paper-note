@@ -87,6 +87,7 @@ water pipes are exposed to harsh environmental and operational conditions which 
 ###### Bathtub lifecycle of a pipeline. 
 ![](/assets/doctor2.jpg)
 ###### Stages of deterioration of the pipe
+
 #### 2.3 Pipeline condition assessment and failure monitoring systems
 #### 2.4 Wireless underground sensor networks for pipeline monitoring
 
