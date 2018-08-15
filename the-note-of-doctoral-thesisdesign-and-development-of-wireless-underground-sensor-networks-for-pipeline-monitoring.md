@@ -111,7 +111,9 @@ water pipes are exposed to harsh environmental and operational conditions which 
 - leaks(existing losses and losses which grow and develop over time)
     
 #### 2.2.1 Costs of failure and failure management
-
+Failures in a pipe cause loss of the medium being transported by the pipe. Makar and Kleiner (2000) and Rajani and Kleiner (2004) divided the losses associated with a pipe failure in a water pipeline into three main categories of direct, indirect and social costs.
+![](/assets/doctor3.jpg)
+##### Figure3  Categories of water pipe failure cost to asset owners
 #### 2.3 Pipeline condition assessment and failure monitoring systems
 #### 2.4 Wireless underground sensor networks for pipeline monitoring
 
