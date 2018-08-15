@@ -114,7 +114,7 @@ water pipes are exposed to harsh environmental and operational conditions which 
 Failures in a pipe cause loss of the medium being transported by the pipe. Makar and Kleiner (2000) and Rajani and Kleiner (2004) divided the losses associated with a pipe failure in a water pipeline into three main categories of direct, indirect and social costs.
 ![](/assets/doctor3.jpg)
 ##### Figure3  Categories of water pipe failure cost to asset owners
-The total cost of failure management for water pipeline networks depends on the cost of the method used for condition assessment and leak detection.  it is economical to use expensive leak detection and condition assessment techniques for pipeline in order to detect failures.
+The total cost of failure management for water pipeline networks depends on the cost of the method used for condition assessment and leak detection.It is economical to use expensive leak detection and condition assessment techniques for pipeline in order to detect failures.
 
 #### 2.3 Pipeline condition assessment and failure monitoring systems
 #### 2.4 Wireless underground sensor networks for pipeline monitoring
