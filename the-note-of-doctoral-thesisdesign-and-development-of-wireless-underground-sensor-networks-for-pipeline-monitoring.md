@@ -115,7 +115,6 @@ Failures in a pipe cause loss of the medium being transported by the pipe. Makar
 ![](/assets/doctor3.jpg)
 ##### Figure3  Categories of water pipe failure cost to asset owners
 The total cost of failure management for water pipeline networks depends on the cost of the method used for condition assessment and leak detection.It is economical to use expensive leak detection and condition assessment techniques for water pipeline in order to detect failures.
-
 #### 2.3 Pipeline condition assessment and failure monitoring systems
 #### 2.4 Wireless underground sensor networks for pipeline monitoring
 
