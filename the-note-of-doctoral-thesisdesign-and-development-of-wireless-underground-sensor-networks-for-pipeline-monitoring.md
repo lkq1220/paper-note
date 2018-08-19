@@ -225,6 +225,14 @@ detection coils which are placed inside the pipe.Any changes in the wall thickne
  - Method: This method is based on the detection of abnormalities in temperature of the soil around the pipe caused by the leakage of the medium being transferred by the pipe.In these systems a sensitive thermal imaging camera is used to capture the thermal profile of the soil and detect the local abnormalities.
  - Disadvantage
    - The performance of thermography based methods highly depends on a variety of conditions 
+##### 2.3.4 Physical methods
+- impact echo pipeline inspection 
+ - Method: be based on generating controlled impact acoustic waves and measuring the propagated waves via geophones attached to the pipe wall. 
+ - Disadvantage
+   - the pipe needs to be dewatered and the internal surface of the pipes needs to be cleaned
+- Tracer gas leak detection of pipes
+ - Method: In the case of a defective pipe the gas will leak out from the pipe and travel upwards (due to its low density) through the ground and reach the soil surface. The marker gas can then be detected on the surface by sensitive gas detectors.
+ - Disadvantage: high direct and indirect cost 
 #### 2.4 Wireless underground sensor networks for pipeline monitoring
 
 
