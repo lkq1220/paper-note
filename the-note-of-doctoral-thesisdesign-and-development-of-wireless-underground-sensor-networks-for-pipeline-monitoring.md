@@ -155,7 +155,7 @@ The main purpose of NDE methods is to evaluate the deterioration stage of the pi
   * Acoustic correlators
   * SAHARA technique（Synthetic Aperture High Altitude Radar 综合孔径高空雷达）
 * electromagnetic（电子）
-  * Remote field inspection（远距离实地监测）
+  * The Remote Field Eddy Current (RFEC) technique （远场涡流技术）
   * Magnetic flux leakage（漏磁）
   * Cround penetrating radar （探地雷达）
 * ultra spectrum（超光谱）
@@ -180,9 +180,20 @@ The main purpose of NDE methods is to evaluate the deterioration stage of the pi
 The frequency and magnitude of these signals depend on pipe pressure, leak diameter and type of fluid inside the pipe. These signals are detected by hydrophones\(水诊器\) or accelerometers（加速度计） placed at fixed location along the pipe.The location of the leak can then be calculated by cross-correlation methods applied on the signals measured by sensors at different locations.  
 ![](/assets/doctor5.jpg)  
 Disadvantage：
-
 * requires a high sampling rate \(&gt;1KHz\),which makes the system consumes more power
 * be suited for metallic pipes, detection of vibrations in plastic pipes could be challenging  due to the higher attenuation of acoustic waves
+
+The SAHARA method is based on the detection of acoustic emission from the leaks. In the SAHARA method the hydrophone is inserted into the pipe with an umbilical cord via a conventional 50mm tap and records the acoustic signal as it travels through the pipe.
+![](/assets/doctor6.jpg)
+Disadvantage：
+* need to travel through the pipe which jeopardises safety of the water supplies
+* limited by the diameter of the pipes in which it can effectively operate (>300mm)
+
+#####2.3.2 Electromagnetic based methods
+- Ground Penetrating Radar (GPR)
+- Magnetic Flux Leakage (MFL)
+- 
+
 
 #### 2.4 Wireless underground sensor networks for pipeline monitoring
 
