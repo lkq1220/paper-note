@@ -117,6 +117,18 @@ Failures in a pipe cause loss of the medium being transported by the pipe. Makar
 The total cost of failure management for water pipeline networks depends on the cost of the method used for condition assessment and leak detection.It is economical to use expensive leak detection and condition assessment techniques for water pipeline in order to detect failures.
 #### 2.3 Pipeline condition assessment and failure monitoring systems
 Failure management strategies can be divided into two main categories of passive and active techniques. In passive techniques the failure is identified based on consumer complaints (low pressure and discoloured water) or reports of water on the surface, while active techniques are intended to detect the failure before it reaches the stage in which it can be detected by passive techniques.
+Active failure management techniques are commonly referred to as Non-Destructive Testing(NDT).
+- Non-Destructive Inspection (NDI) methods
+- Non-Destructive Evaluation (NDE) methods
+The main purpose of NDE methods is to evaluate the deterioration stage of the pipe without causing damage or affecting its properties. 
+- acoustic
+- electromagnetic
+- ultra spectrum
+- physical
+- fibre optic 
+- visual
+- multi-sensor systems
+
 #### 2.4 Wireless underground sensor networks for pipeline monitoring
 
 
