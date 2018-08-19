@@ -123,27 +123,27 @@ Active failure management techniques are commonly referred to as Non-Destructive
 The main purpose of NDE methods is to evaluate the deterioration stage of the pipe without causing damage or affecting its properties. 
 - acoustic（声学）
  - Acoustic correlators
- - SAHARA technique
+ - SAHARA technique（Synthetic Aperture High Altitude Radar 综合孔径高空雷达）
 - electromagnetic（电子）
- - Remote field inspection
- - Magnetic flux leakage
- - Cround penetrating radar 
+ - Remote field inspection（远距离实地监测）
+ - Magnetic flux leakage（漏磁）
+ - Cround penetrating radar （探地雷达）
 - ultra spectrum（超光谱）
- - Ultrasonic
- - Infrared thermography
+ - Ultrasonic（超声）
+ - Infrared thermography（红外热成像）
 - physical(物理)
- - impact Echo
- - Tracer gas
+ - impact Echo（冲击回声）
+ - Tracer gas （示踪气体）
 - fibre optic （光纤）
- - local fibre optic sensor 
- - Quasi-distributaed fibre optic sensor
- - Didtributed fibre optic sensor
+ - local fibre optic sensor （本地光纤传感器）
+ - Quasi-distributed fibre optic sensor（准分布式光纤传感器）
+ - Distributed fibre optic sensor （分布式光纤传感器）
 - visual（视觉）
- - CCTV inspection
- - Laser based scanning
+ - CCTV inspection （闭路监控系统）
+ - Laser based scanning（激光扫描）
 - multi-sensor systems（多传感器系统）
- - Samrt pipe inspection gauges(PIGS)
- - Multi sensor underground wireless sensor network 
+ - Samrt pipe inspection gauges(PIGS)（智能管道检验）
+ - Multi sensor underground wireless sensor network （多传感器地下无线传感网络） 
  
 
 #### 2.4 Wireless underground sensor networks for pipeline monitoring
