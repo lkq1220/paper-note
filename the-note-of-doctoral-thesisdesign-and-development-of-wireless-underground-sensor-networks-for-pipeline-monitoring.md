@@ -213,6 +213,16 @@ detection coils which are placed inside the pipe.Any changes in the wall thickne
    - limited information in the literature assesses the reliability of this method 
 
 #### 2.3.3 Ultra spectrum based methods
+- Ultrasonic methods
+ - Method: As the sound wave travels through different materials it is reflected and scattered based on their densitiesTuberculation of metallic pipes will cause the signal to be scattered and therefore can be detected easily by this method. 
+ 
+ ![](/assets/doctor9.jpg)
+ - Disadvantage
+   - be mostly suited to metallic pipes due to the higher attenuation of the waves in the plastic pipes
+   -  the effectiveness of the systems is lost when defects in the pipe are small due to the magnitude of their reflections is smaller than noise bed of the system
+   - Multiple overlapping reflections from similar features can also limit the effectiveness of this technique
+- Infrared thermography 
+
 
 #### 2.4 Wireless underground sensor networks for pipeline monitoring
 
