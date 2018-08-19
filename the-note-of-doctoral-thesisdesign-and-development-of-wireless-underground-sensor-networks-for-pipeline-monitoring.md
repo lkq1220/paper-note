@@ -203,7 +203,10 @@ Disadvantage：
    - unsuitable for older water pipes due to their tubercular interior surface
    - the potential damage to the lining of the pipe by the contacts used in these system 
 - The Remote Field Eddy Current (RFEC)
-
+ - Method: based on diffusion measurements of a low frequency electromagnetic signal at the
+remote field zone travelling through the pipe wall.This system consists of excitation and
+detection coils which are placed inside the pipe.Any changes in the wall thickness of the pipe shows itself as a change in the measured signal at the detector coils.
+![](/assets/doctor8.jpg)
 
 #### 2.4 Wireless underground sensor networks for pipeline monitoring
 
