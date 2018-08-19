@@ -222,6 +222,9 @@ detection coils which are placed inside the pipe.Any changes in the wall thickne
    -  the effectiveness of the systems is lost when defects in the pipe are small due to the magnitude of their reflections is smaller than noise bed of the system
    - Multiple overlapping reflections from similar features can also limit the effectiveness of this technique
 - Infrared thermography 
+ - Method: This method is based on the detection of abnormalities in temperature of the soil around the pipe caused by the leakage of the medium being transferred by the pipe.In these systems a sensitive thermal imaging camera is used to capture the thermal profile of the soil and detect the local abnormalities.
+ - Disadvantage
+   - The performance of thermography based methods highly depends on a variety of conditions 
 
 
 #### 2.4 Wireless underground sensor networks for pipeline monitoring
