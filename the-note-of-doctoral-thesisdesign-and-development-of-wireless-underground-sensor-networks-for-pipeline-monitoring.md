@@ -147,7 +147,7 @@ The main purpose of NDE methods is to evaluate the deterioration stage of the pi
  - Multi sensor underground wireless sensor network （多传感器地下无线传感网络） 
 
 #####2.3.1 Acoustic based methods
-The frequency and magnitude of these signals depend on pipe pressure, leak diameter and type of fluid inside the pipe. These signals are detected by hydrophones or accelerometers placed at fixed location along the pipe.
+The frequency and magnitude of these signals depend on pipe pressure, leak diameter and type of fluid inside the pipe. These signals are detected by hydrophones(水诊器) or accelerometers（加速度计） placed at fixed location along the pipe.The location of the leak can then be calculated by cross-correlation methods applied on the signals measured by sensors at different locations.
 
 #### 2.4 Wireless underground sensor networks for pipeline monitoring
 
