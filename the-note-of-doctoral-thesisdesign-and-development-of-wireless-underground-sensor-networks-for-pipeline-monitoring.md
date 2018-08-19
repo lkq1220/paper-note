@@ -120,6 +120,7 @@ Failure management strategies can be divided into two main categories of passive
 Active failure management techniques are commonly referred to as Non-Destructive Testing(NDT).
 - Non-Destructive Inspection (NDI) methods
 - Non-Destructive Evaluation (NDE) methods
+
 The main purpose of NDE methods is to evaluate the deterioration stage of the pipe without causing damage or affecting its properties. 
 - acoustic（声学）
  - Acoustic correlators
