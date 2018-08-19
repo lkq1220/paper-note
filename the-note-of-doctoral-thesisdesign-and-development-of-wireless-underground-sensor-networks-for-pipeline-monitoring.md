@@ -258,6 +258,9 @@ The main purpose of NDE methods is to evaluate the deterioration stage of the pi
   * Method: In the case of a defective pipe the gas will leak out from the pipe and travel upwards \(due to its low density\) through the ground and reach the soil surface. The marker gas can then be detected on the surface by sensitive gas detectors.
   * Disadvantage: high direct and indirect cost 
 
+##### 2.3.5 Fibre optic based methods
+
+
 #### 2.4 Wireless underground sensor networks for pipeline monitoring
 
 
