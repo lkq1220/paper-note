@@ -176,21 +176,22 @@ The main purpose of NDE methods is to evaluate the deterioration stage of the pi
   * Multi sensor underground wireless sensor network （多传感器地下无线传感网络） 
 
 ##### 2.3.1 Acoustic based methods
-
-The frequency and magnitude of these signals depend on pipe pressure, leak diameter and type of fluid inside the pipe. These signals are detected by hydrophones\(水诊器\) or accelerometers（加速度计） placed at fixed location along the pipe.The location of the leak can then be calculated by cross-correlation methods applied on the signals measured by sensors at different locations.  
+- Acoustic 
+ - Method: The frequency and magnitude of these signals depend on pipe pressure, leak diameter and type of fluid inside the pipe. These signals are detected by hydrophones\(水诊器\) or accelerometers（加速度计） placed at fixed location along the pipe.The location of the leak can then be calculated by cross-correlation methods applied on the signals measured by sensors at different locations.  
 ![](/assets/doctor5.jpg) 
-###### 
-Disadvantage：
+###### Figure4 Schematic of an acoustic cross correlation leak detection system
+ - Disadvantage：
+   * requires a high sampling rate \(&gt;1KHz\),which makes the system consumes more power
+   * be suited for metallic pipes, detection of vibrations in plastic pipes could be challenging  due to the higher attenuation of acoustic waves
 
-* requires a high sampling rate \(&gt;1KHz\),which makes the system consumes more power
-* be suited for metallic pipes, detection of vibrations in plastic pipes could be challenging  due to the higher attenuation of acoustic waves
-
-The SAHARA method is based on the detection of acoustic emission from the leaks. In the SAHARA method the hydrophone is inserted into the pipe with an umbilical cord via a conventional 50mm tap and records the acoustic signal as it travels through the pipe.  
-![](/assets/doctor6.jpg)  
-Disadvantage：
-
-* need to travel through the pipe which jeopardises safety of the water supplies
-* limited by the diameter of the pipes in which it can effectively operate \(&gt;300mm\)
+- The SAHARA method 
+ - Method: be based on the detection of acoustic emission from the leaks. In the SAHARA method the hydrophone is inserted into the pipe with an umbilical cord via a conventional 50mm tap and records the acoustic signal as it travels through the pipe.  
+ 
+   ![](/assets/doctor6.jpg)  
+   ###### Figure5 SAHARA method and its components
+ - Disadvantage：
+   * need to travel through the pipe which jeopardises safety of the water supplies
+   * limited by the diameter of the pipes in which it can effectively operate \(&gt;300mm\)
 
 ##### 2.3.2 Electromagnetic based methods
 
@@ -203,6 +204,7 @@ Disadvantage：
 * Magnetic Flux Leakage \(MFL\)
   * Method: this method only suitable for clean steel pipes without interior lining.The pipe wall is magnetised using strong permanent magnets. A fault in the pipe will cause a magnetic flux leakage at the point of defect which can be detected by sensors.
     ![](/assets/doctor7.jpg)
+    ###### Figure6 Schematic of the principal of Magnetic Flux Leakage (MFL) method
   * Disadvantage
     * unsuitable for older water pipes due to their tubercular interior surface
     * the potential damage to the lining of the pipe by the contacts used in these system 
@@ -213,7 +215,7 @@ Disadvantage：
     detection coils which are placed inside the pipe.Any changes in the wall thickness of the pipe shows itself as a change in the measured signal at the detector coils.
 
     ![](/assets/doctor8.jpg)
-
+    ###### Figure7  Schematic of the principles of the remote field eddy current measurement method
   * Disadvantage
     * only be used with ferromagnetic pipes or pipe with ferromagnetic components 
     * limited information in the literature assesses the reliability of this method 
@@ -225,7 +227,7 @@ Disadvantage：
   * Method: As the sound wave travels through different materials it is reflected and scattered based on their densitiesTuberculation of metallic pipes will cause the signal to be scattered and therefore can be detected easily by this method. 
 
   ![](/assets/doctor9.jpg)
-
+  ###### Figure8 Schematic of the ultrasonic pipe inspection method
   * Disadvantage
     * be mostly suited to metallic pipes due to the higher attenuation of the waves in the plastic pipes
     * the effectiveness of the systems is lost when defects in the pipe are small due to the magnitude of their reflections is smaller than noise bed of the system
