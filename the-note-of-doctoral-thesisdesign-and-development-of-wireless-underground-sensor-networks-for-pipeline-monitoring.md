@@ -209,8 +209,11 @@ detection coils which are placed inside the pipe.Any changes in the wall thickne
 
    ![](/assets/doctor8.jpg)
  - Disadvantage
-  - only be used with ferromagnetic pipes or pipe with ferromagnetic components 
-  - limited information in the literature assesses the reliability of this method 
+   - only be used with ferromagnetic pipes or pipe with ferromagnetic components 
+   - limited information in the literature assesses the reliability of this method 
+
+#### 2.3.3 Ultra spectrum based methods
+
 #### 2.4 Wireless underground sensor networks for pipeline monitoring
 
 
