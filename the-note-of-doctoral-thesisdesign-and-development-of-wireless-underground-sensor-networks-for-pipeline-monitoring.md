@@ -191,7 +191,13 @@ Disadvantage：
 
 #####2.3.2 Electromagnetic based methods
 - Ground Penetrating Radar (GPR)
+  - Method：Leaks in pipes are detected by GPR via detection of voids created by leaking water in the ground or abnormalities in the measured depth of the pipe due change of the soil attenuation due to change in local water content of soil 
+  - Disadvantage
+   - limited in more attenuative soils or deep assets due to a reduction in penetration depth of the signals
+   - a skilled operator
+   -  require another form of verification to distinguish similar assets (water and gas pipes) due to the similar GPR signature of these assets
 - Magnetic Flux Leakage (MFL)
+ -  Method: this method only suitable for clean steel pipes without interior lining.The pipe wall is magnetised using strong permanent magnets. A fault in the pipe will cause a magnetic flux leakage at the point of defect which can be detected by sensors
 - The Remote Field Eddy Current (RFEC)
 
 
