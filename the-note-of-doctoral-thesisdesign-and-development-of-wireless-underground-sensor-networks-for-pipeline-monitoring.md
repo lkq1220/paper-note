@@ -145,7 +145,9 @@ The main purpose of NDE methods is to evaluate the deterioration stage of the pi
 - multi-sensor systems（多传感器系统）
  - Samrt pipe inspection gauges(PIGS)（智能管道检验）
  - Multi sensor underground wireless sensor network （多传感器地下无线传感网络） 
- 
+
+#####2.3.1 Acoustic based methods
+The frequency and magnitude of these signals depend on pipe pressure, leak diameter and type of fluid inside the pipe. These signals are detected by hydrophones or accelerometers placed at fixed location along the pipe.
 
 #### 2.4 Wireless underground sensor networks for pipeline monitoring
 
