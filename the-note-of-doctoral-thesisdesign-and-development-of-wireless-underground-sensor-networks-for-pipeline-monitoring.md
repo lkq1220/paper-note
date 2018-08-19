@@ -137,7 +137,7 @@ water pipes are exposed to harsh environmental and operational conditions which 
 Failures in a pipe cause loss of the medium being transported by the pipe. Makar and Kleiner \(2000\) and Rajani and Kleiner \(2004\) divided the losses associated with a pipe failure in a water pipeline into three main categories of direct, indirect and social costs.  
 ![](/assets/doctor3.jpg)
 
-##### Figure3  Categories of water pipe failure cost to asset owners
+###### Figure3  Categories of water pipe failure cost to asset owners
 
 The total cost of failure management for water pipeline networks depends on the cost of the method used for condition assessment and leak detection.It is economical to use expensive leak detection and condition assessment techniques for water pipeline in order to detect failures.
 
@@ -178,7 +178,8 @@ The main purpose of NDE methods is to evaluate the deterioration stage of the pi
 ##### 2.3.1 Acoustic based methods
 
 The frequency and magnitude of these signals depend on pipe pressure, leak diameter and type of fluid inside the pipe. These signals are detected by hydrophones\(水诊器\) or accelerometers（加速度计） placed at fixed location along the pipe.The location of the leak can then be calculated by cross-correlation methods applied on the signals measured by sensors at different locations.  
-![](/assets/doctor5.jpg)  
+![](/assets/doctor5.jpg) 
+###### 
 Disadvantage：
 
 * requires a high sampling rate \(&gt;1KHz\),which makes the system consumes more power
@@ -217,7 +218,7 @@ Disadvantage：
     * only be used with ferromagnetic pipes or pipe with ferromagnetic components 
     * limited information in the literature assesses the reliability of this method 
 
-#### 2.3.3 Ultra spectrum based methods
+##### 2.3.3 Ultra spectrum based methods
 
 * Ultrasonic methods
 
@@ -234,7 +235,8 @@ Disadvantage：
   * Method: This method is based on the detection of abnormalities in temperature of the soil around the pipe caused by the leakage of the medium being transferred by the pipe.In these systems a sensitive thermal imaging camera is used to capture the thermal profile of the soil and detect the local abnormalities.
   * Disadvantage
     * The performance of thermography based methods highly depends on a variety of conditions 
-      ##### 2.3.4 Physical methods
+
+##### 2.3.4 Physical methods
 * impact echo pipeline inspection 
   * Method: be based on generating controlled impact acoustic waves and measuring the propagated waves via geophones attached to the pipe wall. 
   * Disadvantage
@@ -242,7 +244,8 @@ Disadvantage：
 * Tracer gas leak detection of pipes
   * Method: In the case of a defective pipe the gas will leak out from the pipe and travel upwards \(due to its low density\) through the ground and reach the soil surface. The marker gas can then be detected on the surface by sensitive gas detectors.
   * Disadvantage: high direct and indirect cost 
-    #### 2.4 Wireless underground sensor networks for pipeline monitoring
+
+#### 2.4 Wireless underground sensor networks for pipeline monitoring
 
 
 
