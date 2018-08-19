@@ -155,7 +155,7 @@ The main purpose of NDE methods is to evaluate the deterioration stage of the pi
   * Acoustic correlators
   * SAHARA technique（Synthetic Aperture High Altitude Radar 综合孔径高空雷达）
 * electromagnetic（电子）
-  * The Remote Field Eddy Current (RFEC) technique （远场涡流技术）
+  * The Remote Field Eddy Current \(RFEC\) technique （远场涡流技术）
   * Magnetic flux leakage（漏磁）
   * Cround penetrating radar （探地雷达）
 * ultra spectrum（超光谱）
@@ -180,60 +180,69 @@ The main purpose of NDE methods is to evaluate the deterioration stage of the pi
 The frequency and magnitude of these signals depend on pipe pressure, leak diameter and type of fluid inside the pipe. These signals are detected by hydrophones\(水诊器\) or accelerometers（加速度计） placed at fixed location along the pipe.The location of the leak can then be calculated by cross-correlation methods applied on the signals measured by sensors at different locations.  
 ![](/assets/doctor5.jpg)  
 Disadvantage：
+
 * requires a high sampling rate \(&gt;1KHz\),which makes the system consumes more power
 * be suited for metallic pipes, detection of vibrations in plastic pipes could be challenging  due to the higher attenuation of acoustic waves
 
-The SAHARA method is based on the detection of acoustic emission from the leaks. In the SAHARA method the hydrophone is inserted into the pipe with an umbilical cord via a conventional 50mm tap and records the acoustic signal as it travels through the pipe.
-![](/assets/doctor6.jpg)
+The SAHARA method is based on the detection of acoustic emission from the leaks. In the SAHARA method the hydrophone is inserted into the pipe with an umbilical cord via a conventional 50mm tap and records the acoustic signal as it travels through the pipe.  
+![](/assets/doctor6.jpg)  
 Disadvantage：
+
 * need to travel through the pipe which jeopardises safety of the water supplies
-* limited by the diameter of the pipes in which it can effectively operate (>300mm)
+* limited by the diameter of the pipes in which it can effectively operate \(&gt;300mm\)
 
-#####2.3.2 Electromagnetic based methods
-- Ground Penetrating Radar (GPR)
-  - Method：Leaks in pipes are detected by GPR via detection of voids created by leaking water in the ground or abnormalities in the measured depth of the pipe due change of the soil attenuation due to change in local water content of soil 
-  - Disadvantage
-   - limited in more attenuative soils or deep assets due to a reduction in penetration depth of the signals
-   - a skilled operator
-   -  require another form of verification to distinguish similar assets (water and gas pipes) due to the similar GPR signature of these assets
-- Magnetic Flux Leakage (MFL)
- -  Method: this method only suitable for clean steel pipes without interior lining.The pipe wall is magnetised using strong permanent magnets. A fault in the pipe will cause a magnetic flux leakage at the point of defect which can be detected by sensors.
- ![](/assets/doctor7.jpg)
- - Disadvantage
-   - unsuitable for older water pipes due to their tubercular interior surface
-   - the potential damage to the lining of the pipe by the contacts used in these system 
-- The Remote Field Eddy Current (RFEC)
- - Method: based on diffusion measurements of a low frequency electromagnetic signal at the
-remote field zone travelling through the pipe wall.This system consists of excitation and
-detection coils which are placed inside the pipe.Any changes in the wall thickness of the pipe shows itself as a change in the measured signal at the detector coils.
+##### 2.3.2 Electromagnetic based methods
 
-   ![](/assets/doctor8.jpg)
- - Disadvantage
-   - only be used with ferromagnetic pipes or pipe with ferromagnetic components 
-   - limited information in the literature assesses the reliability of this method 
+* Ground Penetrating Radar \(GPR\)
+  * Method：Leaks in pipes are detected by GPR via detection of voids created by leaking water in the ground or abnormalities in the measured depth of the pipe due change of the soil attenuation due to change in local water content of soil 
+  * Disadvantage
+    * limited in more attenuative soils or deep assets due to a reduction in penetration depth of the signals
+    * a skilled operator
+    * require another form of verification to distinguish similar assets \(water and gas pipes\) due to the similar GPR signature of these assets
+* Magnetic Flux Leakage \(MFL\)
+  * Method: this method only suitable for clean steel pipes without interior lining.The pipe wall is magnetised using strong permanent magnets. A fault in the pipe will cause a magnetic flux leakage at the point of defect which can be detected by sensors.
+    ![](/assets/doctor7.jpg)
+  * Disadvantage
+    * unsuitable for older water pipes due to their tubercular interior surface
+    * the potential damage to the lining of the pipe by the contacts used in these system 
+* The Remote Field Eddy Current \(RFEC\)
+
+  * Method: based on diffusion measurements of a low frequency electromagnetic signal at the  
+    remote field zone travelling through the pipe wall.This system consists of excitation and  
+    detection coils which are placed inside the pipe.Any changes in the wall thickness of the pipe shows itself as a change in the measured signal at the detector coils.
+
+    ![](/assets/doctor8.jpg)
+
+  * Disadvantage
+    * only be used with ferromagnetic pipes or pipe with ferromagnetic components 
+    * limited information in the literature assesses the reliability of this method 
 
 #### 2.3.3 Ultra spectrum based methods
-- Ultrasonic methods
- - Method: As the sound wave travels through different materials it is reflected and scattered based on their densitiesTuberculation of metallic pipes will cause the signal to be scattered and therefore can be detected easily by this method. 
- 
- ![](/assets/doctor9.jpg)
- - Disadvantage
-   - be mostly suited to metallic pipes due to the higher attenuation of the waves in the plastic pipes
-   -  the effectiveness of the systems is lost when defects in the pipe are small due to the magnitude of their reflections is smaller than noise bed of the system
-   - Multiple overlapping reflections from similar features can also limit the effectiveness of this technique
-- Infrared thermography 
- - Method: This method is based on the detection of abnormalities in temperature of the soil around the pipe caused by the leakage of the medium being transferred by the pipe.In these systems a sensitive thermal imaging camera is used to capture the thermal profile of the soil and detect the local abnormalities.
- - Disadvantage
-   - The performance of thermography based methods highly depends on a variety of conditions 
-##### 2.3.4 Physical methods
-- impact echo pipeline inspection 
- - Method: be based on generating controlled impact acoustic waves and measuring the propagated waves via geophones attached to the pipe wall. 
- - Disadvantage
-   - the pipe needs to be dewatered and the internal surface of the pipes needs to be cleaned
-- Tracer gas leak detection of pipes
- - Method: In the case of a defective pipe the gas will leak out from the pipe and travel upwards (due to its low density) through the ground and reach the soil surface. The marker gas can then be detected on the surface by sensitive gas detectors.
- - Disadvantage: high direct and indirect cost 
-#### 2.4 Wireless underground sensor networks for pipeline monitoring
+
+* Ultrasonic methods
+
+  * Method: As the sound wave travels through different materials it is reflected and scattered based on their densitiesTuberculation of metallic pipes will cause the signal to be scattered and therefore can be detected easily by this method. 
+
+  ![](/assets/doctor9.jpg)
+
+  * Disadvantage
+    * be mostly suited to metallic pipes due to the higher attenuation of the waves in the plastic pipes
+    * the effectiveness of the systems is lost when defects in the pipe are small due to the magnitude of their reflections is smaller than noise bed of the system
+    * Multiple overlapping reflections from similar features can also limit the effectiveness of this technique
+
+* Infrared thermography 
+  * Method: This method is based on the detection of abnormalities in temperature of the soil around the pipe caused by the leakage of the medium being transferred by the pipe.In these systems a sensitive thermal imaging camera is used to capture the thermal profile of the soil and detect the local abnormalities.
+  * Disadvantage
+    * The performance of thermography based methods highly depends on a variety of conditions 
+      ##### 2.3.4 Physical methods
+* impact echo pipeline inspection 
+  * Method: be based on generating controlled impact acoustic waves and measuring the propagated waves via geophones attached to the pipe wall. 
+  * Disadvantage
+    * the pipe needs to be dewatered and the internal surface of the pipes needs to be cleaned
+* Tracer gas leak detection of pipes
+  * Method: In the case of a defective pipe the gas will leak out from the pipe and travel upwards \(due to its low density\) through the ground and reach the soil surface. The marker gas can then be detected on the surface by sensitive gas detectors.
+  * Disadvantage: high direct and indirect cost 
+    #### 2.4 Wireless underground sensor networks for pipeline monitoring
 
 
 
