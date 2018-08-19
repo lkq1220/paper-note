@@ -197,7 +197,7 @@ Disadvantage：
    - a skilled operator
    -  require another form of verification to distinguish similar assets (water and gas pipes) due to the similar GPR signature of these assets
 - Magnetic Flux Leakage (MFL)
- -  Method: this method only suitable for clean steel pipes without interior lining.The pipe wall is magnetised using strong permanent magnets. A fault in the pipe will cause a magnetic flux leakage at the point of defect which can be detected by sensors
+ -  Method: this method only suitable for clean steel pipes without interior lining.The pipe wall is magnetised using strong permanent magnets. A fault in the pipe will cause a magnetic flux leakage at the point of defect which can be detected by sensors.
 - The Remote Field Eddy Current (RFEC)
 
 
