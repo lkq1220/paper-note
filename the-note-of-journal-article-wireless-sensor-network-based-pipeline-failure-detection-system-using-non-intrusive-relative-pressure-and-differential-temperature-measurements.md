@@ -100,7 +100,17 @@ Figure 8 and Figure 9show the daily range of the relative pressure and theabsolu
 ###### Figure 8. Daily range of the relative pressure
 ![](/assets/8209.jpg)
 ###### Figure 9. Absolute daily range of the temperature differential
- A fixed or adaptive thresholds could be used to flag abnormal events in the pipe.And learning algorithms could be trained using the processed data for each network based on the operational characteristics of that network which can potentially provide better accuracy in detection of pipe failure events.
+A fixed or adaptive thresholds could be used to flag abnormal events in the pipe.And learning algorithms could be trained using the processed data for each network based on the operational characteristics of that network which can potentially provide better accuracy in detection of pipe failure events.
+ - Learning Algorithms Method
+   - 线性回归
+   - k-means
+   - SVM
+   - neural network
+
+### 5. Conclusions
+- ##### A FSR based relative pressure sensor
+- ##### A wireless sensor node
+- ##### Detection of pipe failures using non-intrusive relative pressure and differential temperature measurements was successfully able to detect the induced leak events
 
 
 
