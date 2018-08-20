@@ -73,4 +73,9 @@ the proposed sensor in its current form is more suited for use on plastic pipes.
 The FSR based relative pressure sensors were deployed on plastic and metallic pipes at an industrial leak test facility to investigate their performance.Figure 4 shows the setup of the sensors deployed in these trials.
 ![](/assets/8204.jpg)
 ###### Figure 4.  Setup of the sensors on the plastic pipe
+Ultra low power wireless sensor nodes were also deployed during these trials.A 1W solar panel was also placed on the top of the post in order to charge the battery.The nodes were connected to the sensors attached tothe pipe under the ground via a multicore twisted pair cable.These measurements were transmitted wirelessly to a mother node,which was placed inside a building close to the nodes.The sensors were monitored for a period of approximately 6 months.Figure 5 illustrates the schematic of the setup of the node and the sensors attached to the pipe.
+![](/assets/8205.jpg)
+###### Figure 5. Schematic of the sensors and the nodes
+
+
 
