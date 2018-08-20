@@ -85,7 +85,6 @@ Figure 7 illustrates relative pressure and calculated absolute temperature diffe
 - ##### why:
   - Sudden change in the temperature of the pipe wall was caused by the sudden increase in flow
   - Poor thermal conductivity of the soil this change in temperature 
-
 ![](/assets/8207.jpg)
 ###### Figure 7. Temperature differential and relative pressure readings for a period of 5 day
 
