@@ -70,4 +70,7 @@ the proposed sensor in its current form is more suited for use on plastic pipes.
   - Propose: Temperature differential between the pipe wall and the surrounding soil can be potentially used as an indicator of sudden changes in the flow within the pipe.
 
 #### 3. Test Setup
+The FSR based relative pressure sensors were deployed on plastic and metallic pipes at an industrial leak test facility to investigate their performance.Figure 4 shows the setup of the sensors deployed in these trials.
+![](/assets/8204.jpg)
+###### Figure 4.  Setup of the sensors on the plastic pipe
 
