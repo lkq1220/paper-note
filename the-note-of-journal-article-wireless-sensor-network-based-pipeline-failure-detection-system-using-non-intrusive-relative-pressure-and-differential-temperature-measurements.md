@@ -82,14 +82,19 @@ Figure 6 shows a 20 day period of the data collected by one of the nodes install
 ![](/assets/8206.jpg)
 ###### Figure 6. Relative pressure and temperature readings for a period of 20 days associated with the plastic pipe
 Figure 7 illustrates relative pressure and calculated absolute temperature differential(between pipe and soil) for a 6 day period where, during the first three days and the last day, valve training was carried out at the test facility.The drop in the temperature of the pipe wall was not present in the temperature readings from the sensors placed within the soil adjacent to the pipe, leading to an abnormality in the temperature differential as seen in Figure 7. 
+![](/assets/8207.jpg)
+###### Figure 7. Temperature differential and relative pressure readings for a period of 5 day
 - ##### why:
   - Sudden change in the temperature of the pipe wall was caused by the sudden increase in flow
   - Poor thermal conductivity of the soil this change in temperature 
-![](/assets/8207.jpg)
-###### Figure 7. Temperature differential and relative pressure readings for a period of 5 day
 - ##### Test Conclusion
   - the relative pressure readings in combination with temperature differentials to be used for the detection of pipe failures and to differentiate them from normal variations
   - Advantage: This removes the need for time consuming and costly precision calibration processes
+- ##### My opinion
+  - 由于土壤的热导热性较差，故本次实验的相对温度变得并不是很有意义，变成单方面的管壁温度下降。
+  - 如果出现真正的泄漏，应该会有水渗出，导致土壤含水量变化，进而导致土壤温度下降，这时模拟较为有意义。
+  - 但是如果出现土壤温度下降，管壁温度也下降，则相对温度就与平常的相对温度差别不大（需进一步验证）
+
 
 
 
