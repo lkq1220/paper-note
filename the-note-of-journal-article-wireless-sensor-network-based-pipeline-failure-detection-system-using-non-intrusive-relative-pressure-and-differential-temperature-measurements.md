@@ -2,6 +2,7 @@
 
 #### 0. Abstract
 This paper describes the operation of a proposed non-intrusive relative pressure sensor, based on utilising low cost Force Sensitive Resistors (FSR). The paper also presents a novel method for detecting abnormal flow in pipes based on monitoring of the temperature differential between the pipe wall and its surroundings. The results showed that the calculated temperature differentials can be successfully used to detect abnormalities in the flow.
+
 It is postulated that the differential temperature measurements in combination with relative pressure readings can be used to differentiate abnormal pressure drops caused by pipe failure from normal systematic or daily pressure variations.
 
 #### 1. Introduction
@@ -28,12 +29,19 @@ It is postulated that the differential temperature measurements in combination w
 
 #### 2. Theory of operation
 As the internal pressure of a pipe changes the internal stress applied to the pipe wall will also change,the proposed sensing system indirectly uses this change in the radius to detect the changes of the internal pressure of the pipe.
+
 The proposed relative pressure sensor assembly is composed of a stainless steel clip.As the change in the contact force is caused by the change in the internal pressure of the pipe the output of the FSR sensor can be related to the change in the pressure of the pipe.
 ![](/assets/8201.jpg)
 ###### Figure1 Schematic of the relative pressure sensor assembly
 Equation 1 can be used to estimate the contact pressure PC between the pipe and the clip.
+
 $$
 Pc=  (P.r_p^2.E_j.t_j)/((r_p^2.E_j.t_j)+(r_j^2.E_p.t_p))------Equation 1
 $$
+
+Where $$P$$ is the internal pressure in the pipe; $$r_j$$and $$r_p$$ are the radii of the clip and the pipe; $$E_j$$ and $$E_p$$ are the respective material Young’s modulii of elasticity of the clip and pipe and $$t_j$$ and $$t_p$$ are the thickness of the clip and pipe respectively. 
+
+Figure 2 and Figure 3 show the effect of pipe geometry on the applied contact pressure on the sensor for medium density polyethylene (MDPE) and cast iron pipes (at 1 kPa) respectively.
+![](/assets/8202.jpg)
 
 
