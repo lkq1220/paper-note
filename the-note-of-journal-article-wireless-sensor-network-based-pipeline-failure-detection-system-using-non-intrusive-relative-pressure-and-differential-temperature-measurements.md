@@ -25,3 +25,10 @@ It is postulated that the differential temperature measurements in combination w
 - ##### the core of introduction 
   - a novel nonintrusive relative pressure sensor based on utilising low cost Force Sensitive Resistors
   - monitoring the temperature difference between the pipe wall and its surroundings and relative pressure sensors in order to detect pipe failure
+
+#### 2. Theory of operation
+As the internal pressure of a pipe changes the internal stress applied to the pipe wall will also change,the proposed sensing system indirectly uses this change in the radius to detect the changes of the internal pressure of the pipe.
+The proposed relative pressure sensor assembly is composed of a stainless steel clip.As the change in the contact force is caused by the change in the internal pressure of the pipe the output of the FSR sensor can be related to the change in the pressure of the pipe.
+![](/assets/8201.jpg)
+###### Figure1 Schematic of the relative pressure sensor assembly
+Equation 1 can be used to estimate the contact pressure PC between the pipe and the clip.
