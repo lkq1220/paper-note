@@ -61,5 +61,13 @@ It is postulated that the differential temperature measurements in combination w
 ![](/assets/8203.jpg)                                                                                            
 ###### Figure 3. Effect of geometry on the applied force for Cast-iron pipes
 
+- ##### FSR Sensor Conclusion
+  - Comparing the effect of the pipe material on the applied force on the sensor indicates that
+the proposed sensor in its current form is more suited for use on plastic pipes.
+  -  the design parameters of the sensor assembly can be modified for metallic pipes
+- ##### Temperature Conclusion
+  - why: A change in the speed of the flow in the pipe results in the change in the residence time of the water in the pipe, which results in the heating/cooling effect of the medium on the pipe wall
+  - Propose: Temperature differential between the pipe wall and the surrounding soil can be potentially used as an indicator of sudden changes in the flow within the pipe.
 
+#### 3. Test Setup
 
