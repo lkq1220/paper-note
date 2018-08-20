@@ -59,7 +59,7 @@ It is postulated that the differential temperature measurements in combination w
 ![](/assets/8202.jpg)
 ###### Figure 2. Effect of geometry on the applied force for MDPE pipes 
 ![](/assets/8203.jpg)                                                                                            
-###### Figure 3. Effect of geometry on the applied force for MDPE pipes
+###### Figure 3. Effect of geometry on the applied force for Cast-iron pipes
 
 
 
