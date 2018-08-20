@@ -32,3 +32,8 @@ The proposed relative pressure sensor assembly is composed of a stainless steel 
 ![](/assets/8201.jpg)
 ###### Figure1 Schematic of the relative pressure sensor assembly
 Equation 1 can be used to estimate the contact pressure PC between the pipe and the clip.
+$$
+Pc=  (P.r_p^2.E_j.t_j)/((r_p^2.E_j.t_j)+(r_j^2.E_p.t_p))------Equation 1
+$$
+
+
