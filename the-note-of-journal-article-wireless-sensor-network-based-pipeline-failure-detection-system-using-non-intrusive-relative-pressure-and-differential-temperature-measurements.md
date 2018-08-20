@@ -110,7 +110,8 @@ A fixed or adaptive thresholds could be used to flag abnormal events in the pipe
 ### 5. Conclusions
 - ##### A FSR based relative pressure sensor
 - ##### A wireless sensor node
-- ##### Detection of pipe failures using non-intrusive relative pressure and differential temperature measurements was successfully able to detect the induced leak events
+- ##### The differential temperature measurements in combination with relative pressure readings can be used to differentiate abnormal pressure drops caused by pipe failure from
+normal systematic or daily pressure variations
 
 
 
