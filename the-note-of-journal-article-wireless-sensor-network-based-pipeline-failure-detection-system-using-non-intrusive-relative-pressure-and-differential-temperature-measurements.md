@@ -49,21 +49,16 @@ It is postulated that the differential temperature measurements in combination w
 * ##### Equation
 
   * Equation 1 can be used to estimate the contact pressure PC between the pipe and the clip.
-
-
-    $$
-    Pc=  (P.r_p^2.E_j.t_j)/((r_p^2.E_j.t_j)+(r_j^2.E_p.t_p))------Equation 1
-    $$
-    Where $$P$$ is the internal pressure in the pipe; $$r\_j$$and $$r\_p$$ are the radii of the clip and the pipe; $$E\_j$$ and $$E\_p$$ are the respective material Young’s modulii of elasticity of the clip and pipe and $$t\_j$$ and $$t\_p$$ are the thickness of the clip and pipe respectively. 
+  $$
+  Pc=  (P.r_p^2.E_j.t_j)/((r_p^2.E_j.t_j)+(r_j^2.E_p.t_p))------Equation 1
+  $$
+  Where $$P$$ is the internal pressure in the pipe; $$r\_j$$and $$r\_p$$ are the radii of the clip and the pipe; $$E\_j$$ and $$E\_p$$ are the respective material Young’s modulii of elasticity of the clip and pipe and $$t\_j$$ and $$t\_p$$ are the thickness of the clip and pipe respectively. 
 
 * ##### the effect of pipe geometry on the applied contact pressure on the sensor 
-
-Figure 2 and Figure 3 show the effect of pipe geometry on the applied contact pressure on the sensor for medium density polyethylene \(MDPE\) and cast iron pipes \(at 1 kPa\) respectively.
-
+ - Figure 2 and Figure 3 show the effect of pipe geometry on the applied contact pressure on the sensor for medium density polyethylene \(MDPE\) and cast iron pipes \(at 1 kPa\) respectively.
 ![](/assets/8202.jpg)
-
-###### Figure 2. Effect of geometry on the applied force for MDPE pipes                                                                            ![](/assets/8203.jpg)
-
+###### Figure 2. Effect of geometry on the applied force for MDPE pipes 
+![](/assets/8203.jpg)                                                                                            
 ###### Figure 3. Effect of geometry on the applied force for MDPE pipes
 
 
