@@ -114,8 +114,7 @@ A fixed or adaptive thresholds could be used to flag abnormal events in the pipe
 ### 5. Conclusions
 - ##### A FSR based relative pressure sensor
 - ##### A wireless sensor node
-- ##### The differential temperature measurements in combination with relative pressure readings can be used to differentiate abnormal pressure drops caused by pipe failure from
-normal systematic or daily pressure variations
+- ##### The differential temperature measurements in combination with relative pressure readings can be used to differentiate abnormal pressure drops caused by pipe failure from normal systematic or daily pressure variations
 
 
 
