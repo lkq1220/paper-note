@@ -95,8 +95,10 @@ Figure 7 illustrates relative pressure and calculated absolute temperature diffe
   - 如果出现真正的泄漏，应该会有水渗出，导致土壤含水量变化，进而导致土壤温度下降，这时模拟较为有意义。
   - 但是如果出现土壤温度下降，管壁温度也下降，则相对温度就与平常的相对温度差别不大（需进一步验证）
 
-Figure 8 and Figure 9show the daily range of the relative pressure and theabsolute daily range of the temperature differential for the 5 day period presented in Figure 7 respectively.
+Figure 8 and Figure 9show the daily range of the relative pressure and theabsolute daily range of the temperature differential for the 5 day period presented in Figure 7 respectively.The dotted lines represents the threshold for detection of abnormality.
+![](/assets/8208.jpg)
 ###### Figure 8. Daily range of the relative pressure
+![](/assets/8209.jpg)
 ###### Figure 9. Absolute daily range of the temperature differential
 
 
