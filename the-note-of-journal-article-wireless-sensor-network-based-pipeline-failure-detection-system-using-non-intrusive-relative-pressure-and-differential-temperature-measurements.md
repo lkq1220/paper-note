@@ -81,7 +81,11 @@ Ultra low power wireless sensor nodes were also deployed during these trials.A 1
 Figure 6 shows a 20 day period of the data collected by one of the nodes installed on the plastic pipe.Figure 6 shows that systematic pressure changes were also registered by the FSR sensors (10th and 16th July).
 ![](/assets/8206.jpg)
 ###### Figure 6. Relative pressure and temperature readings for a period of 20 days associated with the plastic pipe
-Figure 7 illustrates relative pressure and calculated absolute temperature differential(between pipe and soil) for a 6 day period where, during the first three days and the last day, valve training was carried out at the test facility.
+Figure 7 illustrates relative pressure and calculated absolute temperature differential(between pipe and soil) for a 6 day period where, during the first three days and the last day, valve training was carried out at the test facility.The drop in the temperature of the pipe wall was not present in the temperature readings from the sensors placed within the soil adjacent to the pipe, leading to an abnormality in the temperature differential as seen in Figure 7. 
+- ##### why:
+  - Sudden change in the temperature of the pipe wall was caused by the sudden increase in flow
+  - Poor thermal conductivity of the soil this change in temperature 
+
 ![](/assets/8207.jpg)
 ###### Figure 7. Temperature differential and relative pressure readings for a period of 5 day
 
