@@ -87,4 +87,10 @@ Figure 7 illustrates relative pressure and calculated absolute temperature diffe
   - Poor thermal conductivity of the soil this change in temperature 
 ![](/assets/8207.jpg)
 ###### Figure 7. Temperature differential and relative pressure readings for a period of 5 day
+- ##### Test Conclusion
+  - the relative pressure readings in combination with temperature differentials to be used for the detection of pipe failures and to differentiate them from normal variations
+  - Advantage: This removes the need for time consuming and costly precision calibration processes
+
+
+
 
