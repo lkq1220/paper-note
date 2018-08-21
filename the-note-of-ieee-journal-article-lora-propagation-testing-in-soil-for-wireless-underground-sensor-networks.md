@@ -14,12 +14,22 @@ LoRa provides new in-soil propagation means for wireless sensor networks with so
     - structural engineering
     - earth science
   - The Challenge Of WUSN
-    -  WUSNs are immature
+    - WUSNs are immature
     - The in-soil propagation loss of radio signal is key bottleneck for WUSNs 
-    
-- LoRa
+      - the soil type
+      - soil moisture
+      - underground obstructions(refraction and scattering of radio signals)
+- ##### LoRa
+  - LoRa Introduction: which stands for “Long Range” , which is design for Low Power Wide Area Network (LPWAN) specification
+  - LoRa Advantage
+    - chirp spread spectrum modulation(线性调频扩频调制)
+    - immune to the Doppler effect（对多普勒效应免疫）
+    - offer sensitivity of the order of −130 dBm
+    - long propagation distance
+    - energy consumption, long battery-powered life, simple star-of-stars topology,easy configuration and low cost.
+  - LoRa Channel Characteristics
+    - Due to the soil type, the LoRa channel characteristics between nodes in different environments usually show large differences.So the in-soil LoRa channel characteristics and data transmission effect should be obtained by actual measurement.
 
-chirp spread spectrum modulation(线性调频扩频调制)
 immune to the Doppler effect（对多普勒效应免疫）
 
 
