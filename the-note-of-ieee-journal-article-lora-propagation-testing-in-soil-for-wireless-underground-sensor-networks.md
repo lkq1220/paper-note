@@ -1,33 +1,33 @@
-### the note of IEEE journal article 《LoRa Propagation Testing in Soil for Wireless Underground Sensor Networks》
+## the note of IEEE journal article 《LoRa Propagation Testing in Soil for Wireless Underground Sensor Networks》
 
-#### 0. Abstract
+### 0. Abstract
 LoRa provides new in-soil propagation means for wireless sensor networks with some node buried underground.The LoRa propagation characteristics related to volumetric water content, burial depth and payload are experimentally evaluated with the testing node.The test results shows that the packet success rate based LoRa in-soil propagation evaluations can be obtained by the testnode.
 
-#### 1. Introduction
-- ##### WUSN
-  - WUSN Introduction： WUSNs are sensor networks that comprise wireless underground sensor devices, which send and receive data or instructions in the soil
-  - WUSN Application Fields
+### 1. Introduction
+- #### WUSN
+  - ##### WUSN Introduction： WUSNs are sensor networks that comprise wireless underground sensor devices, which send and receive data or instructions in the soil
+  - ##### WUSN Application Fields
     - agriculture
     - accident prevention
     - security
     - transportation
     - structural engineering
     - earth science
-  - The Challenge Of WUSN
+  - ##### The Challenge Of WUSN
     - WUSNs are immature
     - The in-soil propagation loss of radio signal is key bottleneck for WUSNs 
       - the soil type
       - soil moisture
       - underground obstructions(refraction and scattering of radio signals)
-- ##### LoRa
-  - LoRa Introduction: which stands for “Long Range” , which is design for Low Power Wide Area Network (LPWAN) specification
-  - LoRa Advantage
+- #### LoRa
+  - ##### LoRa Introduction: which stands for “Long Range” , which is design for Low Power Wide Area Network (LPWAN) specification
+  - ##### LoRa Advantage
     - chirp spread spectrum modulation(线性调频扩频调制)
     - immune to the Doppler effect（对多普勒效应免疫）
     - offer sensitivity of the order of −130 dBm
     - long propagation distance
     - energy consumption, long battery-powered life, simple star-of-stars topology,easy configuration and low cost.
-  - LoRa Channel Characteristics
-    - Due to the soil type, the LoRa channel characteristics between nodes in different environments usually show large differences.So the in-soil LoRa channel characteristics and data transmission effect should be obtained by actual measurement.
+  - ##### LoRa Channel Characteristics
+    - Due to the soil type, the LoRa channel characteristics between nodes in different environments usually show large differences.So the in-soil LoRa channel characteristics and data transmission effect should be obtained by actual measurement
 
 
