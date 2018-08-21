@@ -46,7 +46,11 @@ LoRa provides new in-soil propagation means for wireless sensor networks with so
 ###### Figure 2. Schematic of the Testnode 
 
 ### 3. Test Result And Discussion
-- #### 
+- #### Test 1
+ - Setup: When testnode A communicated with testnode B (path #1), the LoRa radio power traveled through the mixture of sandy and loam (250 m in soil, approximately). When testnode A communicated with testnode C (path #2). The LoRa signal needs to cross not only the mixture of sandy and loam, but also over the river (30–50 m in soil, 700 m over river, approximately)
+ ![](/assets/8213.jpg)
+ ###### Figure 3. (a) The riverside test ground and (b) installed testnode in test ground
+- #### Test 2
 
 ### 4. Conclusion
 - #### LoRa Advantage
