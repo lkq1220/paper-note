@@ -30,6 +30,4 @@ LoRa provides new in-soil propagation means for wireless sensor networks with so
   - LoRa Channel Characteristics
     - Due to the soil type, the LoRa channel characteristics between nodes in different environments usually show large differences.So the in-soil LoRa channel characteristics and data transmission effect should be obtained by actual measurement.
 
-immune to the Doppler effect（对多普勒效应免疫）
-
 
