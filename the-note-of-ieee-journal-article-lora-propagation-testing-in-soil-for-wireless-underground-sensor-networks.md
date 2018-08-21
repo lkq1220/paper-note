@@ -50,7 +50,10 @@ LoRa provides new in-soil propagation means for wireless sensor networks with so
 
 ### 4. Conclusion
 - #### LoRa Advantage
-    - high sensitivity
-    - spread spectrum
-    - low Doppler effect
+  - high sensitivity
+  - spread spectrum
+  - low Doppler effect
 - #### LoRa Propagation Characteristics
+  - volumetric water content
+  - burial depth
+  - payload(有效载荷)
