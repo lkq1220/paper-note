@@ -33,8 +33,14 @@ LoRa provides new in-soil propagation means for wireless sensor networks with so
 ### 2. Desgin of Testnode
 - #### PSR(the packet success rate)
   - Because LoRa modulation in physical layer is a Semtech(升特) Corporation proprietary technology and is as such not fully open.So we So we use the packet success rate (PSR) as the key evaluation criterion of LoRa propagation performance.PSR is defined as the percentage of packets that transmit successfully ($$P_s$$) to total packets ($$P_t$$):
-
- $$
- PSR=p_s/p_t×100%
- $$
+  $$
+  PSR=p_s/p_t×100percent
+  $$
+- #### Desgin 
+  - twin testnode configuration are adopt for measurement as shown in Figure 1.
+  ![](/assets/8211.jpg)
+  ###### Figure 1. Measurement system configuration
   
+- ####Testnode 
+![](/assets/8212.jpg)
+###### Figure 2. Schematic of the Testnode 
