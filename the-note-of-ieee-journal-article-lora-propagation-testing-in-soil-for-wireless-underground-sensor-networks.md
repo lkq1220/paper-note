@@ -54,8 +54,26 @@ LoRa provides new in-soil propagation means for wireless sensor networks with so
  - ##### Test1 Conclusion
    - LoRa in-soil propagation path can be divided in to underground-underground path (UU path) and underground-aboveground–underground path (UAU) path. The propagation loss in UU path is higher than UAU path.
    - The LoRa in-soil propagation test results in path #1 is shown in Figure 4 (NR, LR, MR, HR, VR for No Rain, Light Rain, Moderate Rain, Heavy Rain, Violent Rain). 
-
+   ![](/assets/8214.jpg)
+   ###### Figure 4. LoRa in-soil propagation test results in path #1
+   - It can be seen from Figure 5 that the variation of PSR in path #2 in different rainfall, BD and different payload length is similar to that of the path #1.
+   ![](/assets/8215.jpg)
+   ###### Figure 5. LoRa in-soil propagation test results in path #2   
 - #### Test 2
+  - ##### The Factor Of Propagation Loss
+    - Path loss
+    - Soil volumetric water content
+    - Burial depth of node
+    - Communication protocols 
+    - packet formats
+  - ##### The Comparison of the PSR of LoRa,Zigbee and narrow-band(433MHz SI4438)--Burial depth(0.5m)
+  ![](/assets/8216.jpg)
+  ###### Figure 6. 
+  - ##### The test result about LoRa propagation in soils with different volumetric water content are shown in Fig4.
+  ![](/assets/8217.jpg)
+  ###### Figure 7. 
+  
+
 
 ### 4. Conclusion
 - #### LoRa Advantage
