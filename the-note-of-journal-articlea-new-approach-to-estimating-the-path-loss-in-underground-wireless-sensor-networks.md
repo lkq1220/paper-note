@@ -80,10 +80,20 @@ $$
 ### 3. TDR and Field Trials
 #### 3.1. Proposed Path Loss Estimation Method
 -  Estimat the effective frequency of the TDR signal in the soil, which is the frequency that contains the majority of the energy of the signal, by calculating the rise time of the signal at the end of the TDR probe (Figure 2). The rise time of the signal is commonly calculated based on the 10% to 90% increase in the reflection coefficient at the end of the probe.Figure 2 illustrates the proposed method for calculating the rise time of a waveform when there are multiple end reflections with rise time, tr, and travel time, t1, of the signal indicated.
-
 ![](/assets/8221.jpg)
 ###### Figure 2. The proposed method of calculating the rise time in TDR waveforms with end reflections
+- The permittivity is then used as an input to the Modified-Friis model to estimate the attenuation, which eliminats potential inaccuracies associated with this mixing model. 
+
 #### 3.2. Trial Setup
+- During this research,the attenuation of RF signals in soil were measured at three separate locations to provide a varied set of data for testing the performance of the models.The locations of the trials were selected to have different soil types and conditions.
+- During this project a WUSN node developed during the research was used as the transmitter with fixed frequencies of 433 MHz and 868 MHz. 
+-  Figure 3 shows a schematic of the trials
+![](/assets/8222.jpg)
+###### Figure 3. Schematic of the RF trials
+- The main parameters that can potentially negatively affect RF trials
+  - antenna orientation
+  - soil disturbance 
+  - instrument characteristics
 ### 4. Results and Discussion
 ### 5. Conclusion
 - A robust, reliable and easy-to-use method for approximation of the attenuation in soil can hugely benefit the development and deployment of WUSNs. 
