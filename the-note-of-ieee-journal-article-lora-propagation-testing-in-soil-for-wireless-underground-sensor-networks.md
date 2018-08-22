@@ -64,15 +64,16 @@ LoRa provides new in-soil propagation means for wireless sensor networks with so
 * #### Test 1
 
   * ##### Setup
-
-    * When testnode A communicated with testnode B \(path \#1\), the LoRa radio power traveled through the mixture of sandy and loam \(250 m in soil, approximately\). When testnode A communicated with testnode C \(path \#2\). The LoRa signal needs to cross not only the mixture of sandy and loam, but also over the river \(30–50 m in soil, 700 m over river, approximately\)
+    * When testnode A communicated with testnode B \(path \#1\), the LoRa radio power traveled through the mixture of sandy and loam \(250 m in soil, approximately\). 
+    - When testnode A communicated with testnode C \(path \#2\). The LoRa signal needs to cross not only the mixture of sandy and loam, but also over the river \(30–50 m in soil, 700 m over river, approximately\)
       ![](/assets/8213.jpg)
       ###### Figure 3. \(a\) The riverside test ground and \(b\) installed testnode in test ground
   * ##### Test1 Conclusion
-
     * LoRa in-soil propagation path can be divided in to underground-underground path \(UU path\) and underground-aboveground–underground path \(UAU\) path. The propagation loss in UU path is higher than UAU path.
-    * ###### The LoRa in-soil propagation test results in path \#1 is shown in Figure 4 \(NR, LR, MR, HR, VR for No Rain, Light Rain, Moderate Rain, Heavy Rain, Violent Rain\).  ![](/assets/8214.jpg)Figure 4. LoRa in-soil propagation test results in path \#1
-    * ###### It can be seen from Figure 5 that the variation of PSR in path \#2 in different rainfall, BD and different payload length is similar to that of the path \#1. ![](/assets/8215.jpg)Figure 5. LoRa in-soil propagation test results in path \#2
+    * The LoRa in-soil propagation test results in path \#1 is shown in Figure 4 \(NR, LR, MR, HR, VR for No Rain, Light Rain, Moderate Rain, Heavy Rain, Violent Rain\).  ![](/assets/8214.jpg)
+    ###### Figure 4. LoRa in-soil propagation test results in path \#1
+    * It can be seen from Figure 5 that the variation of PSR in path \#2 in different rainfall, BD and different payload length is similar to that of the path \#1. ![](/assets/8215.jpg)
+    ###### Figure 5. LoRa in-soil propagation test results in path \#2
 * #### Test 2
 
   * ##### The Factor Of Attenuation
