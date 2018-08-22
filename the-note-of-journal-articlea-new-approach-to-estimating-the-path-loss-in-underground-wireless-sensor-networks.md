@@ -95,6 +95,17 @@ $$
   - soil disturbance 
   - instrument characteristics
 ### 4. Results and Discussion
+- ##### The results from the soil characterisation tests for all of the locations (A, B and C) are presented in Table 1.
+###### Table 1. Soil characteristic of location A, B and C (GWC: gravimetric water content, "’ real part of the permittivity, "” imaginary part of the permittivity, σDC bulk conductivity).
+![](/assets/8223.jpg)
+- ##### Figures 4–6 illustrate the measured attenuation of the signal at locations A, B and C respectively. 
+![](/assets/8224.jpg)
+###### Figure 5. Comparison of the measured attenuation with the propagation models (location A)
+![](/assets/8225.jpg)
+###### Figure 5. Comparison of the measured attenuation with the propagation models (location B)
+![](/assets/8226.jpg)
+###### Figure 5. Comparison of the measured attenuation with the propagation models (location C)
+
 ### 5. Conclusion
 - A robust, reliable and easy-to-use method for approximation of the attenuation in soil can hugely benefit the development and deployment of WUSNs. 
 - The Modified-Friis model for estimating signal attenuation more closely fitted the field data compared to the CRIM-Fresnelmodel.
