@@ -72,7 +72,13 @@ $$
 $$
 A_(tot) = α_cd + R_c
 $$
+- ##### A common drawback of both of these models
+  -  their accuracy is largely dependent on the accuracy of the mixing model used
+  -  require a sample of the soil to be analysed in the laboratory which makes them unsuitable for scenarios
+  - a large discrepancy between the estimated attenuation of EM signals determined from these models
 
 ### 3. TDR and Field Trials
+#### 3.1. Proposed Path Loss Estimation Method
+#### 3.2. Trial Setup
 ### 4. Results and Discussion
 ### 5. Conclusion
