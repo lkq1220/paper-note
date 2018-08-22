@@ -48,6 +48,11 @@ method and subsequently use them as inputs into the Modified-Friis model.
 - ##### The key dielectrics parameters(Underground path loss estimation models)
   - soil complex dielectric permittivity
     -  signifies the ability of a dielectric medium to permit the transmission of an electric field
+    - the main parameters affecting the permittivity
+      -  water content
+      - the frequency of the signal
+      - the soil composition 
+      - the soil conductivity(土壤电导率)
   - soil electrical conductivity 
   - soil magnetic permeability 
   
