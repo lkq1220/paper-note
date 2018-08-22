@@ -53,6 +53,7 @@ method and subsequently use them as inputs into the Modified-Friis model.
       - the frequency of the signal
       - the soil composition 
       - the soil conductivity(土壤电导率)
+    - 
   - soil electrical conductivity 
   - soil magnetic permeability 
   
