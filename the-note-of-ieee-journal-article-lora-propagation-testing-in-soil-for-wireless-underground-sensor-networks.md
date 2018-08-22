@@ -75,7 +75,7 @@ LoRa provides new in-soil propagation means for wireless sensor networks with so
   - ##### When the burial depth increases, the communication power on the UAU path is shifted gradually to the UU path.Due to the underground pipelines,plants roots and soils,the attenuation of UAU path is shifted gradually to the UU path.Therefore,the PSR of LoRa decrease in the deeper soil.
   ![](/assets/8218.jpg)  
   ###### Figure 8. The LoRa propagation in soils with different burial depth
-  - #####
+  - ##### The LoRa package with long payload has low PSR
   ![](/assets/8219.jpg)  
   ###### Figure 9. The LoRa propagation in soils with different payload length
 
