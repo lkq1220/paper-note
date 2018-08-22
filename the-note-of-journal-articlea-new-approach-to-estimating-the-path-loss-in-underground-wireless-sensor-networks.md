@@ -44,6 +44,12 @@ method and subsequently use them as inputs into the Modified-Friis model.
   - A new approach for the TDR extracted permittivity values are then applied to the Modified-Friis model
 
 ### 2. RF Signals in Soil
+#### 2.1  Dielectric Properties of Soil
+- ##### The key dielectrics parameters(Underground path loss estimation models)
+  - soil complex dielectric permittivity
+  - soil electrical conductivity 
+  - soil magnetic permeability 
+  
 ### 3. TDR and Field Trials
 ### 4. Results and Discussion
 ### 5. Conclusion
