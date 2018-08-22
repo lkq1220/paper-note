@@ -64,6 +64,14 @@ $$
 P_r = P_t + G_r + G_t − L_0 − L_m
 $$
 where $$L_m$$ is the path loss in soil (medium) due to material absorption (dB), $$L_0$$ is the path loss infree space (dB), $$G_t$$ and $$G_r$$ are the transmitter and receiver antenna gains (dB) and $$P_t$$ and $$P_r$$ are thetransmitter and receiver powers (dB).
+- ##### Based on the Modified-Friis model,the total losses of an EM signal in soil(Lp)
+$$
+L_p = 6.4 + 20 log(d) + 20 log(β) + 8.68αd
+$$
+- ##### The CRIM-Fresnel model also considers losses due to reflection in the calculations of total attenuation，$$A_(tot)$$ in soil.However,the CRIM-Fresnel model itself was developed based on a very limited soil types and conditions. 
+$$
+A_(tot) = α_cd + R_c
+$$
 
 ### 3. TDR and Field Trials
 ### 4. Results and Discussion
