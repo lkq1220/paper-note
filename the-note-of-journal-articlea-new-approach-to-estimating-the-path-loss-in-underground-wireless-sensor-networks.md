@@ -84,4 +84,4 @@ $$
 ### 5. Conclusion
 A robust, reliable and easy-to-use method for approximation of the attenuation in soil can hugely benefit the development and deployment of WUSNs. 
 the Modified-Friis model for estimating signal attenuation more closely fitted the field data compared to the CRIM-Fresnelmodel.
- The use of the TDR measured permittivity is suggested to improve the accuracy of the Modified-Friis model as it is based on measurements of the dielectric parameters of the soil at the WUSN location.
+The use of the TDR measured permittivity is suggested to improve the accuracy of the Modified-Friis model as it is based on measurements of the dielectric parameters of the soil at the WUSN location.In addition, it removes the need for laboratory-based tests for calculating the dielectric parameters, which makes it more suitable for field use
