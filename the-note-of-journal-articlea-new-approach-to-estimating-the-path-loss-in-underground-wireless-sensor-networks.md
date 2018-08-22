@@ -53,10 +53,18 @@ method and subsequently use them as inputs into the Modified-Friis model.
       - the frequency of the signal
       - the soil composition 
       - the soil conductivity(土壤电导率)
-    - 
   - soil electrical conductivity 
-  - soil magnetic permeability 
-  
+    -  the ability of the material to conduct electrical currents
+  - soil magnetic permeability（the relative magnetic permeability）
+    -  the ratio between the magnetic permeability of soil and free space（For most common types of soil the relative magnetic permeability of soil can beassumed to be 1）
+
+#### 2.2. Propagation Models
+- ##### The two main models in the literature are the CRIM-Fresnel model and the Modified-Friis model. Both of these models are based on the “link budget” formula. 
+$$
+P_r = P_t + G_r + G_t − L_0 − L_m
+$$
+where $$L_m$$ is the path loss in soil (medium) due to material absorption (dB), $$L_0$$ is the path loss infree space (dB), $$G_t$$ and $$G_r$$ are the transmitter and receiver antenna gains (dB) and $$P_t$$ and $$P_r$$ are thetransmitter and receiver powers (dB).
+
 ### 3. TDR and Field Trials
 ### 4. Results and Discussion
 ### 5. Conclusion
