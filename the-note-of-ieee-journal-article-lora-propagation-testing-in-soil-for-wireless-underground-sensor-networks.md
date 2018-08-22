@@ -41,7 +41,7 @@ LoRa provides new in-soil propagation means for wireless sensor networks with so
   ![](/assets/8211.jpg)
   ###### Figure 1. Measurement system configuration
   
-- ####Testnode 
+- #### Testnode 
 ![](/assets/8212.jpg)
 ###### Figure 2. Schematic of the Testnode 
 
