@@ -82,3 +82,4 @@ $$
 #### 3.2. Trial Setup
 ### 4. Results and Discussion
 ### 5. Conclusion
+A robust, reliable and easy-to-use method for approximation of the attenuation in soil can hugely benefit the development and deployment of WUSNs. 
