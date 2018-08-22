@@ -39,7 +39,9 @@ method and subsequently use them as inputs into the Modified-Friis model.
   - Time Domain Reflectometry (TDR)
   - Vector Network Analyser (VNA) measurements
 
-- ##### 
+- ##### Field Test
+  - Compares the accuracy of common models for the estimation of RF attenuation with experimental measurements of attenuation in soil that have been undertaken at three separate field trial locations each having different soil compositions and conditions.
+  - A new approach for the TDR extracted permittivity values are then applied to the Modified-Friis model
 
 ### 2. RF Signals in Soil
 ### 3. TDR and Field Trials
