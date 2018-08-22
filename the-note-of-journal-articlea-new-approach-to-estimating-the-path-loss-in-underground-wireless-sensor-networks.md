@@ -79,10 +79,10 @@ $$
 
 ### 3. TDR and Field Trials
 #### 3.1. Proposed Path Loss Estimation Method
--  Estimat the effective frequency of the TDR signal in the soil, which is the frequency that contains the majority of the energy of the signal, by calculating the rise time of the signal at the end of the TDR probe (Figure 2). The rise time of the signal is commonly calculated based on the 10% to 90% increase in the reflection coefficient at the end of the probe.
+-  Estimat the effective frequency of the TDR signal in the soil, which is the frequency that contains the majority of the energy of the signal, by calculating the rise time of the signal at the end of the TDR probe (Figure 2). The rise time of the signal is commonly calculated based on the 10% to 90% increase in the reflection coefficient at the end of the probe.Figure 2 illustrates the proposed method for calculating the rise time of a waveform when there are multiple end reflections with rise time, tr, and travel time, t1, of the signal indicated.
 
 ![](/assets/8221.jpg)
-
+###### Figure 2. The proposed method of calculating the rise time in TDR waveforms with end reflections
 #### 3.2. Trial Setup
 ### 4. Results and Discussion
 ### 5. Conclusion
