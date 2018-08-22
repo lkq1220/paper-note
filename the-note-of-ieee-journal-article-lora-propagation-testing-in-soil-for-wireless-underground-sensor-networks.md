@@ -78,7 +78,14 @@ LoRa provides new in-soil propagation means for wireless sensor networks with so
   - ##### The LoRa package with long payload has low PSR
   ![](/assets/8219.jpg)  
   ###### Figure 9. The LoRa propagation in soils with different payload length
-
+- #### Suggestions
+  - ##### channel loss arising from soil moisture
+    - increase the transmitting power(not suitable for UWSN)
+    - use high-gain antennas
+  - ##### burial depth
+    - antennas should be close to the surface so that the propagation is concentrated in the UAU channel,which can also reduce the influence of underground factor to LoRa propagation in the UU path
+  - ##### payload
+    - short LoRa payload 
 
 ### 4. Conclusion
 - #### LoRa Advantage
