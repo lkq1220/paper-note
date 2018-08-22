@@ -60,7 +60,7 @@ LoRa provides new in-soil propagation means for wireless sensor networks with so
    ![](/assets/8215.jpg)
    ###### Figure 5. LoRa in-soil propagation test results in path #2   
 - #### Test 2
-  - ##### The Factor Of Propagation Loss
+  - ##### The Factor Of Attenuation
     - Path loss
     - Soil volumetric water content
     - Burial depth of node
@@ -68,11 +68,16 @@ LoRa provides new in-soil propagation means for wireless sensor networks with so
     - packet formats
   - ##### The Comparison of the PSR of LoRa,Zigbee and narrow-band(433MHz SI4438)--Burial depth(0.5m)
   ![](/assets/8216.jpg)
-  ###### Figure 6. 
+  ###### Figure 6. The PSRs of LoRa, Zigbee and narrow-band 433MHz in soil propagating
   - ##### The test result about LoRa propagation in soils with different volumetric water content are shown in Fig4.
   ![](/assets/8217.jpg)
-  ###### Figure 7. 
-  
+  ###### Figure 7. The LoRa propagation in soils with different volumetric water content
+  - ##### When the burial depth increases, the communication power on the UAU path is shifted gradually to the UU path.Due to the underground pipelines,plants roots and soils,the attenuation of UAU path is shifted gradually to the UU path.Therefore,the PSR of LoRa decrease in the deeper soil.
+  ![](/assets/8218.jpg)  
+  ###### Figure 8. The LoRa propagation in soils with different burial depth
+  - #####
+  ![](/assets/8219.jpg)  
+  ###### Figure 9. The LoRa propagation in soils with different payload length
 
 
 ### 4. Conclusion
