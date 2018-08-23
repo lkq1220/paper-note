@@ -44,6 +44,7 @@ LoRa provides new in-soil propagation means for wireless sensor networks with so
 
   * Because LoRa modulation in physical layer is a Semtech\(升特\) Corporation proprietary technology and is as such not fully open.So we So we use the packet success rate \(PSR\) as the key evaluation criterion of LoRa propagation performance.PSR is defined as the percentage of packets that transmit successfully \($$P_s$$\) to total packets \($$P_t$$\):
 
+
     $$
     PSR=p_s/p_t×100percent
     $$

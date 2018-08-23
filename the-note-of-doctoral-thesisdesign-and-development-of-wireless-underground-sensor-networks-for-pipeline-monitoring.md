@@ -195,6 +195,7 @@ The main purpose of NDE methods is to evaluate the deterioration stage of the pi
     ###### Figure5 SAHARA method and its components
 
   * Disadvantage：
+
     * need to travel through the pipe which jeopardises safety of the water supplies
     * limited by the diameter of the pipes in which it can effectively operate \(&gt;300mm\)
 
@@ -224,6 +225,7 @@ The main purpose of NDE methods is to evaluate the deterioration stage of the pi
     ###### Figure7  Schematic of the principles of the remote field eddy current measurement method
 
   * Disadvantage
+
     * only be used with ferromagnetic pipes or pipe with ferromagnetic components 
     * limited information in the literature assesses the reliability of this method 
 
@@ -259,7 +261,6 @@ The main purpose of NDE methods is to evaluate the deterioration stage of the pi
   * Disadvantage: high direct and indirect cost 
 
 ##### 2.3.5 Fibre optic based methods
-
 
 #### 2.4 Wireless underground sensor networks for pipeline monitoring
 
