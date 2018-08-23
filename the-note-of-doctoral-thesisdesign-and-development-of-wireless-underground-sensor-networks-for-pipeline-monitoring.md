@@ -271,6 +271,7 @@ The main purpose of NDE methods is to evaluate the deterioration stage of the pi
   - fibre core
   - cladding 
   - a jacket
+  
 #### 2.4 Wireless underground sensor networks for pipeline monitoring
 
 
