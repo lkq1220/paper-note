@@ -261,7 +261,16 @@ The main purpose of NDE methods is to evaluate the deterioration stage of the pi
   * Disadvantage: high direct and indirect cost 
 
 ##### 2.3.5 Fibre optic based methods
-
+- Advantage
+  - passive operation (no need for local power supply)
+  - large monitoring range
+  - high spatial resolution
+  - electromagnetic interference immunity
+  - multiparameter sensing capabilities
+- Fibre optic composition
+  - fibre core
+  - cladding 
+  - a jacket
 #### 2.4 Wireless underground sensor networks for pipeline monitoring
 
 
