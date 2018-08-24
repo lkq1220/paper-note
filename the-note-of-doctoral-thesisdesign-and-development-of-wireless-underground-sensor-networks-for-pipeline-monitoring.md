@@ -298,7 +298,7 @@ The main purpose of NDE methods is to evaluate the deterioration stage of the pi
     - requires access to the interior of the pipes
     - cannot be used in smaller diameter (<150mm) pipes
 - ##### Wireless Sensor Networks (WSN)*
-
+ 
 #### 2.4 Wireless underground sensor networks for pipeline monitoring
 
 
