@@ -268,10 +268,37 @@ The main purpose of NDE methods is to evaluate the deterioration stage of the pi
   - electromagnetic interference immunity
   - multiparameter sensing capabilities
 - Fibre optic composition
-  - fibre core
-  - cladding 
-  - a jacket
-  
+  - fibre core (纤维芯)
+  - cladding（包层)
+  - a jacket（夹层）
+- Three main categories of Fibre optic system
+  - Local (Point) Fibre optic systems
+    - be suited for small-scale sensing
+  - Quasi-distributed system(Fibre Bragg Grating (FBG) sensors)
+    - large-scale multipoint measurement systems
+  - Distributed systems
+    - be best suited for large scale infrastructure monitoring(pipeline)
+![](/assets/8241.jpg)
+###### Figure 9 Schematic of different types of fibre optic monitoring systems. a) Local b) Quasi- distributed c) Distributed
+- Disadvantage
+ - Inherent lack of redundancy
+ - Complex installation
+ 
+##### 2.3.6 Visual (imaging) based methods Closed
+- Closed circuit television (CCTV)
+- Laser scanning systems (laser profilers)
+- Disavantage
+  - Require access to the interior of the pipe
+  - Only operate in empty pipes
+
+##### 2.3.7 Multi-sensor systems Smart
+- Smart Pipe Inspection Gauge (PIG) systems
+  - Method: Insert into the pipe through an opening and then travels through the pipe while recording its location and inspection data
+  - Disadvantage
+    - requires access to the interior of the pipes
+    - cannot be used in smaller diameter (<150mm) pipes
+- ##### Wireless Sensor Networks (WSN)*
+
 #### 2.4 Wireless underground sensor networks for pipeline monitoring
 
 
