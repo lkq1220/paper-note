@@ -300,6 +300,12 @@ The main purpose of NDE methods is to evaluate the deterioration stage of the pi
 - ##### Wireless Sensor Networks (WSN)*
  
 #### 2.4 Wireless underground sensor networks for pipeline monitoring
-
-
+##### 2.4.1 External systems PIPENET
+- Figure 10 illustrates an overview of the PIPNET system
+  - acoustic
+  - water level
+  - water quality 
+  - pressure sensors
+![](/assets/8242.jpg)
+###### Figure 10 Overview of the PIPENET system
 
