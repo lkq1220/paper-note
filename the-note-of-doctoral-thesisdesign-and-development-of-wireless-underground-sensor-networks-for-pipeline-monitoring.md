@@ -341,3 +341,18 @@ The main purpose of NDE methods is to evaluate the deterioration stage of the pi
     - high-energy consumption
 
 ##### 2.4.2 Internal systems
+- The TriopusNet system
+  - Figure 14 shows the prototype of the TriopusNet node
+  ![](/assets/8245.jpg)
+  ###### Figure 14 Prototype of the TriopusNet node
+
+##### 2.4.3 RF progation in soil
+- Two main models for the prediction of EM wave attenuation in soil
+  - CRIM-Fresnel model
+  - Modified Friis model
+- EM wave propagation in free space
+$$
+P_r(d)=  (P_t G_t G_r λ ^2)/(4π)^2 d^2 
+$$
+Where $$P_t$$ is the transmitter power, $$G_t$$ and $$G_r$$ are the transmitter and receiver antenna gains,and d is the distance between the transmitter and receiver and λ is the wavelength of the EM wave in open space.
+- EM wave propagation in soil based on modified-Friis model
