@@ -268,8 +268,8 @@ The main purpose of NDE methods is to evaluate the deterioration stage of the pi
   - electromagnetic interference immunity
   - multiparameter sensing capabilities
 - Fibre optic composition
-  - fibre core (纤维芯)
-  - cladding（包层)
+  - fibre core (纤维芯)![
+  - cladding（包层)](/assets/8243.jpg)
   - a jacket（夹层）
 - Three main categories of Fibre optic system
   - Local (Point) Fibre optic systems
@@ -300,12 +300,44 @@ The main purpose of NDE methods is to evaluate the deterioration stage of the pi
 - ##### Wireless Sensor Networks (WSN)*
  
 #### 2.4 Wireless underground sensor networks for pipeline monitoring
-##### 2.4.1 External systems PIPENET
-- Figure 10 illustrates an overview of the PIPNET system
-  - acoustic
-  - water level
-  - water quality 
-  - pressure sensors
-![](/assets/8242.jpg)
-###### Figure 10 Overview of the PIPENET system
+##### 2.4.1 External systems 
+- PIPENET
+  - Figure 10 illustrates an overview of the PIPNET system
+    - acoustic
+    - water level
+    - water quality 
+    - pressure sensors
+  ![](/assets/8242.jpg)
+  ###### Figure 10 Overview of the PIPENET system
+- WaterWise Platform
+  - Figure 11 shows the WaterWise system
+    - pressure
+    - acoustic
+    - water quality readings 
+ ![](/assets/8243.jpg)
+ ###### Figure 11 WaterWise system a) Multi parameter probe head b) installed WaterWise probe
+- PipeTect
+  - Method:
+    - Sensor: vibration measurements (MEMS accelerometers) 
+    - Communication: Wire connections for underground communication (CAN bus) and wireless communication (ZigBee and Wi-Fi) for overground communications
+- MISE-PIPE
+  - Figure 12 illustrates the overall schematic of the MISE-PIPE system
+    - inside of the pipe
+      - pressure
+      - flow
+      - acoustic vibrations
+    - outside of the pipe 
+      - temperature
+      - humidity
+      - soil properties
+![](/assets/8244.jpg)
+###### Figure 13 Overall schematic of the MISE-PIPE system
+  - Advantage
+    - use the Magnetic Induction (MI) technique to overcome the Challenges of signal propagation in soil
+  - Disadvantage
+    - this claim is only valid for non-magnetic soils
+    - magnetic waves compared to EM waves is that their intensity drops with distance significantly faster than EM waves. 
+    - the cost of installation 
+    - high-energy consumption
 
+##### 2.4.2 Internal systems
