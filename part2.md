@@ -14,9 +14,19 @@
   - Long operational life
   - Non-invastive to the structure of the pipe
   - Capable of detecting abnormalities in pipes
-   
-  
 #### 3.2 System node desgin
-#### 3.3 Sensor node desgin
-#### 3.4 Summary
+##### 3.2.1 Node design overview Having
+##### 3.2.2 Power consumption
+##### 3.2.3 Hardware design
+##### 3.2.4 Firmware design
+
+#### 3.3 Summary
+- ##### The most desirable specification for a successful WUSN for pipeline monitoring
+  - Ease of installation
+  - Low cost
+  - Long operational life(low power consumption)
+    - The sleep mode was identified as the main consumer of the total energy
+    - An increase in the operational frequency of the MCU will result in a reduction of the ON duration and consequently a reduction in overall power consumption
+    - The final version of the developed node had an extremely low average power consumption of 1.31 µW for one measurement and transmission every six hours
+  - Non-invastive to the structure of the pipe
  
