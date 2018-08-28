@@ -356,3 +356,4 @@ P_r(d)=  (P_t G_t G_r λ ^2)/(4π)^2 d^2
 $$
 Where $$P_t$$ is the transmitter power, $$G_t$$ and $$G_r$$ are the transmitter and receiver antenna gains,and d is the distance between the transmitter and receiver and λ is the wavelength of the EM wave in open space.
 - EM wave propagation in soil based on modified-Friis model
+
