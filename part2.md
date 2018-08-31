@@ -47,8 +47,7 @@
     - condition and manage the supplied power
   - signal conditioning 
     - A/D Conversion
-  
-
+    
 ##### 3.2.2 Power consumption
 
 ##### 3.2.3 Hardware design
