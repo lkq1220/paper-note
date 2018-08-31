@@ -14,10 +14,15 @@
   - Long operational life
   - Non-invastive to the structure of the pipe
   - Capable of detecting abnormalities in pipes
-#### 3.2 System node desgin
-##### 3.2.1 Node design overview Having
+  
+#### 3.2 System structure
+
+##### 3.2.1 Node design overview 
+
 ##### 3.2.2 Power consumption
+
 ##### 3.2.3 Hardware design
+
 ##### 3.2.4 Firmware design
 
 #### 3.3 Summary
