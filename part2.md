@@ -33,7 +33,21 @@
 ###### Figure 3 Typical data flow in a WUSN between network layers
 
 ##### 3.2.1 Node design overview 
-
+- Four main subsystems for the hardware WUSN node 
+  - Microcontroller Unit (MCU)
+    - gathering the data
+    - process data
+    - run the leak detection algorithms
+    - buffer data into the tranceiver
+    - time
+    - ultra-low power microcontroller 
+  - transceiver
+    - send data to the mater node
+  - power management
+    - condition and manage the supplied power
+  - signal conditioning 
+    - A/D Conversion
+  
 
 ##### 3.2.2 Power consumption
 
