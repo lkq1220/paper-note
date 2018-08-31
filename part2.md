@@ -16,8 +16,24 @@
   - Capable of detecting abnormalities in pipes
   
 #### 3.2 System structure
+- Figure 2 illustrates the typical schematic of a wireless sensor network for pipeline monitoring
+![](/assets/8247.jpg)
+###### Figure 2 Schematic of a wireless sensor network for pipeline monitoring
+- The overall architecture of the WUSN for pipeline monitoring
+  - Sensor node
+    - pipe temperature
+    - soil temperature
+    - pipe internal pressure 
+    - soil water content
+  - Master node
+  - Cloud Server
+  - End user
+- Figure 3 shows a typical data flow in a WUSN for pipeline monitoring
+![](/assets/8248.jpg)
+###### Figure 3 Typical data flow in a WUSN between network layers
 
 ##### 3.2.1 Node design overview 
+
 
 ##### 3.2.2 Power consumption
 
