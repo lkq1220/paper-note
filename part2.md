@@ -72,10 +72,12 @@ duration of all of the operational modes of the node.
 $$
 P_Av = ((T_m*P_m)+(T_tx*P_tx)(T_total-T_tx-T_m)*P_sleep)/T_total
 $$
-  - T_m is the duration of measurements and processing
-  - P_m is the power consumption of the node during measurement and processing
-  - 
-
+  - $$T_m$$ is the duration of measurements and processing
+  - $$P_m$$ is the power consumption of the node during measurement and processing
+  - $$T_tx$$ is is the duration for which the transmitter is on
+  - $$P_tx$$ is the power consumption of the node during transmission mode
+  - $$p_sleep$$ is the power consumption of the node during sleep mode
+  - $$T_total$$ is the transmission interval
 
 ##### 3.2.3 Hardware design
 
