@@ -49,6 +49,33 @@
     - A/D Conversion
     
 ##### 3.2.2 Power consumption
+- Energy resource
+  - limited
+  - non-replenshable
+- A typical routine for infrastructure monitoring
+  - measurement
+  - process
+  - receive
+  - transmission
+  - sleep
+- The major tasks undertaken at each mode are illustrated in Figure 4
+![](/assets/8249.jpg)
+###### Figure 3.6 WUSN operation modes and the major tasks undertaken at each mode
+- the method of reducing the power consumption 
+  - faster sensor with lower consumption 
+  - optimise the MCU processing speed
+- Main factors affecting the power consumption during different operational modes of each node
+###### Table 5 Main factors affecting the power consumption during different operational modes of each node.
+![](/assets/8250.jpg)
+- The average power consumption of the node $$P_Av$$" depends on the power consumption and
+duration of all of the operational modes of the node. 
+$$
+P_Av = ((T_m*P_m)+(T_tx*P_tx)(T_total-T_tx-T_m)*P_sleep)/T_total
+$$
+  - T_m is the duration of measurements and processing
+  - P_m is the power consumption of the node during measurement and processing
+  - 
+
 
 ##### 3.2.3 Hardware design
 
