@@ -81,11 +81,13 @@ $$
 -  Figure 5 illustrates the theoretical average power consumption of a node based on the
 measurement frequency
 ![](/assets/8251.jpg)
-Figure 5 Theoretical power consumption of the node based on measurement frequency Based on the assumed power consumption during sleep of 3.3µW and operational power consumption of 75mW (operational duration of 500ms).
+######Figure 5 Theoretical power consumption of the node based on measurement frequency Based on the assumed power consumption during sleep of 3.3µW and operational power consumption of 75mW (operational duration of 500ms).
 - In pipelines, faults usually develop slowly which enables the pipeline monitoring system to operate at lower measurement frequencies.
 - Equation (3.2) can be used for calculating the average power consumption of the node based on different transmission and measurement rates
 ![](/assets/8252.jpg) （3.2）
 - Figure6 illustrates the effect of the measurement frequency on power consumption based on Equation (3.2) for different transmission intervals.
+![](/assets/8253.jpg)
+###### Figure 6  Effect of measurement interval on average power consumption
 
 ##### 3.2.3 Hardware design
 
