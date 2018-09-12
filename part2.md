@@ -90,6 +90,12 @@ measurement frequency
 ###### Figure 6  Effect of measurement interval on average power consumption
 -  a transmission interval of 8 hours with a measurement interval of 30 minutes is selected for
 this pipeline monitoring
+- Figure 7a, illustrates the power consumption of the node during each mode, while Figure 7b illustrates the total energy consumed by the node during each mode for one full cycle (2 hour transmission interval).
+![](/assets/8254.jpg)
+###### Figure 3.9 (a) Power consumption of the node during each mode, (b) Total energy consumed by the node during each mode for one full cycle (2 hour transmission interval)
+- the method for minimising the overall comsumed energy
+  - reduce the duration
+  - decrease the power consumption of node
 
 ##### 3.2.3 Hardware design
 
