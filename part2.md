@@ -88,6 +88,8 @@ measurement frequency
 - Figure6 illustrates the effect of the measurement frequency on power consumption based on Equation (3.2) for different transmission intervals.
 ![](/assets/8253.jpg)
 ###### Figure 6  Effect of measurement interval on average power consumption
+-  a transmission interval of 8 hours with a measurement interval of 30 minutes is selected for
+this pipeline monitoring
 
 ##### 3.2.3 Hardware design
 
