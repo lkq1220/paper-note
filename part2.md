@@ -60,12 +60,12 @@
   - sleep
 - The major tasks undertaken at each mode are illustrated in Figure 4
 ![](/assets/8249.jpg)
-###### Figure 3.6 WUSN operation modes and the major tasks undertaken at each mode
+###### Figure 4 WUSN operation modes and the major tasks undertaken at each mode
 - the method of reducing the power consumption 
   - faster sensor with lower consumption 
   - optimise the MCU processing speed
 - Main factors affecting the power consumption during different operational modes of each node
-###### Table 5 Main factors affecting the power consumption during different operational modes of each node.
+###### Table 1 Main factors affecting the power consumption during different operational modes of each node.
 ![](/assets/8250.jpg)
 - The average power consumption of the node $$P_Av$$" depends on the power consumption and
 duration of all of the operational modes of the node. 
@@ -78,7 +78,10 @@ $$
   - $$P_tx$$ is the power consumption of the node during transmission mode
   - $$p_sleep$$ is the power consumption of the node during sleep mode
   - $$T_total$$ is the transmission interval
-
+-  Figure 5 illustrates the theoretical average power consumption of a node based on the
+measurement frequency
+![](/assets/8251.jpg)
+Figure 5 Theoretical power consumption of the node based on measurement frequency Based on the assumed power consumption during sleep of 3.3µW and operational power consumption of 75mW (operational duration of 500ms).
 ##### 3.2.3 Hardware design
 
 ##### 3.2.4 Firmware design
