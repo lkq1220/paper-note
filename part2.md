@@ -82,8 +82,7 @@ $$
 measurement frequency
 ![](/assets/8251.jpg)
 Figure 5 Theoretical power consumption of the node based on measurement frequency Based on the assumed power consumption during sleep of 3.3µW and operational power consumption of 75mW (operational duration of 500ms).
-- In pipelines, faults usually develop slowly which this enables the pipeline monitoring
-system to operate at lower measurement frequencies.
+- In pipelines, faults usually develop slowly which enables the pipeline monitoring system to operate at lower measurement frequencies.
 
 ##### 3.2.3 Hardware design
 
