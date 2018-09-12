@@ -85,6 +85,7 @@ Figure 5 Theoretical power consumption of the node based on measurement frequenc
 - In pipelines, faults usually develop slowly which enables the pipeline monitoring system to operate at lower measurement frequencies.
 - Equation (3.2) can be used for calculating the average power consumption of the node based on different transmission and measurement rates
 ![](/assets/8252.jpg) （3.2）
+- Figure6 illustrates the effect of the measurement frequency on power consumption based on Equation (3.2) for different transmission intervals.
 
 ##### 3.2.3 Hardware design
 
