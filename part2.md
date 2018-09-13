@@ -104,7 +104,12 @@ this pipeline monitoring
   - Adequate connectivity
   - Low cost
   - Small size
+- Table 2 shows the main limitations and improvements of each of the iterations of the node.
+###### Table 2 Comparison of the limitations and improvements made for each of the iterations of the node
+
+
 ##### 3.2.4 Firmware design
+
 
 #### 3.3 Summary
 - ##### The most desirable specification for a successful WUSN for pipeline monitoring
