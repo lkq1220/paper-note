@@ -98,7 +98,12 @@ this pipeline monitoring
   - decrease the power consumption of node
 
 ##### 3.2.3 Hardware design
-
+- The main objective of the design
+  - Ultra-low power consumption
+  - Good RF performance (min 0dBm) and flexibility in operational frequency
+  - Adequate connectivity
+  - Low cost
+  - Small size
 ##### 3.2.4 Firmware design
 
 #### 3.3 Summary
