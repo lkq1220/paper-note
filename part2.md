@@ -106,7 +106,7 @@ this pipeline monitoring
   - Small size
 - Table 2 shows the main limitations and improvements of each of the iterations of the node.
 ###### Table 2 Comparison of the limitations and improvements made for each of the iterations of the node
-
+![](/assets/8255.jpg)
 
 ##### 3.2.4 Firmware design
 
