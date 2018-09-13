@@ -108,6 +108,7 @@ this pipeline monitoring
 ###### Table 2 Comparison of the limitations and improvements made for each of the iterations of the node
 ![](/assets/8255.jpg)
 -Table 3 illustrates the specification of Version 2.0 of the node
+  
 ##### 3.2.4 Firmware design
 
 
