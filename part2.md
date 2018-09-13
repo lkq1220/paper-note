@@ -1,4 +1,4 @@
-![](/assets/8256.jpg)### Design and development of wireless underground sensor network for pipeline monitoring
+### Design and development of wireless underground sensor network for pipeline monitoring
 #### 3.1 Introduction
 - ##### Figure 1 illustrates the main limitations and requirements for a WUSN for pipeline monitoring systems
 ![](/assets/8246.jpg)
@@ -108,7 +108,8 @@ this pipeline monitoring
 ###### Table 2 Comparison of the limitations and improvements made for each of the iterations of the node
 ![](/assets/8255.jpg)
 -Table 3 illustrates the specification of Version 2.0 of the node
-  
+###### Table 3 Specification of version 2.0 of the node
+![](/assets/8256.jpg)  
 ##### 3.2.4 Firmware design
 
 
