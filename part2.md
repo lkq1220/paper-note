@@ -153,7 +153,9 @@ wake up
   19. The MCU is woken up from deep sleep by the WDT
   20. The timer counter is checked; if the correct sleep time is reached the program goes to
 step 4, if not, the counter is increased and the program goes to step 18.
-
+- two main challenges in the design of the firmware for WUSN
+  - Reduction in overall “ON” time
+  - the accuracy of timing
 
 
 #### 3.3 Summary
