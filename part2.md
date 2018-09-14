@@ -156,7 +156,10 @@ step 4, if not, the counter is increased and the program goes to step 18.
 - two main challenges in the design of the firmware for WUSN
   - Reduction in overall “ON” time
   - the accuracy of timing
-
+- Sleep power consumption and timing
+  - The main factors affecting Sleep power consumption
+    - timing
+    - power supply
 
 #### 3.3 Summary
 - ##### The most desirable specification for a successful WUSN for pipeline monitoring
