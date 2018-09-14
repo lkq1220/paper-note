@@ -7,4 +7,5 @@
 * [the note of IEEE journal article 《LoRa Propagation Testing in Soil for Wireless Underground Sensor Networks》](the-note-of-ieee-journal-article-lora-propagation-testing-in-soil-for-wireless-underground-sensor-networks.md)
 * [the note of journal article《A New Approach to Estimating the Path Loss in Underground Wireless Sensor Networks》](the-note-of-journal-articlea-new-approach-to-estimating-the-path-loss-in-underground-wireless-sensor-networks.md)
 * [part2](part2.md)
+* [Field test record](trail-test-record.md)
 
