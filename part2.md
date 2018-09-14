@@ -124,7 +124,21 @@ this pipeline monitoring
     - Mode4(2.5-16V) support two constant voltage supplies of 1.8V or 3V
 
 ##### 3.2.4 Firmware design 
-
+- The main Main MCU parameters which affect the firmware design and performance
+  - Processing Power
+  - Sleep instruction
+  - Communication speed
+- A detailed description of each of the steps carried out by the firmware of the node is as follows:
+  1. initial peripheral hardware module
+  2. initial and define variable and counters
+  3. set the signal of LED
+  4. connect sensors
+  5. measure the data of sensor according to the exchange of Analogue/Digital
+  6. power down the sensor
+  7. data process(transform the sensors’ raw output into a usable form)
+  8. The results are compared with the adaptive thresholds for each parameter and flags are
+set if necessary
+  9. pack transmission data
 #### 3.3 Summary
 - ##### The most desirable specification for a successful WUSN for pipeline monitoring
   - Ease of installation
