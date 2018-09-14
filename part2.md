@@ -124,6 +124,7 @@ this pipeline monitoring
     - Mode4(2.5-16V) support two constant voltage supplies of 1.8V or 3V
 
 ##### 3.2.4 Firmware design 
+
 #### 3.3 Summary
 - ##### The most desirable specification for a successful WUSN for pipeline monitoring
   - Ease of installation
