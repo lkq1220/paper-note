@@ -138,7 +138,24 @@ this pipeline monitoring
   7. data process(transform the sensors’ raw output into a usable form)
   8. The results are compared with the adaptive thresholds for each parameter and flags are
 set if necessary
-  9. pack transmission data
+  9. pack transmission data(the result/node unique identifier/transmission identifier)
+  10. initial UART Module
+  11. power on the transceiver module
+  12. a short delay(in order to make the status of UART module suitable)
+  13. The transceiver stays in listening mode for a set period of time waiting for data from
+other nodes 
+  14. received data is processed and  if required is packaged with local data (only applicable for data router nodes).
+  15. The packaged data is transferred to the buffer of the transceiver
+  16. Data is transmitted by the transceiver
+  17. The transceiver is powered down
+  18. Sleep instructions are performed in order to put the MCU in deep sleep with a WDT
+wake up
+  19. The MCU is woken up from deep sleep by the WDT
+  20. The timer counter is checked; if the correct sleep time is reached the program goes to
+step 4, if not, the counter is increased and the program goes to step 18.
+
+
+
 #### 3.3 Summary
 - ##### The most desirable specification for a successful WUSN for pipeline monitoring
   - Ease of installation
