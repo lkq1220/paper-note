@@ -159,7 +159,7 @@ step 4, if not, the counter is increased and the program goes to step 18.
 - Sleep power consumption and timing
   - The main factors affecting Sleep power consumption
     - timing
-    - power supply
+    - the voltage of the power supply
 
 #### 3.3 Summary
 - ##### The most desirable specification for a successful WUSN for pipeline monitoring
