@@ -92,7 +92,7 @@ measurement frequency
 this pipeline monitoring
 - Figure 7a, illustrates the power consumption of the node during each mode, while Figure 7b illustrates the total energy consumed by the node during each mode for one full cycle (2 hour transmission interval).
 ![](/assets/8254.jpg)
-###### Figure 3.9 (a) Power consumption of the node during each mode, (b) Total energy consumed by the node during each mode for one full cycle (2 hour transmission interval)
+###### Figure 7 (a) Power consumption of the node during each mode, (b) Total energy consumed by the node during each mode for one full cycle (2 hour transmission interval)
 - the method for minimising the overall comsumed energy
   - reduce the duration
   - decrease the power consumption of node
@@ -110,9 +110,20 @@ this pipeline monitoring
 -Table 3 illustrates the specification of Version 2.0 of the node
 ###### Table 3 Specification of version 2.0 of the node
 ![](/assets/8256.jpg)  
-##### 3.2.4 Firmware design
+- An SMA antenna connector
+- A ground plane
+  - reduce the noise due to cross talk and interference 
+- A mini USB port
+- The power management module
+  - Figure 8 illustrates the schematic of the power management module of this version of the node
+![](/assets/8257.jpg)
+###### Figure 7 Schematic of the power regulator module for version 2.0 of the node
+    - Mode1(2-5.5V) for Li-Ion batteries and solar cells
+    - Mode2(3.3-16V) for piezoelectric harvesters.
+    - Mode3 for thin film batteries
+    - Mode4(2.5-16V) support two constant voltage supplies of 1.8V or 3V
 
-
+##### 3.2.4 Firmware design 
 #### 3.3 Summary
 - ##### The most desirable specification for a successful WUSN for pipeline monitoring
   - Ease of installation
