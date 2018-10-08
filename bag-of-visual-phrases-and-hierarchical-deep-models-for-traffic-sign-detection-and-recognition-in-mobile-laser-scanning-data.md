@@ -77,7 +77,10 @@
 ##### 1.3.1 Performance evaluation
 - four indices
   - recall
+    - the proportion of true positives in the ground truth
   - precision
+    - the proportion of true positives in the detected components
   - quality
   - F-score
+    - 精确率和召回率都越高越好。但通常情况下，二者会此消彼长，不可兼得，所以我们使用调和平均数
   
