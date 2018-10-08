@@ -86,3 +86,5 @@
 - The quantitative evaluation results
   - an average recall, precision, quality, and F-score of 0.956, 0.946, 0.907, and 0.951
   ![](/assets/pic9.jpg)
+  
+##### 1.3.2 Comparative studies of using different 3-D descriptors
