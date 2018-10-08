@@ -58,7 +58,6 @@
   ![](/assets/pic4.jpg)
   - constructed a 6480-1000-1000-100 DBM-based feature encoder(generate high-order feature encodings of feature regions)
   - detect traffic signs of different shapes
-
 - Dection result
   - a part of traffic sign detection results in 3-D point clouds. (a) A raw point cloud, and (b) detected traffic signs
   ![](/assets/pic5.jpg) 
