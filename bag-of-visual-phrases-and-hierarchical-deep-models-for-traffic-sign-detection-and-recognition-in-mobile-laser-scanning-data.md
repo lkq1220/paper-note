@@ -127,7 +127,7 @@ ISPRS摄影测量与遥感杂志是国际摄影测量与遥感学会(ISPRS)的�
 #### 1.4 Traffic sign recognition on images
 - classify these traffic signs into specific categories
   - projected them onto the images to obtain traffic sign regions
-  - the obtained traffic sign regions were resized into a square shape with a size of 80  80 pixels
+  - the obtained traffic sign regions were resized into a square shape with a size of 80*80 pixels
   -  constructed a 6400-1000-1000-500-35 hierarchical classifier to classify the detected traffic signs into 35 categories
 - result
   - a totalnumber of 1227 traffic signs out of 1258 traffic signs were successfully assigned to correct categories.
