@@ -149,3 +149,10 @@ ISPRS摄影测量与遥感杂志是国际摄影测量与遥感学会(ISPRS)的�
 - result
 
 ![](/assets/pic12.jpg)
+
+### 2. Conclusion
+- ##### a novel algorithm combining 3-D point clouds and 2-D images for detecting and recognizing traffic signs based on BoVPs and hierarchical deep models
+  - ##### The traffic sign detection task（3-D images）
+  - ##### The recognition task（2-D images）
+- ##### For detecting traffic signs in 3-D point clouds, the proposed algorithm achieved an average recall, precision, quality, and F-score of 0.956, 0.946, 0.907, and 0.951
+- ##### For on-image traffic sign recognition, a recognition accuracy of 97.54% was achieved by using the proposed hierarchical classifier.
