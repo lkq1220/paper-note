@@ -95,4 +95,4 @@
 - result
   - the 3DSC and the FPFH descriptorscan only obtain low-order statistical features.
   -  the DBM-based feature encoder can obtain high-order abstract feature representations
-  ![](/assets/pic10.jpg)
+ ![](/assets/pic10.jpg)
