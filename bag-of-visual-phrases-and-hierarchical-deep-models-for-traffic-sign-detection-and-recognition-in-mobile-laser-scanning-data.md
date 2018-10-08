@@ -54,7 +54,7 @@
 -  evaluate the performance of traffic sign detection algorithm
   - the aforementioned four data sets
   - the optimal parameter configurations
-
+  
   ![](/assets/pic4.jpg)
   - constructed a 6480-1000-1000-100 DBM-based feature encoder(generate high-order feature encodings of feature regions)
   - detect traffic signs of different shapes
