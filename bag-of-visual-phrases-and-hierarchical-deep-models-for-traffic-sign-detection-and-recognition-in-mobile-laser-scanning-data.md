@@ -1,4 +1,4 @@
-##Bag-of-visual-phrases and hierarchical deep models for traffic signdetection and recognition in mobile laser scanning data
+## Bag-of-visual-phrases and hierarchical deep models for traffic signdetection and recognition in mobile laser scanning data
 ### 1. Results and discussion
 #### 1.1  RIEGL VMX-450 system and MLS data sets
 - RIEGL VMX-450 system
