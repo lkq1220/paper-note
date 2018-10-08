@@ -65,5 +65,13 @@
   ![](/assets/pic6.jpg)
   - (a) falsely detected non-traffic sign objects, and (b) undetected traffic signs.
   ![](/assets/pic7.jpg)
-  
+  - evaluated the traffic sign detection performance in challenging image scenarios(Examples of traffic signs detected in challenging scenarios. (a) Strong illuminations, (b) poor illuminations, (c) large viewpoints, (d) partial occlusions, and (e)cluttered backgrounds)
+    - strong illuminations
+    - poor illuminations
+    - large viewpoints
+    - partial occlusions,
+    - cluttered backgrounds
+  ![](/assets/pic8.jpg)
+- conclusion
+  -  3-D point clouds provide real-world 3-D geometric topologies of traffic signs and are immune to environmental illumination conditions, traffic signs can be effectively detected from 3-D point clouds without the impact of viewpoint variations and illumination variations that often occur in 2-D images.
   
