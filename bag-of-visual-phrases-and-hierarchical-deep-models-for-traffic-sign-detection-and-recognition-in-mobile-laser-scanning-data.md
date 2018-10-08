@@ -1,6 +1,6 @@
 ##Bag-of-visual-phrases and hierarchical deep models for traffic signdetection and recognition in mobile laser scanning data
 ### 1. Results and discussion
-####1.1  RIEGL VMX-450 system and MLS data sets
+#### 1.1  RIEGL VMX-450 system and MLS data sets
 - RIEGL VMX-450 system
   - aim
     - collect both point clouds and images in Xiamen City, China.
@@ -21,4 +21,17 @@
     - Hubin Road West(HRW)
     
     ![](/assets/table1.png) 
-    
+ -  Build the visual phrase dictionary
+   - selected a total number of 80 point cloud segments(50 m) at random
+   - ground point removal
+   - train the DBM-based feature encoder
+ - train the supervised GaussianBernoulli DBM model(for traffic sign recognition)
+   - collected a set of standard traffic sign pictograms
+   - resized into a square shape with a size of 80*80 pixel
+   - each traffic sign pictogram was processed
+     - illumination changes
+     - rotations
+     - Gaussian-noise contaminations 
+   - 161,792 training samples was used to train the Gaussian-Bernoulli DBM model.
+     
+ #### 1.1 Parameter sensitivity analysis
