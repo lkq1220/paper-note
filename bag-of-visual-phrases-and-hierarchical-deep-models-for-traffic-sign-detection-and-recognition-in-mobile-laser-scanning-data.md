@@ -136,7 +136,7 @@ ISPRS摄影测量与遥感杂志是国际摄影测量与遥感学会(ISPRS)的�
   - very large viewpoints
   - serious occlusions
   
-####1.4.1 Comparative studies
+#### 1.4.1 Comparative studies
 - Traffic sign recognition algorithm
   - MSERs method
   - SRGE method
