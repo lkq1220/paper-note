@@ -83,4 +83,6 @@
   - quality
   - F-score
     - 精确率和召回率都越高越好。但通常情况下，二者会此消彼长，不可兼得，所以我们使用调和平均数
-  
+- The quantitative evaluation results
+  - an average recall, precision, quality, and F-score of 0.956, 0.946, 0.907, and 0.951
+  ![](/assets/pic9.jpg)
