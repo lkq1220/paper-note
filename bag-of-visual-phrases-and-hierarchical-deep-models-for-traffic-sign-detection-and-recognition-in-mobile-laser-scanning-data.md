@@ -73,5 +73,11 @@
     - cluttered backgrounds
   ![](/assets/pic8.jpg)
 - conclusion
-  -  3-D point clouds provide real-world 3-D geometric topologies of traffic signs and are immune to environmental illumination conditions, traffic signs can be effectively detected from 3-D point clouds without the impact of viewpoint variations and illumination variations that often occur in 2-D images.
+  - 3-D point clouds provide real-world 3-D geometric topologies of traffic signs and are immune to environmental illumination conditions, traffic signs can be effectively detected from 3-D point clouds without the impact of viewpoint variations and illumination variations that often occur in 2-D images.
+##### 1.3.1 Performance evaluation
+- four indices
+  - recall
+  - precision
+  - quality
+  - F-score
   
