@@ -145,6 +145,7 @@ ISPRS摄影测量与遥感杂志是国际摄影测量与遥感学会(ISPRS)的�
     - have the capability of handling various traffic sign distortions
       - illumination variations
       - viewpoint variations
-      - noise contaminations
-      
+      - noise contaminations    
+- result
+
 ![](/assets/pic12.jpg)
