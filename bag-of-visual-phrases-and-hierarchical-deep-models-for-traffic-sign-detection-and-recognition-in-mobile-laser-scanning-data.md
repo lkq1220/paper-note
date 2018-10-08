@@ -122,4 +122,8 @@ ISPRS摄影测量与遥感杂志是国际摄影测量与遥感学会(ISPRS)的�
     - traffic sign proposals are extracted by finding maximally stable extremal regions from the probability maps
     - an SVM is used to detect traffic signs from the traffic sign proposals.
 - Result 
-  - ![](/assets/pic11.jpg)
+![](/assets/pic11.jpg)
+
+##### 1.4 Traffic sign recognition on images
+- a total number of 1258 traffic signswere correctly detected from 1316 traffic signs (ground truth). 
+- 
