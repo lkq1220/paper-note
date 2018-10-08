@@ -34,4 +34,12 @@
      - Gaussian-noise contaminations 
    - 161,792 training samples was used to train the Gaussian-Bernoulli DBM model.
      
- #### 1.1 Parameter sensitivity analysis
+#### 1.1 Parameter sensitivity analysis
+- Three parameters (impact traffic sign detection performance based on 3D point clouds)
+  - feature region construction pattern
+    - single supervoxels
+    - the combination of supervoxels and their first-order neighbors
+  - visual phrase dictionary size (K)
+    - K = 90,000, 100,000,110,000, 120,000, 130,000, 140,000. 
+  - spatial word pattern size (Np)
+    - Np = 1, 2, 3, 4, 5, 6
