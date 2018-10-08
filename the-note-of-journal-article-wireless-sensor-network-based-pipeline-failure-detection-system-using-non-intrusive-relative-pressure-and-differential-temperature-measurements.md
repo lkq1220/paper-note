@@ -1,6 +1,6 @@
 ### Wireless sensor network based pipeline failure detection system using non-intrusive relative pressure and differential temperature measurements
 
-#### 0. AbstractzxAZXHjHX
+#### 0. Abstract
 
 This paper describes the operation of a proposed non-intrusive relative pressure sensor, based on utilising low cost Force Sensitive Resistors \(FSR\). The paper also presents a novel method for detecting abnormal flow in pipes based on monitoring of the temperature differential between the pipe wall and its surroundings. The results showed that the calculated temperature differentials can be successfully used to detect abnormalities in the flow.
 
