@@ -101,3 +101,25 @@ ISPRS摄影测量与遥感杂志是国际摄影测量与遥感学会(ISPRS)的�
  ![](/assets/pic10.jpg)
 
 ##### 1.3.3 Comparative studies with point cloud based traffic sign detection methods
+-  traffic sign detection algorithm
+  - Hough forest-based method (HF)
+  - supervoxel neighborhood-based Hough forest method
+  - 3-D object matching-based method (OM)
+  - intensity-based pole-like object detection method (IPLO)
+
+##### 1.3.4 Comparative studies with image-based traffic sign detection methods
+- three image-based traffic sign detection methods
+  - template matching (TM) method
+    - regions of interests (ROIs) are extracted based on color segmentation
+    - the shape of each ROI is fitted using simple geometric forms
+    - a template matching process is performed to detect traffic signs
+  - graph-based ranking and segmentation (GRS) method
+    - a superpixel-based graph is designed to represent an input image
+    - a ranking algorithm is applied to exploit the intrinsic manifold structure of the graph nodes 
+    - a multithreshold segmentation approach is proposed to segment traffic sign regions.
+  - color probability model (CPM) method
+    - an input image is transformed to traffic sign probability maps by using a color probability model
+    - traffic sign proposals are extracted by finding maximally stable extremal regions from the probability maps
+    - an SVM is used to detect traffic signs from the traffic sign proposals.
+- Result 
+  - ![](/assets/pic11.jpg)
