@@ -27,6 +27,7 @@
    - train the DBM-based feature encoder
  - train the supervised GaussianBernoulli DBM model(for traffic sign recognition)
    - collected a set of standard traffic sign pictograms
+   ![](/assets/pic3.jpg)
    - resized into a square shape with a size of 80*80 pixel
    - each traffic sign pictogram was processed
      - illumination changes
@@ -43,3 +44,8 @@
     - K = 90,000, 100,000,110,000, 120,000, 130,000, 140,000. 
   - spatial word pattern size (Np)
     - Np = 1, 2, 3, 4, 5, 6
+- result
+  - feature regions with first-order neighborhood information can produce more meaningful, salient, and distinctive feature encodings 
+  -  the more the visual phrases in the dictionary, the higher degrees of distinctions between different categories of objects.(exceeds 120,000, performance is stable.)
+  -  obtain salient, distinctive feature encodings(when Np P 5, the detection performance drops dramatically)
+  ![](/assets/pic2.png)
