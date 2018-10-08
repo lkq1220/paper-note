@@ -88,3 +88,11 @@
   ![](/assets/pic9.jpg)
   
 ##### 1.3.2 Comparative studies of using different 3-D descriptors
+- three method in exploiting salient, distinctive features of feature regions
+  - 3-D shape context (3DSC)
+  - fast point feature histograms (FPFH)
+  - DBM-based feature encoder
+- result
+  - the 3DSC and the FPFH descriptorscan only obtain low-order statistical features.
+  -  the DBM-based feature encoder can obtain high-order abstract feature representations
+  ![](/assets/pic10.jpg)
