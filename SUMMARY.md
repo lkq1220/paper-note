@@ -8,5 +8,5 @@
 * [the note of journal article《A New Approach to Estimating the Path Loss in Underground Wireless Sensor Networks》](the-note-of-journal-articlea-new-approach-to-estimating-the-path-loss-in-underground-wireless-sensor-networks.md)
 * [part2](part2.md)
 * [Field test record](trail-test-record.md)
-* Bag-of-visual-phrases and hierarchical deep models for traffic sign detection and recognition in mobile laser scanning data
+* [Bag-of-visual-phrases and hierarchical deep models for traffic sign detection and recognition in mobile laser scanning data](bag-of-visual-phrases-and-hierarchical-deep-models-for-traffic-sign-detection-and-recognition-in-mobile-laser-scanning-data.md)
 
