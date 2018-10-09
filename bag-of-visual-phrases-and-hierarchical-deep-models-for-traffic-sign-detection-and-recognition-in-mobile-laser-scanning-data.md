@@ -25,18 +25,18 @@ ISPRS摄影测量与遥感杂志是国际摄影测量与遥感学会(ISPRS)的�
     
     ![](/assets/table1.png) 
   - Build the visual phrase dictionary
-   - selected a total number of 80 point cloud segments(50 m) at random
-   - ground point removal
-   - train the DBM-based feature encoder
+    - selected a total number of 80 point cloud segments(50 m) at random
+    - ground point removal
+    - train the DBM-based feature encoder
   - train the supervised GaussianBernoulli DBM model(for traffic sign recognition)
-   - collected a set of standard traffic sign pictograms
+    - collected a set of standard traffic sign pictograms
    ![](/assets/pic3.jpg)
-   - resized into a square shape with a size of 80*80 pixel
-   - each traffic sign pictogram was processed
-     - illumination changes
-     - rotations
-     - Gaussian-noise contaminations 
-   - 161,792 training samples was used to train the Gaussian-Bernoulli DBM model.
+    - resized into a square shape with a size of 80*80 pixel
+    - each traffic sign pictogram was processed
+      - illumination changes
+      - rotations
+      - Gaussian-noise contaminations 
+    - 161,792 training samples was used to train the Gaussian-Bernoulli DBM model.
      
 #### 1.2 Parameter sensitivity analysis
 - Three parameters (impact traffic sign detection performance based on 3D point clouds)
