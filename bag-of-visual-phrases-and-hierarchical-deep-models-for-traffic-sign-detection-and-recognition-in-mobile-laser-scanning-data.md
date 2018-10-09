@@ -50,7 +50,7 @@ ISPRS摄影测量与遥感杂志是国际摄影测量与遥感学会(ISPRS)的�
 - result
   - feature regions with first-order neighborhood information can produce more meaningful, salient, and distinctive feature encodings 
   -  the more the visual phrases in the dictionary, the higher degrees of distinctions between different categories of objects.(exceeds 120,000, performance is stable.)
-  -  obtain salient, distinctive feature encodings(when Np P 5, the detection performance drops dramatically)
+  -  obtain salient, distinctive feature encodings(when Np=5, the detection performance drops dramatically)
   ![](/assets/pic2.png)
 
 #### 1.3 Traffic sign detection on point clouds and images
