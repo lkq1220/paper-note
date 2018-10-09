@@ -102,10 +102,10 @@ ISPRS摄影测量与遥感杂志是国际摄影测量与遥感学会(ISPRS)的�
 
 ##### 1.3.3 Comparative studies with point cloud based traffic sign detection methods
 -  traffic sign detection algorithm
-  - Hough forest-based method (HF)
-  - supervoxel neighborhood-based Hough forest method
-  - 3-D object matching-based method (OM)
-  - intensity-based pole-like object detection method (IPLO)
+   - Hough forest-based method (HF)
+   - supervoxel neighborhood-based Hough forest method
+   - 3-D object matching-based method (OM)
+   - intensity-based pole-like object detection method (IPLO)
 
 ##### 1.3.4 Comparative studies with image-based traffic sign detection methods
 - three image-based traffic sign detection methods
