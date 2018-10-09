@@ -55,12 +55,12 @@ ISPRS摄影测量与遥感杂志是国际摄影测量与遥感学会(ISPRS)的�
 
 #### 1.3 Traffic sign detection on point clouds and images
 -  evaluate the performance of traffic sign detection algorithm
-  - the aforementioned four data sets
-  - the optimal parameter configurations
+   - the aforementioned four data sets
+   - the optimal parameter configurations
   
-  ![](/assets/pic4.jpg)
-  - constructed a 6480-1000-1000-100 DBM-based feature encoder(generate high-order feature encodings of feature regions)
-  - detect traffic signs of different shapes
+   ![](/assets/pic4.jpg)
+   - constructed a 6480-1000-1000-100 DBM-based feature encoder(generate high-order feature encodings of feature regions)
+   - detect traffic signs of different shapes
 - Dection result
   - a part of traffic sign detection results in 3-D point clouds. (a) A raw point cloud, and (b) detected traffic signs
   ![](/assets/pic5.jpg) 
