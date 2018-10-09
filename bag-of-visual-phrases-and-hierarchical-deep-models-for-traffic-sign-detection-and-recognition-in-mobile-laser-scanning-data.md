@@ -24,7 +24,7 @@ ISPRS摄影测量与遥感杂志是国际摄影测量与遥感学会(ISPRS)的�
     - Hubin Road West(HRW)
     
     ![](/assets/table1.png) 
-  -  Build the visual phrase dictionary
+  - Build the visual phrase dictionary
    - selected a total number of 80 point cloud segments(50 m) at random
    - ground point removal
    - train the DBM-based feature encoder
