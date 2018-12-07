@@ -10,4 +10,5 @@
 * [Field test record](trail-test-record.md)
 * [Bag-of-visual-phrases and hierarchical deep models for traffic sign detection and recognition in mobile laser scanning data](bag-of-visual-phrases-and-hierarchical-deep-models-for-traffic-sign-detection-and-recognition-in-mobile-laser-scanning-data.md)
 * [Monitoring of Large-Area IoT Sensors Using a LoRa Wireless Mesh Network System: Design and Evaluation](monitoring-of-large-area-iot-sensors-using-a-lora-wireless-mesh-network-system-design-and-evaluation.md)
+* [Low Power Wide Area Network Analysis](low-power-wide-area-network-analysis.md)
 
