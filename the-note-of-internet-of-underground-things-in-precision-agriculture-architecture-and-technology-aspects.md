@@ -26,7 +26,7 @@
   * Variable Rate Technology \(VRT\) 
   * auto-steering system
   * crop moisture sensing
-    ![](/assets/jpg1.jpg)
+![](/assets/jpg1.jpg)
 
 #### 2. Internet Of Underground Thing \(IOUT\)
 
