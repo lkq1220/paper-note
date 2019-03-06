@@ -11,5 +11,5 @@
 - 6.1.2 Example 
 
 #####6.2 Commercial IOUT solutions
-7
+
 ####7. Research challenges
