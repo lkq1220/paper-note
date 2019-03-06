@@ -88,8 +88,13 @@
 #### 4. Sensing
 - Soil moisture(measure water content)
  - Gravimetric sampling(计重法采样)
- - Resistive sensors（）
- - Capacitive sensors 
+   - how: a ratio of soil’s dry mass to the wet soil mass
+   - requirement: manual sampling and oven drying of soil samples taken from the field
+ - Resistive sensors
+   - how: resistance changes based on soil water content
+ - Capacitive sensors
+   - how: changes in capacitance of soil due to water content variations
+   - pros and cons: higher accuracy than resistive sensors but cost more
  - Ground Penetrating Radars 
  - Neutron scattering probes
  - Gamma ray attenuation
