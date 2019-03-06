@@ -58,6 +58,8 @@
   - Inter-connection of field machinery, sensors, radios, and cloud
   - Real-time Decision Making
   - Mobility
+  
+  
 #### 4. Sensing
 
 #### 5. Wireless connectivity
