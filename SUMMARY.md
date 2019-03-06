@@ -9,4 +9,5 @@
 * [part2](part2.md)
 * [Field test record](trail-test-record.md)
 * [Bag-of-visual-phrases and hierarchical deep models for traffic sign detection and recognition in mobile laser scanning data](bag-of-visual-phrases-and-hierarchical-deep-models-for-traffic-sign-detection-and-recognition-in-mobile-laser-scanning-data.md)
+* [the note of 《Internet of underground things in precision agriculture: Architecture and technology aspects》](the-note-of-internet-of-underground-things-in-precision-agriculture-architecture-and-technology-aspects.md)
 

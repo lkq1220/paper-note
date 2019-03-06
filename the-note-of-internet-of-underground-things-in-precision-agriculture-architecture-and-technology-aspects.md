@@ -1,0 +1,1 @@
+### Internet of underground things in precision agriculture: Architecture and technology aspects
