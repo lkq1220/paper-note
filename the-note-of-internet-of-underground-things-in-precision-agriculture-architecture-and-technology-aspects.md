@@ -86,7 +86,13 @@
 ![](/assets/jpg2.jpg)
   
 #### 4. Sensing
-- Soil moisture
+- Soil moisture(measure water content)
+ - Gravimetric sampling(计重法采样)
+ - Resistive sensors（）
+ - Capacitive sensors 
+ - Ground Penetrating Radars 
+ - Neutron scattering probes
+ - Gamma ray attenuation
 - Soil physical properties
 - Yield monitoring
 - Electrical conductivity and topography surveys
@@ -97,8 +103,8 @@
 #### 5. Wireless connectivity
 #####5.1 In-field communications
 #####5.2 Cloud and big data in precision agriculture
-#### 6. IOUT enabling technologies
 
+#### 6. IOUT enabling technologies
 ##### 6.1 Academic IOUT systems
 
 * 6.1.1 Testbeds
