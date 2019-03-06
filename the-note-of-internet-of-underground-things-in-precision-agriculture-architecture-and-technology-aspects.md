@@ -62,9 +62,26 @@
   - Mobility
 - Components of the IOUT architecture
   - Underground things(UTs)
-  - Base stations
+    - communication 
+      -  Bluetooth, ZigBee, NFC, Wi-Fi
+      - Sigfox, LoRa, LoRaWAN
+      - satellite
+      - cellular
+    - sensing
+      - soil temperature and moisture
+    - weatherproof enclosures
+    - power
+      - solar panel
+      - batteries
+  - Base stations(transfer the collected data to the cloud)
   - Mobile sinks
+    - tractors and irrigation systems
+    - unmanned aerial vehicles
   - Cloud services
+    - permanent storage of the data collected
+    - real-time processing of the field condition
+    - crop related decision making
+    - integration with other databases
 
 ![](/assets/jpg2.jpg)
   
