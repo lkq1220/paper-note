@@ -10,13 +10,15 @@
   - funtion
     - real-time soil sensing and monitoring
 - Paper Content--IOUT
-  - communication architectures
-  - theory 
-  - applications
+  - architectures
+  - sensing
+  - communication
+  - technology
   - challenges 
 
 
 ####1. Introduction
+
 ####2. Internet Of Underground Thing (IOUT)
 ####3. IOUT architecture
 ####4. Sensing
