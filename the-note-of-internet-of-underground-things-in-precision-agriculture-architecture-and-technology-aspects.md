@@ -93,8 +93,10 @@
 - Weather and environmental sensing
 - Soil macro-nutrients sensing
 - Remote sensing
-#### 5. Wireless connectivity
 
+#### 5. Wireless connectivity
+#####5.1 In-field communications
+#####5.2 Cloud and big data in precision agriculture
 #### 6. IOUT enabling technologies
 
 ##### 6.1 Academic IOUT systems
