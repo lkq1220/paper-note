@@ -26,11 +26,24 @@
   * Variable Rate Technology \(VRT\) 
   * auto-steering system
   * crop moisture sensing
-![](/assets/jpg1.jpg)
+  
+  ![](/assets/jpg1.jpg)
 
 #### 2. Internet Of Underground Thing \(IOUT\)
-
-
+- why
+  - real-time in-situ information from agricultural fields
+- what
+  - autonomous devices that collect any relevant information about the Earth
+  - communication and networks 
+  - the growers and decision mechanisms
+- Details
+  - Communications can be carried out through the soil and plants from underground devices
+  - Information acquired from the field can be sent to the cloud for real-time decision making
+- Requirements
+  - information from soil
+  - operation in remote crop fields 
+  - wireless communication through plants and soil
+  - exposure to elements
 #### 3. IOUT architecture
 
 #### 4. Sensing
