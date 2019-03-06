@@ -39,11 +39,17 @@
 - Details
   - Communications can be carried out through the soil and plants from underground devices
   - Information acquired from the field can be sent to the cloud for real-time decision making
-- Requirements
+- Requirements--(wireless underground (UG) communications)
   - information from soil
   - operation in remote crop fields 
   - wireless communication through plants and soil
   - exposure to elements
+- Benefit
+  - conserve water resources and improve crop yields
+  - landslide monitoring(滑坡监控) 
+  - pipeline assessment
+  - underground mining
+  - border patrol（边境巡逻） 
 #### 3. IOUT architecture
 
 #### 4. Sensing
