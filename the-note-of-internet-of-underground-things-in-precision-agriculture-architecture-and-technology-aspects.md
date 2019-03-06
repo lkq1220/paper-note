@@ -87,23 +87,23 @@
   
 #### 4. Sensing
 - Soil moisture(measure water content)
- - Gravimetric sampling(计重法采样)
-   - how: a ratio of soil’s dry mass to the wet soil mass
-   - requirement: manual sampling and oven drying of soil samples taken from the field
- - Resistive sensors
-   - how: resistance changes based on soil water content
- - Capacitive sensors
-   - how: changes in capacitance of soil due to water content variations
-   - pros and cons: higher accuracy than resistive sensors but cost more
- - Ground Penetrating Radars 
-   - how: the absorption and reflection of electromagnetic waves
-   - requirement: measure near-surface soil moisture (up to 10 cm)
- - Neutron scattering probes and gauges(中子散射探头和仪表)
-   - how: changes in neutron flux density due to the water content of the soil
-   - pros and cons: most accurate but require specific licenses
- - Gamma ray attenuation
- - time-domain reflectometry (TDR)
- - frequency-domain reflectometry (FDR)
+   - Gravimetric sampling(计重法采样)
+     - how: a ratio of soil’s dry mass to the wet soil mass
+     - requirement: manual sampling and oven drying of soil samples taken from the field
+   - Resistive sensors
+     - how: resistance changes based on soil water content
+   - Capacitive sensors
+     - how: changes in capacitance of soil due to water content variations
+     - pros and cons: higher accuracy than resistive sensors but cost more
+   - Ground Penetrating Radars 
+     - how: the absorption and reflection of electromagnetic waves
+     - requirement: measure near-surface soil moisture (up to 10 cm)
+   - Neutron scattering probes and gauges(中子散射探头和仪表)
+     - how: changes in neutron flux density due to the water content of the soil
+     - pros and cons: most accurate but require specific licenses
+   - Gamma ray attenuation
+   - time-domain reflectometry (TDR)
+   - frequency-domain reflectometry (FDR)
 
 ![](/assets/jpg3.jpg)
 
