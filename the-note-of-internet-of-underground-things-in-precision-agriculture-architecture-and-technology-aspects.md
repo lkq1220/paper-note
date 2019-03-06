@@ -50,8 +50,14 @@
   - pipeline assessment
   - underground mining
   - border patrol（边境巡逻） 
+  
 #### 3. IOUT architecture
-
+- Functionalities
+  - In-situ sensing
+  - Wireless communication in challenging environment
+  - Inter-connection of field machinery, sensors, radios, and cloud
+  - Real-time Decision Making
+  - Mobility
 #### 4. Sensing
 
 #### 5. Wireless connectivity
