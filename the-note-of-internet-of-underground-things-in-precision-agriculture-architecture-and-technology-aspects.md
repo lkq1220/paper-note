@@ -86,7 +86,13 @@
 ![](/assets/jpg2.jpg)
   
 #### 4. Sensing
-
+- Soil moisture
+- Soil physical properties
+- Yield monitoring
+- Electrical conductivity and topography surveys
+- Weather and environmental sensing
+- Soil macro-nutrients sensing
+- Remote sensing
 #### 5. Wireless connectivity
 
 #### 6. IOUT enabling technologies
