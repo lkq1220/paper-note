@@ -96,7 +96,11 @@
    - how: changes in capacitance of soil due to water content variations
    - pros and cons: higher accuracy than resistive sensors but cost more
  - Ground Penetrating Radars 
- - Neutron scattering probes
+   - how: the absorption and reflection of electromagnetic waves
+   - requirement: measure near-surface soil moisture (up to 10 cm)
+ - Neutron scattering probes and gauges(中子散射探头和仪表)
+   - how: changes in neutron flux density due to the water content of the soil
+   - pros and cons: most accurate but require specific licenses
  - Gamma ray attenuation
 - Soil physical properties
 - Yield monitoring
