@@ -101,7 +101,7 @@
  - Neutron scattering probes and gauges(中子散射探头和仪表)
    - how: changes in neutron flux density due to the water content of the soil
    - pros and cons: most accurate but require specific licenses
- - Gamma ray attenuation
+ - Gamma ray attenuation![](/assets/jpg3.jpg)
  - time-domain reflectometry (TDR)
  - frequency-domain reflectometry (FDR)
 - Soil physical properties
