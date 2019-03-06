@@ -16,9 +16,10 @@
   - communication
   - technology
   - challenges 
-
-
+  
 ####1. Introduction
+- precision agricultures are widely adopted by farmers 
+  - crop yield monitoring(61.4%)
 
 ####2. Internet Of Underground Thing (IOUT)
 ####3. IOUT architecture
