@@ -1,5 +1,10 @@
 ### Internet of underground things in precision agriculture: Architecture and technology aspects
 ####0. Abstract
+
+-  Reason
+  - increase in world population, increase in need for food
+
+
 ####1. Introduction
 ####2. Internet Of Underground Thing (IOUT)
 ####3. IOUT architecture
