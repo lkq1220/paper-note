@@ -54,11 +54,19 @@
 #### 3. IOUT architecture
 - Functionalities
   - In-situ sensing
+    - soil moisture, temperature, salinity
   - Wireless communication in challenging environment
+    -  adjust its parameters to adapt to dynamic changes in soil.
   - Inter-connection of field machinery, sensors, radios, and cloud
   - Real-time Decision Making
   - Mobility
-  
+- Components of the IOUT architecture
+  - Underground things(UTs)
+  - Base stations
+  - Mobile sinks
+  - Cloud services
+
+![](/assets/jpg2.jpg)
   
 #### 4. Sensing
 
