@@ -279,9 +279,16 @@
     - soil moisture
     - electric conductivity
     - water potential
-    
 * 6.1.2 Example 
-
+- BioSense(agriculture and food production)
+  - Machinery auto-steering and automation
+  - EC probe & XRF scanner, electrical conductivity map
+  - normalized difference vegetation index (NDVI) map
+  - yield map
+  - remote sensing
+  - nano and micro-electronic sensors
+  - big data
+  - Internet of things
 ##### 6.2 Commercial IOUT solutions
 
 #### 7. Research challenges
