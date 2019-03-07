@@ -220,7 +220,7 @@ cube factor.(MI can not achieve long range, high data rates signaling)
   - Tread
   - Wi-Fi
 - Cellular technology in IOUT
-  - 
+  - low power devices can be connected through in-field communications and subsequently data can be collected and transmitted to the cloud by using externally powered gateways with cellular capabilities
 - Energy consumption in IOUT
 
 #####5.2 Cloud and big data in precision agriculture
