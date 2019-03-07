@@ -173,6 +173,11 @@ approaches
     - Lateral waves
       - lateral, direct, and reflected (LDR) waves
       - lateral waves travel partly on the soil-air interface in air, experiencing the lowest attenuation
+  - Recent advance
+    - the characterization of wireless UG channel and development of environment-aware
+      - 
+    - cross-layer communication solutions
+to achieve high data rate, long range communications with applications to precision agriculture.
 - Magnetic induction (MI) and acoustic UG communications
 - Underground to UAV communications
 - Low power wide area networks (LPWAN)
