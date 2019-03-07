@@ -132,7 +132,7 @@
 * Soil macro-nutrients sensing \(the fertilizer impact and future applications\)
   * nitrogen \(氮\), potassium \(磷\), phosphorous \(钾\)
   * Optical sensing
-  * planar electromagnetic sensors \(detect nitrate and sulfate concentration in natural water resources\)
+  * planar electromagnetic sensors \(detect nitrate \(硝酸盐\) and sulfate\(硫酸盐\) concentration in natural water resources\)
   * Electrochemical, VIS-NIRS spectroscopy, and ATR spectroscopy \(电化学, VIS-NIRS光谱, ATR光谱\)
 * Remote sensing
   * electromagnetic waves which interact with soil and plants 
