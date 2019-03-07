@@ -174,8 +174,8 @@ approaches
       - lateral, direct, and reflected (LDR) waves
       - lateral waves travel partly on the soil-air interface in air, experiencing the lowest attenuation
   - Recent advance
-    - Dong, X. and M. C. Vuran (2013). Environment aware connectivity for wireless underground sensor networks. 2013 Proceedings IEEE INFOCOM, IEEE.	
     - the characterization of wireless UG channel and development of environment-aware
+      - Dong, X. and M. C. Vuran (2013). Environment aware connectivity for wireless underground sensor networks. 2013 Proceedings IEEE INFOCOM, IEEE.	
       - Salam, A. and M. C. Vuran (2016). Impacts of soil type and moisture on the capacity of multi-carrier modulation in internet of underground things. 2016 25th International Conference on Computer Communication and Networks (ICCCN), IEEE.
       - Salam, A., et al. (2016). Pulses in the sand: Impulse response analysis of wireless underground channel. IEEE INFOCOM 2016-The 35th Annual IEEE International Conference on Computer Communications, IEEE.
       - Salam, A., et al. (2017). Towards internet of underground things in smart lighting: A statistical model of wireless underground channel. 2017 IEEE 14th International Conference on Networking, Sensing and Control (ICNSC), IEEE.
