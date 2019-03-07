@@ -306,10 +306,14 @@
   - function
     - measure soil moisture at various depth, temperature, humidity, wind speed and direction, rain, and leaf wetness
 - Out-of-the-box packages
-  - 
+  - develops wireless nodes for different types of sensors and gateways(weatherproof enclosures)
 - OEM components
+  - use in the manufacturing of nodes at a large scale
 - Cloud-based service
+  - allows worldwide access to the information collected by IOUT device
+  
 ![](/assets/jpg6.jpg)
+
 #### 7. Research challenges
 
 1. Due to large area of deployment in agricultural fields, low cost and low complexity IOUT device is required
