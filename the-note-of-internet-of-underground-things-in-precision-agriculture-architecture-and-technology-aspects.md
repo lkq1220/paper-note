@@ -208,12 +208,12 @@ cube factor.(MI can not achieve long range, high data rates signaling)
       - low latency of data transfer can be accepted
       - work over the time span of many years
       - designed for applications which need to transmit small packets intermittently. 
-  - LPWAN technologies
-    - LoRa
-    - Sigfox
-    - On-Ramp/Ingenu
-    - NB-IoT
-    - Extended coverage GSM IoT
+- LPWAN technologies
+  - LoRa
+  - Sigfox
+  - On-Ramp/Ingenu
+  - NB-IoT
+  - Extended coverage GSM IoT
 - Wireless PAN/LAN
   - Bluetooth
   - ZigBee
