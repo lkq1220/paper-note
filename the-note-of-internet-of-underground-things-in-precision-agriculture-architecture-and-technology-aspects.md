@@ -25,7 +25,7 @@
 
   * crop yield monitoring \(61.4%\)
   * Variable Rate Technology \(VRT\) 
-  * auto-steering system
+  * auto-steering system\(自动操舵系统\)
   * crop moisture sensing
 
   ![](/assets/jpg1.jpg)
