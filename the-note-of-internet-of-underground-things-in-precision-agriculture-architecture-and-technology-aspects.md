@@ -174,8 +174,7 @@ approaches
       - lateral, direct, and reflected (LDR) waves
       - lateral waves travel partly on the soil-air interface in air, experiencing the lowest attenuation
   - Recent advance
-    - the characterization of wireless UG channel and development of environment-aware
-      - Dong, X. and M. C. Vuran (2013). Environment aware connectivity for wireless underground sensor networks. 2013 Proceedings IEEE INFOCOM, IEEE.	
+    - the characterization of wireless UG channel and development of environment-aware	
       - Salam, A. and M. C. Vuran (2016). Impacts of soil type and moisture on the capacity of multi-carrier modulation in internet of underground things. 2016 25th International Conference on Computer Communication and Networks (ICCCN), IEEE.
       - Salam, A., et al. (2016). Pulses in the sand: Impulse response analysis of wireless underground channel. IEEE INFOCOM 2016-The 35th Annual IEEE International Conference on Computer Communications, IEEE.
       - Salam, A., et al. (2017). Towards internet of underground things in smart lighting: A statistical model of wireless underground channel. 2017 IEEE 14th International Conference on Networking, Sensing and Control (ICNSC), IEEE.
@@ -222,7 +221,7 @@ cube factor.(MI can not achieve long range, high data rates signaling)
 - Cellular technology in IOUT
   - low power devices can be connected through in-field communications and subsequently data can be collected and transmitted to the cloud by using externally powered gateways with cellular capabilities
 - Energy consumption in IOUT
-  -  a connectivity model of IOUT for different soil physical parameters has been developed by designing the cluster size distribution under sub-critical constraints. 
+  -  a connectivity model of IOUT for different soil physical parameters has been developed by designing the cluster size distribution under sub-critical constraints.(Dong, X. and M. C. Vuran (2013). Environment aware connectivity for wireless underground sensor networks. 2013 Proceedings IEEE INFOCOM, IEEE.)
 #####5.2 Cloud and big data in precision agriculture
 
 #### 6. IOUT enabling technologies
