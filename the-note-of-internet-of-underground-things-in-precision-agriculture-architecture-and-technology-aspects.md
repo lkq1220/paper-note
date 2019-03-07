@@ -148,7 +148,9 @@ approaches
 - UG communications
   - benefit
     - complete concealment of UTs, which decrease operation costs and impacts from external elements 
-    - 
+  - two types of communication scenarios
+    - Aboveground communication (between UTs and aboveground devices)
+    - Underground communication (between UTs) 
 - Magnetic induction (MI) and acoustic UG communications
 - Underground to UAV communications
 - Low power wide area networks (LPWAN)
