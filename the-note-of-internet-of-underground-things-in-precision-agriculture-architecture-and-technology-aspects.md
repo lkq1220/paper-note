@@ -269,17 +269,13 @@
     * An indoor testbed
       * dynamic soil moisture control
       * antennas are buried at different depths and distances
-      ![](/assets/jpg5.jpg)
-
+       ![](/assets/jpg5.jpg)
   * a testbed based on magnetic induction \(MI\) underground communications
-
-    * EM wave propagation 
+   * EM wave propagation 
     * for detection of presence of contaminated materials in soil
     * underground channel and antenna characterization
     * validations of underground communication channel models
-
   * Thoreau
-
     * collects and curates time and geo-tagged data on an open platform on the cloud\(Sigfox design\)
       * soil temperature
       * soil moisture
