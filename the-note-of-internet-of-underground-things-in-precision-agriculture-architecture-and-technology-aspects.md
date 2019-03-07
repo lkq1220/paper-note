@@ -158,10 +158,18 @@ approaches
     ![](/assets/jpg4.jpg)
   - six ways impact communication success 
     - Soil texture and bulk density
+      - pore spaces, clay, sand, and silt particles (孔隙，黏土，沙子，淤泥)
+      - Water holding capacity of each soil type is different because of its pore size
     - Soil moisture
+      - diffusion attenuation
+      - absorption by soil water content and its variations
     - Distance and depth variations
+      - the soil-air interface(causes refraction of EM)
     - Antennas in soil
+      - return loss characteristics change due to the high permittivity of soil 
     - Frequency variations
+      - dipole relaxation associated with water(与水有关的偶极子弛豫)
+      - at higher frequencies, water absorption plays a dominant role
     - Lateral waves
 - Magnetic induction (MI) and acoustic UG communications
 - Underground to UAV communications
