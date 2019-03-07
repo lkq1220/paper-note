@@ -250,28 +250,28 @@
 
 * 6.1.1 Testbeds
 
-    * South Central Agricultural Lab\(SCAL\)
-    * an advanced center pivot irrigation system
-      * long-term dynamics of variable rate irrigation and fertigation
-      * crop water and nutrient uptake
-      * water stress and yield relationships
-      * develop crop production functions
-    * a mobile sink
-    * two antennas facing opposite directions 
-    * a solar panel
-    * 10–16 buried UTs
-      * measuring soil temperature and soil moisture
-      * lithium-ion batteries 
-      * protected by a watertight enclosure
-    * 4G
-    * the cloud
-    * An indoor testbed
-      * dynamic soil moisture control
-      * antennas are buried at different depths and distances
-       ![](/assets/jpg5.jpg)
-  
+  * South Central Agricultural Lab\(SCAL\)
+  * an advanced center pivot irrigation system
+    * long-term dynamics of variable rate irrigation and fertigation
+    * crop water and nutrient uptake
+    * water stress and yield relationships
+    * develop crop production functions
+  * a mobile sink
+  * two antennas facing opposite directions 
+  * a solar panel
+  * 10–16 buried UTs
+    * measuring soil temperature and soil moisture
+    * lithium-ion batteries 
+    * protected by a watertight enclosure
+  * 4G
+  * the cloud
+  * An indoor testbed
+    * dynamic soil moisture control
+    * antennas are buried at different depths and distances
+      ![](/assets/jpg5.jpg)
+
   * a testbed based on magnetic induction \(MI\) underground communications
-   * EM wave propagation 
+    * EM wave propagation 
     * for detection of presence of contaminated materials in soil
     * underground channel and antenna characterization
     * validations of underground communication channel models
@@ -281,13 +281,13 @@
       * soil moisture
       * electric conductivity
       * water potential
-  
-  
+
 * 6.1.2 Example
-  
+
   * BioSense\(agriculture and food production\)
     * Machinery auto-steering and automation
-    * EC probe & XRF scanner, electrical conductivity map
+    * EC probe & XRF scanner
+    * electrical conductivity map
     * normalized difference vegetation index \(NDVI\) map
     * yield map
     * remote sensing
