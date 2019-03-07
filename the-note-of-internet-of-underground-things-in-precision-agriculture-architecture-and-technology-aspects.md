@@ -150,7 +150,19 @@ approaches
     - complete concealment of UTs, which decrease operation costs and impacts from external elements 
   - two types of communication scenarios
     - Aboveground communication (between UTs and aboveground devices)
+      - due to the soil-air interface, aboveground communication links are not symmetric 
     - Underground communication (between UTs) 
+  - the path loss
+    - underground link distances are still limited to 12 m
+    - communication ranges of up to 200 m is possible for aboveground communications
+    ![](/assets/jpg4.jpg)
+  - six ways impact communication success 
+    - Soil texture and bulk density
+    - Soil moisture
+    - Distance and depth variations
+    - Antennas in soil
+    - Frequency variations
+    - Lateral waves
 - Magnetic induction (MI) and acoustic UG communications
 - Underground to UAV communications
 - Low power wide area networks (LPWAN)
