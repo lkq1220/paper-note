@@ -302,6 +302,7 @@
 - Out-of-the-box packages
 - OEM components
 - Cloud-based service
+![](/assets/jpg6.jpg)
 #### 7. Research challenges
 
 1. Due to large area of deployment in agricultural fields, low cost and low complexity IOUT device is required
