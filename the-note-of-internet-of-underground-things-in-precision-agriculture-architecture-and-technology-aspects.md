@@ -125,9 +125,10 @@
   - direction and speed of winds
   - rainfall, solar emissions and humidity
 - Soil macro-nutrients sensing (the fertilizer impact and future applications)
-  - nitrogen (氮)
-  - potassium (磷)
-  - phosphorous (钾)
+  - nitrogen (氮), potassium (磷), phosphorous (钾)
+  - Optical sensing
+  - planar electromagnetic sensors (detect nitrate and sulfate concentration in natural water resources)
+  - Electrochemical, VIS-NIRS spectroscopy, and ATR spectroscopy
 - Remote sensing
 
 #### 5. Wireless connectivity
