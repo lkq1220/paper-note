@@ -245,6 +245,11 @@ cube factor.(MI can not achieve long range, high data rates signaling)
 ##### 6.2 Commercial IOUT solutions
 
 #### 7. Research challenges
-
-
-
+1. Due to large area of deployment in agricultural fields, low cost and low complexity IOUT device is required
+2. sustainable energy sources, and energy harvesting 
+3. standard protocol is required for seamless integration of different types of sensors
+4. Low-cost and multi-modal soil sensors
+5. Advanced security mechanisms
+6. Seasonal changes and crop growth cycles need to be considered.(UTs need to be buried deep enough to avoid damages)
+7. Due to dynamic changes in the communication medium in soil, UTs should be able to autonomously adjust their operation parameters such as operation frequency, modulation schemes, error coding schemes for adaptive operation.
+8. Impacts of soil physical properties, soil moisture on UG communication should be modeled. 
