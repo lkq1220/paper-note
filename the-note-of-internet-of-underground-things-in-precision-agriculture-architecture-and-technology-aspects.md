@@ -28,7 +28,7 @@
   * auto-steering system\(自动操舵系统\)
   * crop moisture sensing
 
-  ![](/assets/jpg1.jpg)
+![](/assets/jpg1.jpg)
 
 #### 2. Internet Of Underground Thing \(IOUT\)
 
