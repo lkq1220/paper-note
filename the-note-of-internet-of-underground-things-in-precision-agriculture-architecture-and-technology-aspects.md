@@ -250,7 +250,22 @@
 - South Central Agricultural Lab(SCAL)
   - an advanced center pivot irrigation system
     - long-term dynamics of variable rate irrigation and fertigation
-    - crop water and nutrient uptake, water stress and yield relationships, develop crop production functions, and associated numerous topics under full and limited irrigation and rainfed setting
+    - crop water and nutrient uptake
+    - water stress and yield relationships
+    - develop crop production functions
+  - a mobile sink
+  - two antennas facing opposite directions 
+  - a solar panel
+  - 10–16 buried UTs
+    - measuring soil temperature and soil moisture
+    - lithium-ion batteries 
+    - protected by a watertight enclosure
+  - An indoor testbed
+    - dynamic soil moisture control
+    - antennas are buried at different depths and distances
+  - 4G
+  - the cloud
+
 * 6.1.2 Example 
 
 ##### 6.2 Commercial IOUT solutions
