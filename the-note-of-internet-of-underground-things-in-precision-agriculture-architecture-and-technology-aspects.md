@@ -175,7 +175,9 @@ approaches
       - lateral waves travel partly on the soil-air interface in air, experiencing the lowest attenuation
   - Recent advance
     - the characterization of wireless UG channel and development of environment-aware
-      - 
+      - Salam, A. and M. C. Vuran (2016). Impacts of soil type and moisture on the capacity of multi-carrier modulation in internet of underground things. 2016 25th International Conference on Computer Communication and Networks (ICCCN), IEEE.
+      - Salam, A. and M. C. Vuran (2017). Smart underground antenna arrays: A soil moisture adaptive beamforming approach. IEEE INFOCOM 2017-IEEE Conference on Computer Communications, IEEE.
+      - 	
     - cross-layer communication solutions
 to achieve high data rate, long range communications with applications to precision agriculture.
 - Magnetic induction (MI) and acoustic UG communications
