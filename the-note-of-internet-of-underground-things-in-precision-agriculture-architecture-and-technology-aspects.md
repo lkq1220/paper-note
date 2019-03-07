@@ -246,72 +246,80 @@
 #### 6. IOUT enabling technologies
 
 ##### 6.1 Academic IOUT systems
+
 * 6.1.1 Testbeds
-  - South Central Agricultural Lab(SCAL)
-    - an advanced center pivot irrigation system
-      - long-term dynamics of variable rate irrigation and fertigation
-      - crop water and nutrient uptake
-      - water stress and yield relationships
-      - develop crop production functions
-    - a mobile sink
-    - two antennas facing opposite directions 
-    - a solar panel
-    - 10–16 buried UTs
-      - measuring soil temperature and soil moisture
-      - lithium-ion batteries 
-      - protected by a watertight enclosure
-    - 4G
-    - the cloud
-    - An indoor testbed
-      - dynamic soil moisture control
-      - antennas are buried at different depths and distances
-      
+
+  * South Central Agricultural Lab\(SCAL\)
+
+    * an advanced center pivot irrigation system
+      * long-term dynamics of variable rate irrigation and fertigation
+      * crop water and nutrient uptake
+      * water stress and yield relationships
+      * develop crop production functions
+    * a mobile sink
+    * two antennas facing opposite directions 
+    * a solar panel
+    * 10–16 buried UTs
+      * measuring soil temperature and soil moisture
+      * lithium-ion batteries 
+      * protected by a watertight enclosure
+    * 4G
+    * the cloud
+    * An indoor testbed
+
+      * dynamic soil moisture control
+      * antennas are buried at different depths and distances
+
       ![](/assets/jpg5.jpg)
-      
-  - a testbed based on magnetic induction (MI) underground communications
-    - EM wave propagation 
-    - for detection of presence of contaminated materials in soil
-    - underground channel and antenna characterization
-    - validations of underground communication channel models
-  - Thoreau
-    - collects and curates time and geo-tagged data on an open platform on the cloud(Sigfox design)
-      - soil temperature
-      - soil moisture
-      - electric conductivity
-      - water potential
+
+  * a testbed based on magnetic induction \(MI\) underground communications
+
+    * EM wave propagation 
+    * for detection of presence of contaminated materials in soil
+    * underground channel and antenna characterization
+    * validations of underground communication channel models
+
+  * Thoreau
+    * collects and curates time and geo-tagged data on an open platform on the cloud\(Sigfox design\)
+      * soil temperature
+      * soil moisture
+      * electric conductivity
+      * water potential
+
 * 6.1.2 Example 
-  - BioSense(agriculture and food production)
-    - Machinery auto-steering and automation
-    - EC probe & XRF scanner, electrical conductivity map
-    - normalized difference vegetation index (NDVI) map
-    - yield map
-    - remote sensing
-    - nano and micro-electronic sensors
-    - big data
-    - Internet of things
-  - Internet of Food and Farm 
-    - RFID tags
-    - GPRS networks
-  - A ZigBee
-    - wireless communications nodes
-    - sensors
-    - data transfer gateways
-    - web modules for real time sensing, communication, and visualization in the field.
+  * BioSense\(agriculture and food production\)
+    * Machinery auto-steering and automation
+    * EC probe & XRF scanner, electrical conductivity map
+    * normalized difference vegetation index \(NDVI\) map
+    * yield map
+    * remote sensing
+    * nano and micro-electronic sensors
+    * big data
+    * Internet of things
+  * Internet of Food and Farm 
+    * RFID tags
+    * GPRS networks
+  * A ZigBee
+    * wireless communications nodes
+    * sensors
+    * data transfer gateways
+    * web modules for real time sensing, communication, and visualization in the field.
 
 ##### 6.2 Commercial IOUT solutions
-- Features
-  - Redeployment
-  - Modularity
-- Agricultural solutions
-  - function
-    - measure soil moisture at various depth, temperature, humidity, wind speed and direction, rain, and leaf wetness
-- Out-of-the-box packages
-  - develops wireless nodes for different types of sensors and gateways(weatherproof enclosures)
-- OEM components
-  - use in the manufacturing of nodes at a large scale
-- Cloud-based service
-  - allows worldwide access to the information collected by IOUT device
-  
+
+* Features
+  * Redeployment
+  * Modularity
+* Agricultural solutions
+  * function
+    * measure soil moisture at various depth, temperature, humidity, wind speed and direction, rain, and leaf wetness
+* Out-of-the-box packages
+  * develops wireless nodes for different types of sensors and gateways\(weatherproof enclosures\)
+* OEM components
+  * use in the manufacturing of nodes at a large scale
+* Cloud-based service
+  * allows worldwide access to the information collected by IOUT device
+
 ![](/assets/jpg6.jpg)
 
 #### 7. Research challenges
