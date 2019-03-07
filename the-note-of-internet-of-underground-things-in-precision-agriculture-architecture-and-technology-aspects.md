@@ -247,7 +247,10 @@
 
 ##### 6.1 Academic IOUT systems
 * 6.1.1 Testbeds
-
+- South Central Agricultural Lab(SCAL)
+  - an advanced center pivot irrigation system
+    - long-term dynamics of variable rate irrigation and fertigation
+    - crop water and nutrient uptake, water stress and yield relationships, develop crop production functions, and associated numerous topics under full and limited irrigation and rainfed setting
 * 6.1.2 Example 
 
 ##### 6.2 Commercial IOUT solutions
