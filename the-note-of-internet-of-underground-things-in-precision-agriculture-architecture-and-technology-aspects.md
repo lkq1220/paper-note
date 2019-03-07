@@ -183,7 +183,22 @@ approaches
       - Salam, A. and M. C. Vuran (2017). Smart underground antenna arrays: A soil moisture adaptive beamforming approach. IEEE INFOCOM 2017-IEEE Conference on Computer Communications, IEEE.
       - Trang, H. T. H. and S. O. Hwang (2018). "Connectivity analysis of underground sensors in wireless underground sensor networks." Ad Hoc Networks 71: 104-116.
 - Magnetic induction (MI) and acoustic UG communications
-- Underground to UAV communications
+  - In magnetic induction, the rate of decay of received signal strength (RSS) is the inverse
+cube factor.(MI can not achieve long range, high data rates signaling)
+  - Underwater communications can not utilize electromagnetic (EM) waves because of higher degradation of signals and water absorption (acoustic approach--infeasible in IOUT beacause of vibration limitations )
+- Function
+  - Underground to UAV communications
+   - sensing and communications of the filed conditions
+   - agricultural surveillance using imaging
+     - a detailed soil moisture map of the field
+     - monitore crop growth
+     - seed planting and pesticide applications
+   - decision support 
+- Challenges 
+  - communications payloads and antennas
+  - limited flight times
+  - low communication range 
+  - specific operator skills and licenses required
 - Low power wide area networks (LPWAN)
 - Wireless PAN/LAN
 - Cellular technology in IOUT
