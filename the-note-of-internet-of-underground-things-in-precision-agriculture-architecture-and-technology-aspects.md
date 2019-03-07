@@ -179,10 +179,9 @@ approaches
       - Salam, A. and M. C. Vuran (2016). Impacts of soil type and moisture on the capacity of multi-carrier modulation in internet of underground things. 2016 25th International Conference on Computer Communication and Networks (ICCCN), IEEE.
       - Salam, A., et al. (2016). Pulses in the sand: Impulse response analysis of wireless underground channel. IEEE INFOCOM 2016-The 35th Annual IEEE International Conference on Computer Communications, IEEE.
       - Salam, A., et al. (2017). Towards internet of underground things in smart lighting: A statistical model of wireless underground channel. 2017 IEEE 14th International Conference on Networking, Sensing and Control (ICNSC), IEEE.
-      - Trang, H. T. H. and S. O. Hwang (2018). "Connectivity analysis of underground sensors in wireless underground sensor networks." Ad Hoc Networks 71: 104-116.
-    - cross-layer communication solutions
       - Salam, A. and M. C. Vuran (2017). Wireless underground channel diversity reception with multiple antennas for internet of underground things. 2017 IEEE International Conference on Communications (ICC), IEEE.
       - Salam, A. and M. C. Vuran (2017). Smart underground antenna arrays: A soil moisture adaptive beamforming approach. IEEE INFOCOM 2017-IEEE Conference on Computer Communications, IEEE.
+      - Trang, H. T. H. and S. O. Hwang (2018). "Connectivity analysis of underground sensors in wireless underground sensor networks." Ad Hoc Networks 71: 104-116.
 - Magnetic induction (MI) and acoustic UG communications
 - Underground to UAV communications
 - Low power wide area networks (LPWAN)
