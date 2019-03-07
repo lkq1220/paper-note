@@ -152,6 +152,7 @@ approaches
 - Wireless PAN/LAN
 - Cellular technology in IOUT
 - Energy consumption in IOUT
+
 #####5.2 Cloud and big data in precision agriculture
 
 #### 6. IOUT enabling technologies
