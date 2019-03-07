@@ -209,8 +209,16 @@ cube factor.(MI can not achieve long range, high data rates signaling)
       - work over the time span of many years
       - designed for applications which need to transmit small packets intermittently. 
   - LPWAN technologies
-  
+    - LoRa
+    - Sigfox
+    - On-Ramp/Ingenu
+    - NB-IoT
+    - Extended coverage GSM IoT
 - Wireless PAN/LAN
+  - Bluetooth
+  - ZigBee
+  - Tread
+  - Wi-Fi
 - Cellular technology in IOUT
 - Energy consumption in IOUT
 
