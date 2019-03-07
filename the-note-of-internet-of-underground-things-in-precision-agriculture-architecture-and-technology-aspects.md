@@ -221,7 +221,9 @@ cube factor.(MI can not achieve long range, high data rates signaling)
 - Cellular technology in IOUT
   - low power devices can be connected through in-field communications and subsequently data can be collected and transmitted to the cloud by using externally powered gateways with cellular capabilities
 - Energy consumption in IOUT
-  -  a connectivity model of IOUT for different soil physical parameters has been developed by designing the cluster size distribution under sub-critical constraints.(Dong, X. and M. C. Vuran (2013). Environment aware connectivity for wireless underground sensor networks. 2013 Proceedings IEEE INFOCOM, IEEE.)
+  -  a connectivity model of IOUT for different soil physical parameters has been developed by designing the cluster size distribution under sub-critical constraints(亚临界约束下的簇大小分布)(Dong, X. and M. C. Vuran (2013). Environment aware connectivity for wireless underground sensor networks. 2013 Proceedings IEEE INFOCOM, IEEE.)
+    - reducing energy consumption the transmit power control and environment aware routing
+    - use of relaying nodes based on soil wetness conditions
 #####5.2 Cloud and big data in precision agriculture
 
 #### 6. IOUT enabling technologies
