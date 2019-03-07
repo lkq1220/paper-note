@@ -267,6 +267,7 @@
     - antennas are buried at different depths and distances
     
     ![](/assets/jpg5.jpg)
+    
 - a testbed based on magnetic induction (MI) underground communications
   - EM wave propagation 
   - for detection of presence of contaminated materials in soil
