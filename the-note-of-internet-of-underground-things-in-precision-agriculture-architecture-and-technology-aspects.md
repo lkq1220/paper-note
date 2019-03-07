@@ -108,6 +108,10 @@
 ![](/assets/jpg3.jpg)
 
 - Soil physical properties
+  - the organic mater present in the soil（有机物）
+  - acidity (pH)
+  - percentage of sand, clay and silt particles
+  - nutrients  
 - Yield monitoring
 - Electrical conductivity and topography surveys
 - Weather and environmental sensing
