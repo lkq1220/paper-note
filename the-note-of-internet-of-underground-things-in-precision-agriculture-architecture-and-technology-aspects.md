@@ -206,6 +206,8 @@ cube factor.(MI can not achieve long range, high data rates signaling)
     - LPWAN is suitable for IOUT communications
       - high data rate operations are not required 
       - low latency of data transfer can be accepted
+      - work over the time span of many years
+      - designed for applications which need to transmit small packets intermittently. 
 - Wireless PAN/LAN
 - Cellular technology in IOUT
 - Energy consumption in IOUT
