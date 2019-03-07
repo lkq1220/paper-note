@@ -260,12 +260,15 @@
     - measuring soil temperature and soil moisture
     - lithium-ion batteries 
     - protected by a watertight enclosure
+  - 4G
+  - the cloud
   - An indoor testbed
     - dynamic soil moisture control
     - antennas are buried at different depths and distances
-  - 4G
-  - the cloud
+    ![](/assets/jpg5.jpg)
 
+
+    
 * 6.1.2 Example 
 
 ##### 6.2 Commercial IOUT solutions
