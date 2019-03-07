@@ -140,6 +140,7 @@ approaches
   - soil sampling and field analysis map generation
   - drones
   - autosteering and VRT
+  
 #### 5. Wireless connectivity
 #####5.1 In-field communications
 #####5.2 Cloud and big data in precision agriculture
