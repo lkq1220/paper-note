@@ -128,9 +128,18 @@
   - nitrogen (氮), potassium (磷), phosphorous (钾)
   - Optical sensing
   - planar electromagnetic sensors (detect nitrate and sulfate concentration in natural water resources)
-  - Electrochemical, VIS-NIRS spectroscopy, and ATR spectroscopy
+  - Electrochemical, VIS-NIRS spectroscopy, and ATR spectroscopy (电化学, VIS-NIRS光谱, ATR光谱)
 - Remote sensing
-
+  - electromagnetic waves which interact with soil and plants 
+  - produce field maps for analysis and decision making based on in-situ IOUT sensing 
+approaches
+- precision agriculture technologies
+  - precision planting
+  - geolocation
+  - GIS systems
+  - soil sampling and field analysis map generation
+  - drones
+  - autosteering and VRT
 #### 5. Wireless connectivity
 #####5.1 In-field communications
 #####5.2 Cloud and big data in precision agriculture
