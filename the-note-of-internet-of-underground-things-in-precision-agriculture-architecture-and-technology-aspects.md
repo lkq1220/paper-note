@@ -269,7 +269,7 @@
     * dynamic soil moisture control
     * antennas are buried at different depths and distances
 
- ![](/assets/jpg5.jpg)
+  ![](/assets/jpg5.jpg)
 
   * a testbed based on magnetic induction \(MI\) underground communications
     * EM wave propagation 
