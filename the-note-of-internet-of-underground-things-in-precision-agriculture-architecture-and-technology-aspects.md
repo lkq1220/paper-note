@@ -113,7 +113,9 @@
   - percentage of sand, clay and silt particles
   - nutrients  
 - Yield monitoring
+  - make long-term decisions about agriculture operations
 - Electrical conductivity and topography surveys
+  - 
 - Weather and environmental sensing
 - Soil macro-nutrients sensing
 - Remote sensing
