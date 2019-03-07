@@ -78,7 +78,8 @@
       * batteries
   * Base stations\(transfer the collected data to the cloud\)
   * Mobile sinks
-    * tractors and irrigation systems
+    * tractors 
+    - irrigation systems
     * unmanned aerial vehicles
   * Cloud services
     * permanent storage of the data collected
