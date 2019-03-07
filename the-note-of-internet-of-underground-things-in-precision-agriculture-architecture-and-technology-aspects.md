@@ -222,7 +222,7 @@ cube factor.(MI can not achieve long range, high data rates signaling)
 - Cellular technology in IOUT
   - low power devices can be connected through in-field communications and subsequently data can be collected and transmitted to the cloud by using externally powered gateways with cellular capabilities
 - Energy consumption in IOUT
-
+  -  a connectivity model of IOUT for different soil physical parameters has been developed by designing the cluster size distribution under sub-critical constraints. 
 #####5.2 Cloud and big data in precision agriculture
 
 #### 6. IOUT enabling technologies
