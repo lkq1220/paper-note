@@ -115,7 +115,11 @@
 - Yield monitoring
   - make long-term decisions about agriculture operations
 - Electrical conductivity and topography surveys
-  - 
+  - the amount of nitrogen usage (氮素用量)
+  - water holding (持水量)
+  - cation-exchange capacity (阳离子交换能力)
+  - drainage (排水能力)
+  - rooting depth (根生深度)
 - Weather and environmental sensing
 - Soil macro-nutrients sensing
 - Remote sensing
