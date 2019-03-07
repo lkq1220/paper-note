@@ -200,7 +200,7 @@ cube factor.(MI can not achieve long range, high data rates signaling)
     - low communication range 
     - specific operator skills and licenses required
 - Low power wide area networks (LPWAN)
-  - benefit
+  - Benefit
     - energy conservation
     - attain long-range connectivity
     - LPWAN is suitable for IOUT communications
@@ -208,6 +208,8 @@ cube factor.(MI can not achieve long range, high data rates signaling)
       - low latency of data transfer can be accepted
       - work over the time span of many years
       - designed for applications which need to transmit small packets intermittently. 
+  - LPWAN technologies
+  
 - Wireless PAN/LAN
 - Cellular technology in IOUT
 - Energy consumption in IOUT
