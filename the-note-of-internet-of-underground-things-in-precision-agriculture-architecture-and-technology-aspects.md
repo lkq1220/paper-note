@@ -172,7 +172,7 @@ approaches
       - at higher frequencies, water absorption plays a dominant role
     - Lateral waves
       - lateral, direct, and reflected (LDR) waves
-      -  lateral waves travel partly on the soil-air interface in air, experiencing the lowest attenuation
+      - lateral waves travel partly on the soil-air interface in air, experiencing the lowest attenuation
 - Magnetic induction (MI) and acoustic UG communications
 - Underground to UAV communications
 - Low power wide area networks (LPWAN)
