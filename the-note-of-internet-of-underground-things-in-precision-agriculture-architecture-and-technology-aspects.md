@@ -146,6 +146,9 @@ approaches
 
 #####5.1 In-field communications
 - UG communications
+  - benefit
+    - complete concealment of UTs, which decrease operation costs and impacts from external elements 
+    - 
 - Magnetic induction (MI) and acoustic UG communications
 - Underground to UAV communications
 - Low power wide area networks (LPWAN)
