@@ -280,13 +280,15 @@
     * validations of underground communication channel models
 
   * Thoreau
+
     * collects and curates time and geo-tagged data on an open platform on the cloud\(Sigfox design\)
       * soil temperature
       * soil moisture
       * electric conductivity
       * water potential
 
-* 6.1.2 Example 
+* 6.1.2 Example
+
   * BioSense\(agriculture and food production\)
     * Machinery auto-steering and automation
     * EC probe & XRF scanner, electrical conductivity map
@@ -311,8 +313,7 @@
   * Redeployment
   * Modularity
 * Agricultural solutions
-  * function
-    * measure soil moisture at various depth, temperature, humidity, wind speed and direction, rain, and leaf wetness
+  * measure soil moisture at various depth, temperature, humidity, wind speed and direction, rain, and leaf wetness
 * Out-of-the-box packages
   * develops wireless nodes for different types of sensors and gateways\(weatherproof enclosures\)
 * OEM components
