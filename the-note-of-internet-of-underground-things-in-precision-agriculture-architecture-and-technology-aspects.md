@@ -57,7 +57,7 @@
 
 * Functionalities
   * In-situ sensing
-    * soil moisture, temperature, salinity
+    * soil moisture, temperature, salinity (盐度)
   * Wireless communication in challenging environment
     * adjust its parameters to adapt to dynamic changes in soil.
   * Inter-connection of field machinery, sensors, radios, and cloud
