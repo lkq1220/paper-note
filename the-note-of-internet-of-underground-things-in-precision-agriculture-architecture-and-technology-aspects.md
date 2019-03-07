@@ -5,7 +5,7 @@
 * Paper Detail
   * Vuran, M. C., et al. \(2018.7\). "Internet of underground things in precision agriculture: Architecture and technology aspects." Ad Hoc Networks 81: 160-173.
 * Reason
-  * increase in world population, increase in need for food
+  * increase in the world population, increase in the need for food
 * Internet Of Underground Things\(IOUT\)
   * composition
     * sensors
