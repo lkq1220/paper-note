@@ -289,8 +289,19 @@
   - nano and micro-electronic sensors
   - big data
   - Internet of things
+- Internet of Food and Farm 
+  - RFID tags
+  - GPRS networks
+- A ZigBee
+  - wireless communications nodes
+  - sensors
+  - data transfer gateways
+  - web modules for real time sensing, communication, and visualization in the field.
 ##### 6.2 Commercial IOUT solutions
-
+- Agricultural solutions
+- Out-of-the-box packages
+- OEM components
+- Cloud-based service
 #### 7. Research challenges
 
 1. Due to large area of deployment in agricultural fields, low cost and low complexity IOUT device is required
