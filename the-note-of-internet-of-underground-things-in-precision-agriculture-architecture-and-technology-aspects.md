@@ -186,20 +186,26 @@ approaches
   - In magnetic induction, the rate of decay of received signal strength (RSS) is the inverse
 cube factor.(MI can not achieve long range, high data rates signaling)
   - Underwater communications can not utilize electromagnetic (EM) waves because of higher degradation of signals and water absorption (acoustic approach--infeasible in IOUT beacause of vibration limitations )
-- Function
-  - Underground to UAV communications
-   - sensing and communications of the filed conditions
-   - agricultural surveillance using imaging
-     - a detailed soil moisture map of the field
-     - monitore crop growth
-     - seed planting and pesticide applications
-   - decision support 
-- Challenges 
-  - communications payloads and antennas
-  - limited flight times
-  - low communication range 
-  - specific operator skills and licenses required
+- Underground to UAV communications
+  - Function
+    - sensing and communications of the filed conditions
+    - agricultural surveillance using imaging
+      - a detailed soil moisture map of the field
+      - monitore crop growth
+      - seed planting and pesticide applications
+    - decision support 
+  - Challenges 
+    - communications payloads and antennas
+    - limited flight times
+    - low communication range 
+    - specific operator skills and licenses required
 - Low power wide area networks (LPWAN)
+  - benefit
+    - energy conservation
+    - attain long-range connectivity
+    - LPWAN is suitable for IOUT communications
+      - high data rate operations are not required 
+      - low latency of data transfer can be accepted
 - Wireless PAN/LAN
 - Cellular technology in IOUT
 - Energy consumption in IOUT
