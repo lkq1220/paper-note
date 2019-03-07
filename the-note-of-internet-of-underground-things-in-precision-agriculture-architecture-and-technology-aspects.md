@@ -173,7 +173,7 @@
     * Distance and depth variations
       * the soil-air interface\(causes refraction of EM\)
     * Antennas in soil
-      * return loss characteristics change due to the high permittivity of soil 
+      * return loss characteristics\(回波损耗特性\) change due to the high permittivity of soil 
     * Frequency variations
       * dipole relaxation associated with water\(与水有关的偶极子弛豫\)
       * at higher frequencies, water absorption plays a dominant role
