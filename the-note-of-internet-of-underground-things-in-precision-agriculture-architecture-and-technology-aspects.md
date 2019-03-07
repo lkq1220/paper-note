@@ -297,9 +297,16 @@
   - sensors
   - data transfer gateways
   - web modules for real time sensing, communication, and visualization in the field.
+
 ##### 6.2 Commercial IOUT solutions
+- Features
+  - Redeployment
+  - Modularity
 - Agricultural solutions
+  - function
+    - measure soil moisture at various depth, temperature, humidity, wind speed and direction, rain, and leaf wetness
 - Out-of-the-box packages
+  - 
 - OEM components
 - Cloud-based service
 ![](/assets/jpg6.jpg)
