@@ -234,7 +234,8 @@ cube factor.(MI can not achieve long range, high data rates signaling)
   - pull meteorological data or soil information
   - a controller that can be accessed remotely
   - control the farming equipment smartly based on the collected data
-  - 
+- how: reliable data transfer from field to cloud, and cloud to farm
+
 #### 6. IOUT enabling technologies
 ##### 6.1 Academic IOUT systems
 
