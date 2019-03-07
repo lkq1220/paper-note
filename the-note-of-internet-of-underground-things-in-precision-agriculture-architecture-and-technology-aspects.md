@@ -231,6 +231,10 @@ cube factor.(MI can not achieve long range, high data rates signaling)
   - a hub of data storage 
   - processing applications
   - allows the scalability of IOUT paradigm from the field level to bigger geographic areas
+  - pull meteorological data or soil information
+  - a controller that can be accessed remotely
+  - control the farming equipment smartly based on the collected data
+  - 
 #### 6. IOUT enabling technologies
 ##### 6.1 Academic IOUT systems
 
