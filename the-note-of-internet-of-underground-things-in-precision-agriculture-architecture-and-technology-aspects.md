@@ -57,7 +57,7 @@
 
 * Functionalities
   * In-situ sensing
-    * soil moisture, temperature, salinity (盐度)
+    * soil moisture, temperature, salinity \(盐度\)
   * Wireless communication in challenging environment
     * adjust its parameters to adapt to dynamic changes in soil.
   * Inter-connection of field machinery, sensors, radios, and cloud
@@ -79,7 +79,7 @@
   * Base stations\(transfer the collected data to the cloud\)
   * Mobile sinks
     * tractors 
-    - irrigation systems
+    * irrigation systems
     * unmanned aerial vehicles
   * Cloud services
     * permanent storage of the data collected
@@ -103,8 +103,8 @@
   * Ground Penetrating Radars 
     * how: the absorption and reflection of electromagnetic waves
     * requirement: measure near-surface soil moisture \(up to 10 cm\)
-  * Neutron scattering probes and gauges\(中子散射探头和仪表\)
-    * how: changes in neutron flux density due to the water content of the soil
+  * Neutron scattering probes and gauges \(中子散射探头和仪表\)
+    * how: changes in neutron flux density \(中子通量密度\) due to the water content of the soil
     * pros and cons: most accurate but require specific licenses
   * Gamma ray attenuation
   * time-domain reflectometry \(TDR\)
