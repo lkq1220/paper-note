@@ -246,8 +246,8 @@
 #### 6. IOUT enabling technologies
 
 ##### 6.1 Academic IOUT systems
-
 * 6.1.1 Testbeds
+
 * 6.1.2 Example 
 
 ##### 6.2 Commercial IOUT solutions
