@@ -142,7 +142,16 @@ approaches
   - autosteering and VRT
   
 #### 5. Wireless connectivity
+- Challenges:lack of studies about the impacts of crops and farm environment on wireless propagation and associated tailored solutions to farms
+
 #####5.1 In-field communications
+- UG communications
+- Magnetic induction (MI) and acoustic UG communications
+- Underground to UAV communications
+- Low power wide area networks (LPWAN)
+- Wireless PAN/LAN
+- Cellular technology in IOUT
+- Energy consumption in IOUT
 #####5.2 Cloud and big data in precision agriculture
 
 #### 6. IOUT enabling technologies
