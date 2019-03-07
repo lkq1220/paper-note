@@ -250,8 +250,7 @@
 
 * 6.1.1 Testbeds
 
-  * South Central Agricultural Lab\(SCAL\)
-
+    * South Central Agricultural Lab\(SCAL\)
     * an advanced center pivot irrigation system
       * long-term dynamics of variable rate irrigation and fertigation
       * crop water and nutrient uptake
@@ -281,9 +280,10 @@
       * soil moisture
       * electric conductivity
       * water potential
-
+  
+  
 * 6.1.2 Example
-
+  
   * BioSense\(agriculture and food production\)
     * Machinery auto-steering and automation
     * EC probe & XRF scanner, electrical conductivity map
