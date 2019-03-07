@@ -220,6 +220,7 @@ cube factor.(MI can not achieve long range, high data rates signaling)
   - Tread
   - Wi-Fi
 - Cellular technology in IOUT
+  - 
 - Energy consumption in IOUT
 
 #####5.2 Cloud and big data in precision agriculture
