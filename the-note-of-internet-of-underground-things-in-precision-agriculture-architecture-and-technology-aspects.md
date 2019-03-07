@@ -121,7 +121,13 @@
   - drainage (排水能力)
   - rooting depth (根生深度)
 - Weather and environmental sensing
-- Soil macro-nutrients sensing
+  - sense soil and air temperature
+  - direction and speed of winds
+  - rainfall, solar emissions and humidity
+- Soil macro-nutrients sensing (the fertilizer impact and future applications)
+  - nitrogen (氮)
+  - potassium (磷)
+  - phosphorous (钾)
 - Remote sensing
 
 #### 5. Wireless connectivity
