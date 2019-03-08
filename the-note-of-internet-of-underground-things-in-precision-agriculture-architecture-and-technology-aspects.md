@@ -22,7 +22,6 @@
 #### 1. Introduction
 
 * precision agricultures are widely adopted by farmers
-
   * crop yield monitoring \(61.4%\)
   * Variable Rate Technology \(VRT\) 
   * auto-steering system\(自动操舵系统\)
