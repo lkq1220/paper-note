@@ -44,8 +44,13 @@
 ##### 3.2 Data Processing With the PS-InSAR Method
 ##### 3.3 Extraction of Points on the Maglev Track
 ##### 3.4 Validation
+- 为了确定得到的地面沉降率是否准确，将其与水准测量值进行了比较
+- 图8为磁悬浮轨道7个基准点水准测量与PS-InSAR地面沉降率对比图，图9为磁悬浮轨道附近15个基准点的对比图
+![](/assets/8.jpg) 
+![](/assets/9.jpg)
 
 ![](/assets/5.jpg)
+
 ##### 5. Conclusion
 - 本文采用PS InSAR技术对上海磁悬浮区地面沉降进行监测，对TerraSAR-X在2009年12月至2014年4月期间获得的45幅高分辨率SAR图像进行处理
 - 将PS-InSAR测得的沉降速率与水准仪测得的沉降速率进行对比，发现两者之间的差异大多小于3mm一年
