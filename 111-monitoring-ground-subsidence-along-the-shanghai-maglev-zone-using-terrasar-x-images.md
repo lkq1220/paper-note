@@ -42,6 +42,7 @@
   ![](/assets/3.jpg)
     
 ##### 3.2 Data Processing With the PS-InSAR Method
+
 ##### 3.3 Extraction of Points on the Maglev Track
   - 磁悬浮轨道由于其金属材料的存在，存在大量的PS点。在此，我们提出一种统计方法来提取磁悬浮轨道上的PS点。首先，对磁悬浮列车上的几个点进行采样，以拟合磁悬浮列车水平位置上的一条直线。然后沿直线生成一个宽度为20 m的缓冲区，选取缓冲区中的PS点作为磁悬浮轨道上的候选点。图6为所选缓冲区中的候选点。很明显，缓冲区中PS点(蓝点)呈线性分布。
   ![](/assets/6.jpg)
