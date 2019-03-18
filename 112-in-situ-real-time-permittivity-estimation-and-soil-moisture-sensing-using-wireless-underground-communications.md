@@ -1,1 +1,10 @@
-### 
+### In situ real-time permittivity estimation and soil moisture sensing using wireless underground communications
+
+#### 0. Abstract
+#### 1. Introduction
+#### 2. Related work
+#### 3. System models
+#### 4. Model validation techniques
+#### 5. Empirical setup
+#### 6. Performance analysis, model validation, and error analysis
+#### 7. Di-Sense applications and future work
