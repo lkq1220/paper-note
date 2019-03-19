@@ -25,10 +25,10 @@
     - Ground truth measurements
     - Semiempirical Peplinski dielectric mixing model
     - Topp mode
-#### 2. Related work
 
-#### 3. System models
-#### 4. Model validation techniques
-#### 5. Empirical setup
-#### 6. Performance analysis, model validation, and error analysis
-#### 7. Di-Sense applications and future work
+#### 2. System models
+
+#### 3. Model validation techniques
+#### 4. Empirical setup
+#### 5. Performance analysis, model validation, and error analysis
+#### 6. Di-Sense applications and future work
