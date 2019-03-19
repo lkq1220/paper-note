@@ -9,9 +9,15 @@
     - The estimated soil parameters have less than 8% estimation error from the ground truth measurements and semi-empirical dielectric mixing models
     
 #### 1. Introduction
-- why
+- Why
     - one major bottleneck in the current laboratory-based permittivity estimation techniques is off-line measurement of the collected soil samples
-- how 
+- Electromagnetic (EM) waves propagates through the soil
+   - depth
+   - distance
+   - frequency
+   - soil moisture
+   - properties of the soi
+- How 
     - 
 #### 2. Related work
 #### 3. System models
