@@ -28,7 +28,13 @@
     - Topp mode
 
 #### 2. System models
-    
+- Aim 
+    - estimate the soil permittivity and moisture at a distance range of 1–15 m
+- Quantities
+    - propagation path loss in soil
+    - velocity of wave propagation in soil
+- How
+    - 
 #### 3. Model validation techniques
 #### 4. Empirical setup
 #### 5. Performance analysis, model validation, and error analysis
