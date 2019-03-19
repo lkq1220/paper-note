@@ -20,7 +20,7 @@
    - properties of the soi
 - How 
     1. a transmitter antenna buried at a certain depth in soil transmits a wideband signal in frequency range of 100–500 MHz, which propagates through the UG channel. 
-    2. The received signal is measured at the receiver to determine the path loss. 
+    2. the received signal is measured at the receiver to determine the path loss. 
     3. estimate the soil moisture and permittivity based on path loss using Di-Sense
 - Verification
     - Ground truth measurements
@@ -28,7 +28,7 @@
     - Topp mode
 
 #### 2. System models
-
+    
 #### 3. Model validation techniques
 #### 4. Empirical setup
 #### 5. Performance analysis, model validation, and error analysis
