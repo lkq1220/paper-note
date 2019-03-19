@@ -2,9 +2,10 @@
 
 #### 0. Abstract
 - Detail
+    - Salam, A., et al. (2019). "Di-Sense: In situ real-time permittivity estimation and soil moisture sensing using wireless underground communications." Computer Networks 151: 31-41.
 
 - Method(real-time in situ estimation of relative permittivity of soil, and soil moisture)
-    -be determined from the propagation path loss, and velocity of wave propagation of an underground (UG) transmitter and receiver link in wireless underground communications
+    - be determined from the propagation path loss, and velocity of wave propagation of an underground (UG) transmitter and receiver link in wireless underground communications
 - Result
     - The estimated soil parameters have less than 8% estimation error from the ground truth measurements and semi-empirical dielectric mixing models
     
