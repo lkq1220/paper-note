@@ -36,8 +36,15 @@
 - Quetion
     - given the path loss of communication link in the soil medium
     - derive a function that estimates the permittivity, and soil moisture of understudy soil medium.
+![](/assets/319-1.jpg)
 - Propagation path loss approach
+  - Path loss
+  - The frequency of the minimum pathloss
+  - Soil factor
+  - Wavelength 
+  - Relative permittivity
 - Permittivity estimation through velocity of wave propagation in soil
+
 #### 3. Model validation techniques
 #### 4. Empirical setup
 #### 5. Performance analysis, model validation, and error analysis
