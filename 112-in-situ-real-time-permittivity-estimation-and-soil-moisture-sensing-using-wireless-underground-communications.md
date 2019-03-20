@@ -49,10 +49,17 @@
   ![](/assets/319-2.jpg)
 - Di-Sense soil moisture sensing
     - soil permittivity depends on the soil moisture only, soil water content can be determined from soil permittivity
+    
+#### 3. Empirical setup
+- Empirical VWC range, depth, and particle size distribution and classification of testbed soil
+![](/assets/319-3.jpg)
 
-#### 3. Model validation techniques
-- ground truth measurements of soil water content 
-    - 
-#### 4. Empirical setup
-#### 5. Performance analysis, model validation, and error analysis
-#### 6. Di-Sense applications and future work
+##### 3.1 Outdoor/field software-defined radio (SDR) testbed development and measurements
+- Testbed development
+    - four sets of buried dipole antennas in silt loam soil（10cm, 20cm, 30cm, 40cm）
+        - Each set contains four antennas buried at 50 cm, 2 m, and 4 m distance from the first antenna
+ 
+![](/assets/319-4.jpg)
+- Experiment methodology 
+#### 4. Performance analysis, model validation, and error analysis
+#### 5. Di-Sense applications and future work
