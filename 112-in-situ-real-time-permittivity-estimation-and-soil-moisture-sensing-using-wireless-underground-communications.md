@@ -95,9 +95,13 @@
 - DiSense permittivity by time-domain velocity of propagation method is compared with Di-Sense path loss propagation permittivity method 
 ![](/assets/319-7.jpg)
 - ##### Results:With decrease in lowest path loss frequency, soil permittivity increase rapidly, which also lead to increase in soil moisture. 
-
 ##### 4.3 Model error analysis
+![](/assets/319-8.jpg)
 ##### 4.4 Di-Sense transfer functions
+- effects of changes in soil permittivity with change in depth are likely to be reduced at higher depths due to the fact that intensity of the reflected wave from soil–air interface is reduced at the deeper depths
+    - Determine the lowest path loss frequency.
+    - Estimate soil permittivity using (5) and (6).
+    - Estimate soil moisture using (7).
 #### 5. Di-Sense applications
 - precision agriculture(IOUTs)
 - determine the health of the buildings and bridges structures
