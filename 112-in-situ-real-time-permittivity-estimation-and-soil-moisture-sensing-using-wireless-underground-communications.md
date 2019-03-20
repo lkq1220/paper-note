@@ -87,7 +87,12 @@
     - 从中可以看出并不是越低的频率则对应更低的路径损耗，而是要根据土壤参数和土壤含水量进行调整
 - ##### pic(c)
     - velocity of wave propagation in soil decrease with increase in soil moisture
+    
 ##### 4.2 Model validation
+- Di-Sense VWC is compared with ground truth VWC measurements 
+- Di-Sense VWC is compared with Topp model
+- Di-Sense permittivity is compared with Peplinski model
+- DiSense permittivity by time-domain velocity of propagation method is compared with Di-Sense path loss propagation permittivity method 
 ##### 4.3 Model error analysis
 ##### 4.4 Di-Sense transfer functions
 #### 5. Di-Sense applications
