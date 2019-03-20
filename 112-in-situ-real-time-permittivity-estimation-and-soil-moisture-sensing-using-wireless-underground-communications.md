@@ -72,7 +72,6 @@
 #####3.2 PDP measurements
 - PDPs are measured by using the Keysight Technologies N9923A FieldFox VNA
 
-
 #### 4. Performance analysis, model validation, and error analysis
 ##### 4.1 Path loss in wireless underground communications
 - change in lowest path loss frequency of the UG channel at different soil moisture levels is shown in sandy soil, silt loam, and silty clay loam soil. 
@@ -96,8 +95,10 @@
 - DiSense permittivity by time-domain velocity of propagation method is compared with Di-Sense path loss propagation permittivity method 
 ![](/assets/319-7.jpg)
 - ##### Results:With decrease in lowest path loss frequency, soil permittivity increase rapidly, which also lead to increase in soil moisture. 
+
 ##### 4.3 Model error analysis
 ![](/assets/319-8.jpg)
+
 ##### 4.4 Di-Sense transfer functions
 - effects of changes in soil permittivity with change in depth are likely to be reduced at higher depths due to the fact that intensity of the reflected wave from soil–air interface is reduced at the deeper depths
     - Determine the lowest path loss frequency.
