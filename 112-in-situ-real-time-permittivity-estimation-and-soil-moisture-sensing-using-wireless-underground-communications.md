@@ -67,7 +67,7 @@
     - Experiment are repeated for all these depth for the distances of 2 m and 4 m
     - This process is repeated for frequency range of 100–500 MHz
     - Post-processing is done in Matlab
-- Power spectrum density (PSD) of the sent signal
-- The pathloss with frequency at 10 cm, 20 cm, 30 cm, and 40 cm depths
+    
+![](/assets/319-5.jpg)
 #### 4. Performance analysis, model validation, and error analysis
 #### 5. Di-Sense applications and future work
