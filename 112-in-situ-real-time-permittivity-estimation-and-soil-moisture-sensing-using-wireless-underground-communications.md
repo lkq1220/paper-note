@@ -110,6 +110,7 @@
 - improve the performance of landmines detection approaches
 - improve the design of wave propagation systems for tunnels through cognitively adjusting the communication parameters based on the sensing of moisture and permittivity
 - in the area of the geophysical prospecting, where IOUT can be used simultaneously for sensing, communications, and permittivity estimation of the ice and rocks.
+
 #### 6. Conclusion
 - wireless UG channel path loss and velocity of wave propagation in soil medium have been utilized to determine the permittivity and soil moisture
 - Di-Sense is based on estimation of the frequency of the lowest path loss of the direct communication link between the buried antennas in soil
