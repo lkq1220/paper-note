@@ -62,6 +62,9 @@
 ![](/assets/319-4.jpg)
 
 - Experiment methodology 
-
+    - A Gaussian signal RF waveform of 2 MHz bandwidth is transmitted from an UG dipole antenna, buried at 40 cm depth, by using the transmitter USRP
+    - Signal is received on the receiver USRPs, connected to dipole antennas buried at four different depths
+    - Experiment are repeated for all these depth for the distances of 2 m and 4 m
+    - This process is repeated for frequency range of 100–500 MH
 #### 4. Performance analysis, model validation, and error analysis
 #### 5. Di-Sense applications and future work
