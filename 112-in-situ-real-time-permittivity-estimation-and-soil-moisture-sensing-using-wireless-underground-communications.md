@@ -68,5 +68,14 @@
     - Post-processing is done in Matlab
     
 ![](/assets/319-5.jpg)
+
+#####3.2 PDP measurements
+- PDPs are measured by using the Keysight Technologies N9923A FieldFox VNA
+
+
 #### 4. Performance analysis, model validation, and error analysis
+##### 4.1 Path loss in wireless underground communications
+##### 4.2 Model validation
+##### 4.3 Model error analysis
+##### 4.4 Di-Sense transfer functions
 #### 5. Di-Sense applications and future work
