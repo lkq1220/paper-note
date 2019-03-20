@@ -79,3 +79,10 @@
 ##### 4.3 Model error analysis
 ##### 4.4 Di-Sense transfer functions
 #### 5. Di-Sense applications and future work
+- Application
+    - precision agriculture(IOUTs)
+    - determine the health of the buildings and bridges structures
+    - detect dynamic variations in the soil properties
+    - improve the performance of landmines detection approaches
+    - improve the design of wave propagation systems for tunnels through cognitively adjusting the communication parameters based on the sensing of moisture and permittivity
+- Future work
