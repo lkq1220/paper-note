@@ -75,6 +75,10 @@
 
 #### 4. Performance analysis, model validation, and error analysis
 ##### 4.1 Path loss in wireless underground communications
+- change in lowest path loss frequency of the UG channel at different soil moisture levels is shown in sandy soil, silt loam, and silty clay loam soil. 
+![](/assets/319-6.jpg)
+- ##### pic(a): frequency of the lowest path loss decrease with increase in soil moisture, because of the fact that permittivity of soil is greater than the air, and it increases with increase in soil moisture, hence frequency of the lowest path loss shifts to the lower frequency end
+- ##### pic(b)
 ##### 4.2 Model validation
 ##### 4.3 Model error analysis
 ##### 4.4 Di-Sense transfer functions
@@ -86,3 +90,5 @@
 - improve the design of wave propagation systems for tunnels through cognitively adjusting the communication parameters based on the sensing of moisture and permittivity
 - in the area of the geophysical prospecting, where IOUT can be used simultaneously for sensing, communications, and permittivity estimation of the ice and rocks.
 #### 6. Conclusion
+- wireless UG channel path loss and velocity of wave propagation in soil medium have been utilized to determine the permittivity and soil moisture
+- Di-Sense is based on estimation of the frequency of the lowest path loss of the direct communication link between the buried antennas in soil
