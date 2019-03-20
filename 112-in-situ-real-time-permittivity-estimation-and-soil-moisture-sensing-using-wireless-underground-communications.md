@@ -76,9 +76,12 @@
 #### 4. Performance analysis, model validation, and error analysis
 ##### 4.1 Path loss in wireless underground communications
 - change in lowest path loss frequency of the UG channel at different soil moisture levels is shown in sandy soil, silt loam, and silty clay loam soil. 
+- change in the lowest path frequency over depth in silt loam, silty clay loam, and sandy soil
 ![](/assets/319-6.jpg)
 - ##### pic(a): frequency of the lowest path loss decrease with increase in soil moisture, because of the fact that permittivity of soil is greater than the air, and it increases with increase in soil moisture, hence frequency of the lowest path loss shifts to the lower frequency end
 - ##### pic(b)
+    - This difference in lowest frequency with depth is caused by the reflected wave from the soil–air interface that induces a current on the antenna and changes the impedance which results in changes in lowest path loss frequency of the wireless UG channel.  
+    - At higher depths, the distance to the soil–air interface is higher. Hence, the intensity of the reflected wave is less due to higher soil absorption. Furthermore, interaction of antenna fields with the soil causes changes in the lowest path loss frequency of the UG channel.h
 ##### 4.2 Model validation
 ##### 4.3 Model error analysis
 ##### 4.4 Di-Sense transfer functions
