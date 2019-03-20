@@ -84,7 +84,7 @@
 - ##### pic(b)
     - This difference in lowest frequency with depth is caused by the reflected wave from the soil–air interface that induces a current on the antenna and changes the impedance which results in changes in lowest path loss frequency of the wireless UG channel.  
     - At higher depths, the distance to the soil–air interface is higher. Hence, the intensity of the reflected wave is less due to higher soil absorption. Furthermore, interaction of antenna fields with the soil causes changes in the lowest path loss frequency of the UG channel.h
-    - It can be seen that the lowest path loss is not the corresponding minimum operating frequency, so frequency needs to be adjusted to the current soil conditions.
+    - It can be seen that the lowest path loss is not corresponding to minimum operating frequency, so frequency needs to be adjusted to the current soil conditions automatically in field.
     ![](/assets/319-9.jpg)
 - ##### pic(c)
     - velocity of wave propagation in soil decrease with increase in soil moisture
