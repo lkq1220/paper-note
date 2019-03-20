@@ -93,6 +93,9 @@
 - Di-Sense VWC is compared with Topp model
 - Di-Sense permittivity is compared with Peplinski model
 - DiSense permittivity by time-domain velocity of propagation method is compared with Di-Sense path loss propagation permittivity method 
+![](/assets/319-7.jpg)
+- ##### Results:With decrease in lowest path loss frequency, soil permittivity increase rapidly, which also lead to increase in soil moisture. 
+
 ##### 4.3 Model error analysis
 ##### 4.4 Di-Sense transfer functions
 #### 5. Di-Sense applications
