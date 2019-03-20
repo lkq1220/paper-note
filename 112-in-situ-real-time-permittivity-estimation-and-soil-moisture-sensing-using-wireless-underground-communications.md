@@ -102,6 +102,7 @@
     - Determine the lowest path loss frequency.
     - Estimate soil permittivity using (5) and (6).
     - Estimate soil moisture using (7).
+    
 #### 5. Di-Sense applications
 - precision agriculture(IOUTs)
 - determine the health of the buildings and bridges structures
