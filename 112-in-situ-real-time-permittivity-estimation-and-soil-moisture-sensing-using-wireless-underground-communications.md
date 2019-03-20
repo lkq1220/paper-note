@@ -51,7 +51,8 @@
     - soil permittivity depends on the soil moisture only, soil water content can be determined from soil permittivity
 
 #### 3. Model validation techniques
-
+- ground truth measurements of soil water content 
+    - 
 #### 4. Empirical setup
 #### 5. Performance analysis, model validation, and error analysis
 #### 6. Di-Sense applications and future work
