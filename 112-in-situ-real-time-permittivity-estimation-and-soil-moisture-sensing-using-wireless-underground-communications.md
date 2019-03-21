@@ -47,6 +47,8 @@
 - Permittivity estimation through velocity of wave propagation in soil
   - Power delay profile (PDP) are measured to get velocity of the wave propagation
   - Relative permittivity in soil is calculated from the difference of transmission and arrival time of the direct component in the soil
+  
+  ![](/assets/319-11.jpg)
   ![](/assets/319-2.jpg)
 - Di-Sense soil moisture sensing
     - soil permittivity depends on the soil moisture only, soil water content can be determined from soil permittivity
