@@ -53,6 +53,7 @@
 - Di-Sense soil moisture sensing
     - soil permittivity depends on the soil moisture only, soil water content can be determined from soil permittivity
     ![](/assets/319-12.jpg)
+    
 #### 3. Empirical setup
 - Empirical VWC range, depth, and particle size distribution and classification of testbed soil
 ![](/assets/319-3.jpg)
