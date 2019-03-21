@@ -42,6 +42,8 @@
   - Soil factor
   - Wavelength 
   - Relative permittivity
+  
+  ![](/assets/319-10.jpg)
 - Permittivity estimation through velocity of wave propagation in soil
   - Power delay profile (PDP) are measured to get velocity of the wave propagation
   - Relative permittivity in soil is calculated from the difference of transmission and arrival time of the direct component in the soil
