@@ -85,10 +85,18 @@
 
 ##### 3.1 Hardware Design of the System 
 - Subnode
-    - microcontroller unit (MCU)
-    - communication unit
-    - information collection unit
-    - power unit
+    - Function
+        - sensor information collection
+        - LoRa communication
+        - low power
+        - solar power supply.
+    - Component
+        - microcontroller unit (MCU)
+        - communication unit
+        - information collection unit
+        - power unit
+    
+![](/assets/hardware.jpg)
 - Main node
 ##### 3.2 Software Design of the System 
 
