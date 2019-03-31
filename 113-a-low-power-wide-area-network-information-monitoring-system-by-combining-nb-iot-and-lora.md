@@ -92,8 +92,8 @@
         - solar power supply.
     - Component
         - microcontroller unit (MCU)
-            - STM32F103ZET6(Cortex M3)
-            - Mode
+            - STM32F103ZET6(Cortex M3)![
+            - Mode](/assets/Mainnode_curit.jpg)
                 - sleep
                 - shutdown
                 - standby 
@@ -116,6 +116,7 @@
 ![](/assets/truehard.jpg)  
 
 - Main node(an LoRa–NB-IoT gateway)
+    - 
 
 ##### 3.2 Software Design of the System 
 
