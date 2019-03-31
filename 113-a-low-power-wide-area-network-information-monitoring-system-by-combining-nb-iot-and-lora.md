@@ -15,6 +15,7 @@
     - Main node(NB-IoT && LoRa gateway)
     - A could Server
     - Computer System
+    - Optical-electric conversion technology
 - Advantage
     - Improves transmission distance
     - Reduces the operating costs of the WAN information monitoring system
