@@ -140,6 +140,10 @@
 ![](/assets/s2.jpg)
 ![](/assets/s3.jpg)
 #### 4. System Test and Analysis
+- Test Location 
+    - The test location is the campus of Northeast Agricultural University
 ##### 4.1 Point-to-Point Communication Distance Test
+![](/assets/p2p.jpg)
 ##### 4.2 Multihop Communication Distance Test
+![](/assets/multi-hop.jpg)
 #### 5. Conclusion
