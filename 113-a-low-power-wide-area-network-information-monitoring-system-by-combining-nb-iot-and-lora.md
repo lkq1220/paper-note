@@ -49,8 +49,21 @@
         
 #### 2. LPWAN Technology
 ##### 2.1 LoRa
+- A physical layer technology
+- A proprietary spread spectrum technique
+- 868 MHz in Europe, 915 MHz in North America, 433 MHz in Asia
+- signal
+    - low noise levels, 
+    - high interference resilience 
+    - be difficult to detect or jam
+    
 ##### 2.2 NB-IoT
-
+- A new 3GPP wireless access technology 
+- Three deployment modes
+    - stand-alone
+    - guardband
+    - in-band
+    
 #### 3. System Desgin and Implementation
 ##### 3.1 Hardware Design of the System 
 ##### 3.2 Software Design of the System 
