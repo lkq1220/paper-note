@@ -142,8 +142,35 @@
 #### 4. System Test and Analysis
 - Test Location 
     - The test location is the campus of Northeast Agricultural University
+    
 ##### 4.1 Point-to-Point Communication Distance Test
+- An LoRa node 3 is fixed
+    - soil temperature and humidity sensors
+- Node 0 is placed approximately 1 km from node 3
+    - soil temperature and humidity sensors
+    
 ![](/assets/p2p.jpg)
+
 ##### 4.2 Multihop Communication Distance Test
+- Test1
+    - Node 3 is fixed
+    - Node 4 serves as a multihop node
+    - Fix a node 2 in position #2(main node)
+    
 ![](/assets/multi-hop.jpg)
+
+- Test2
+    - Experiment setup
+        - subnode 1, subnode 3, and the main node are fixed onto a test pole for long-time
+        - Subnode 4 serves as the multihop node of LoRa communication.
+    - Sensor data 
+    ![](/assets/sensor data.jpg)
+    - Results
+        - the system communication packet loss rate was 3/924, which was approximately 3%
+        - LoRa communication distance is greatly influenced by obstacles, electromagnetic interference and the orientation of antennae
+        - when the interval between two data sending instances of NB-IoT is too short, the network link of NB-IoT will be blocked
+        
 #### 5. Conclusion
+- an LPWAN information monitoring approach based on NB-IoT and LoRa with a solar power supply system
+- low power consumption and provides a reliable guarantee for the long-term operation of the system
+- need to test communications between more LoRa nodes to adapt to the requirements of widerarea information collection and system stability.
