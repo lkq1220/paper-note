@@ -98,6 +98,8 @@
                 - shutdown
                 - standby 
         - communication unit
+            - LoRa communication module
+            - RS232 and RS485 communication
         - information collection unit
         - power unit
     
