@@ -110,11 +110,13 @@
         - power unit
             - solar paneL
             - solar panel control circuit
-            - dc–dc converter. 
+            - dc–dc converter
+            
 ![](/assets/hardware.jpg) 
 ![](/assets/truehard.jpg)  
 
-- Main node
+- Main node(an LoRa–NB-IoT gateway)
+
 ##### 3.2 Software Design of the System 
 
 #### 4. System Test and Analysis
