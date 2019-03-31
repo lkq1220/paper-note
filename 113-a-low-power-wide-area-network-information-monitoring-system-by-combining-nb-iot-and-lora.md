@@ -130,6 +130,7 @@
             - TTL serial communication
             - communication state indicator
             - communication state feedback
+            
 ![](/assets/Mainnode_curit.jpg)
 ![](/assets/mainnode_true_top.jpg)
 ![](/assets/mainnode_true_botto,.jpg)
