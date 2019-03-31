@@ -105,6 +105,8 @@
                 - sleep mode* 
             - RS232 and RS485 communication(collect sensor information)
         - information collection unit
+            - ADC collection
+            - RS232 and RS485 communication 
         - power unit
 
 ![](/assets/hardware.jpg) 
