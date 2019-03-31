@@ -19,6 +19,10 @@
 - Advantage
     - Improves transmission distance
     - Reduces the operating costs of the WAN information monitoring system
+- Results 
+    - the communication distance in a complex environment is up to 1.6 km
+    - the minimum working current is 2 mA
+    - the system communication packet loss rate is approximately 3%
 #### 1. Introduction
 
 #### 2. LPWAN Technology
