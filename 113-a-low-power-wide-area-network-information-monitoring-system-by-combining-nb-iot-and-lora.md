@@ -103,7 +103,7 @@
                 - wake mode
                 - power save mode
                 - sleep mode* 
-            - RS232 and RS485 communication
+            - RS232 and RS485 communication(collect sensor information)
         - information collection unit
         - power unit
 
