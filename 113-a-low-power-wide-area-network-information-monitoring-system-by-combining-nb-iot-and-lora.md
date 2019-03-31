@@ -80,7 +80,7 @@
     - store the data in a database
 - User
     - access and download the data through HTTPS protoco
-
+    
 ![](/assets/wholeSystem.jpg)
 ##### 3.1 Hardware Design of the System 
 ##### 3.2 Software Design of the System 
