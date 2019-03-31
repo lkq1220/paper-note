@@ -64,7 +64,11 @@
     - guardband
     - in-band
     
+    
+![](/assets/nb-iot.jpg)
+
 #### 3. System Desgin and Implementation
+
 ##### 3.1 Hardware Design of the System 
 ##### 3.2 Software Design of the System 
 
