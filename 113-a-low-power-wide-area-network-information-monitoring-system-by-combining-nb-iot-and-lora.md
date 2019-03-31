@@ -79,7 +79,7 @@
     - receive and process data
     - store the data in a database
 - User
-
+    - access and download the data through HTTPS protoco
 
 ![](/assets/wholeSystem.jpg)
 ##### 3.1 Hardware Design of the System 
