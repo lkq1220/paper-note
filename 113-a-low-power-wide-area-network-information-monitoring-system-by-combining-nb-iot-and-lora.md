@@ -135,7 +135,9 @@
 ![](/assets/mainnode_true_top.jpg)
 ![](/assets/mainnode_true_botto,.jpg)
 
-##### 3.2 Software Design of the System 
+##### 3.2 Software Design of the System
+- Improved LRU Algorithm
+
 ![](/assets/s1.jpg)
 ![](/assets/s2.jpg)
 ![](/assets/s3.jpg)
