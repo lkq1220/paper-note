@@ -82,7 +82,14 @@
     - access and download the data through HTTPS protoco
     
 ![](/assets/wholeSystem.jpg)
+
 ##### 3.1 Hardware Design of the System 
+- Subnode
+    - microcontroller unit (MCU)
+    - communication unit
+    - information collection unit
+    - power unit
+- Main node
 ##### 3.2 Software Design of the System 
 
 #### 4. System Test and Analysis
