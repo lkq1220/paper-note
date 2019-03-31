@@ -116,8 +116,17 @@
 ![](/assets/truehard.jpg)  
 
 - Main node(an LoRa–NB-IoT gateway)
-    - 
-
+    - Function
+        - LoRa communication
+        - NB-IoT communication
+        - sensor information collection
+        - LCD display
+        - solar power supply
+        - low power 
+    - Component
+![](/assets/Mainnode_curit.jpg)
+![](/assets/mainnode_true_top.jpg)
+![](/assets/mainnode_true_botto,.jpg)
 ##### 3.2 Software Design of the System 
 
 #### 4. System Test and Analysis
