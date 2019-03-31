@@ -26,8 +26,8 @@
     
 #### 1. Introduction
 - Application Fields
-    - Intelligent agriculture
-    - Industrial automation
+    - Intelligent Agriculture
+    - Industrial Automation
     - Smart City
     - Smart Home
 #### 2. LPWAN Technology
