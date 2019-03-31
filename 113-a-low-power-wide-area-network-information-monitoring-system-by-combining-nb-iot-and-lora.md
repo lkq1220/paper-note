@@ -143,7 +143,7 @@
 
     ![](/assets/s1.jpg)
 
-- Software Design of Subnode multihop
+- Software Design of Subnode Multihop
 ![](/assets/s2.jpg)
 
 - Software Design of Main Node
