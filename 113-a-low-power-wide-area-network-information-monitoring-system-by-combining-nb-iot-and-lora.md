@@ -23,8 +23,13 @@
     - the communication distance in a complex environment is up to 1.6 km
     - the minimum working current is 2 mA
     - the system communication packet loss rate is approximately 3%
+    
 #### 1. Introduction
-
+- Application Fields
+    - Intelligent agriculture
+    - Industrial automation
+    - Smart City
+    - Smart Home
 #### 2. LPWAN Technology
 ##### 2.1 LoRa
 ##### 2.2 NB-IoT
