@@ -5,7 +5,19 @@
     - Zhang, X., et al. (2019). "A low-power wide-area network information monitoring system by combining NB-IoT and LoRa." IEEE Internet of things Journal 6(1): 590-598.
 ![](/assets/factors.jpg)
 ![](/assets/journal.jpg)
-
+- Aim
+    - Long range
+    - A small amount of data transmission
+    - Low power
+    - Low cost of the Internet of Things (IoT) in actual applications
+- Method
+    - Multiple subnodes(LoRa node)
+    - Main node(NB-IoT && LoRa gateway)
+    - A could Server
+    - Computer System
+- Advantage
+    - Improves transmission distance
+    - Reduces the operating costs of the WAN information monitoring system
 #### 1. Introduction
 
 #### 2. LPWAN Technology
