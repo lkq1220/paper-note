@@ -68,7 +68,7 @@
 ![](/assets/nb-iot.jpg)
 
 #### 3. System Desgin and Implementation
-
+![](/assets/wholeSystem.jpg)
 ##### 3.1 Hardware Design of the System 
 ##### 3.2 Software Design of the System 
 
