@@ -92,6 +92,11 @@
         - solar power supply.
     - Component
         - microcontroller unit (MCU)
+            - STM32F103ZET6(Cortex M3)
+            - Mode
+                - sleep
+                - shutdown
+                - standby 
         - communication unit
         - information collection unit
         - power unit
