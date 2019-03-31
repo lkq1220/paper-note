@@ -68,6 +68,19 @@
 ![](/assets/nb-iot.jpg)
 
 #### 3. System Desgin and Implementation
+- Subnode
+    - collects sensor information through analog-to-digital converter (ADC) or serial communication
+    - conducts point-to-point or multihop communications with the main node by the LoRa communication module. 
+- Main Node
+    - receive information sent by subnode 
+    - process received information
+    - sends information in itself and in other subnodes to the server through the NB-IoT communication module
+- Server
+    - receive and process data
+    - store the data in a database
+- User
+
+
 ![](/assets/wholeSystem.jpg)
 ##### 3.1 Hardware Design of the System 
 ##### 3.2 Software Design of the System 
