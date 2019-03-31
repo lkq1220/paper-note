@@ -134,8 +134,11 @@
 ![](/assets/Mainnode_curit.jpg)
 ![](/assets/mainnode_true_top.jpg)
 ![](/assets/mainnode_true_botto,.jpg)
-##### 3.2 Software Design of the System 
 
+##### 3.2 Software Design of the System 
+![](/assets/s1.jpg)
+![](/assets/s2.jpg)
+![](/assets/s3.jpg)
 #### 4. System Test and Analysis
 ##### 4.1 Point-to-Point Communication Distance Test
 ##### 4.2 Multihop Communication Distance Test
