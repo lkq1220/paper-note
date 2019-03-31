@@ -99,6 +99,10 @@
                 - standby 
         - communication unit
             - LoRa communication module
+                - general mode*
+                - wake mode
+                - power save mode
+                - sleep mode* 
             - RS232 and RS485 communication
         - information collection unit
         - power unit
