@@ -1,6 +1,11 @@
 ### 1.13 A Low-Power Wide-Area Network Information Monitoring System by Combining NB-IoT and LoRa
 
 #### 0.Abstract
+- Detail
+    - Zhang, X., et al. (2019). "A low-power wide-area network information monitoring system by combining NB-IoT and LoRa." IEEE Internet of things Journal 6(1): 590-598.
+![](/assets/factors.jpg)
+![](/assets/journal.jpg)
+
 #### 1. Introduction
 
 #### 2. LPWAN Technology
