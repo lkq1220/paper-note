@@ -33,7 +33,19 @@
 - Traditional Communication Technology
     - ZigBee, Bluetooth(short-range radio technologies and not suitable for long-range transmission scenarios)
     - 2G, 3G, 4G, and other solutions based on cellular communication (provide a wider coverage, but they consume too much energy and increase the operating costs)
-- 
+- LPWAN
+    - LoRa 
+        - high stability
+        - ultralong transmission
+        - ultralow power
+        - low cost 
+    - NB-IoT
+        - high QoS 
+        - low latency 
+        - strong links
+        - high coverage,
+        - low power
+        - low cost 
 #### 2. LPWAN Technology
 ##### 2.1 LoRa
 ##### 2.2 NB-IoT
