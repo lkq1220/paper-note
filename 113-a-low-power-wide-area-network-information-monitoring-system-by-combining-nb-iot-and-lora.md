@@ -173,4 +173,4 @@
 #### 5. Conclusion
 - an LPWAN information monitoring approach based on NB-IoT and LoRa with a solar power supply system
 - low power consumption and provides a reliable guarantee for the long-term operation of the system
-- need to test communications between more LoRa nodes to adapt to the requirements of widerarea information collection and system stability.
+- need to test communications between more LoRa nodes to adapt to the requirements of wide area information collection and system stability.
