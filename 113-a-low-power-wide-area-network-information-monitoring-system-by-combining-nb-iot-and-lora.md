@@ -125,7 +125,7 @@
         - low power 
     - Component
         - NB-IoT communication module
-            -  power supply
+            - power supply
             - indicator
             - TTL serial communication
             - communication state indicator
