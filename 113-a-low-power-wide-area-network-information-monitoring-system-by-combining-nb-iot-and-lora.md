@@ -106,9 +106,10 @@
             - RS232 and RS485 communication
         - information collection unit
         - power unit
-        
+
+![](/assets/hardware.jpg) 
 ![](/assets/truehard.jpg)  
-![](/assets/hardware.jpg)
+
 - Main node
 ##### 3.2 Software Design of the System 
 
