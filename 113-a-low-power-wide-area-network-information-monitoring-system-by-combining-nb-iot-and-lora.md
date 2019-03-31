@@ -149,6 +149,10 @@
 - Software Design of Main Node
     
     ![](/assets/s3.jpg)
+- Software Design of the Server
+    - Tencent Cloud
+    - Java 
+    - UDP protocol
 #### 4. System Test and Analysis
 - Test Location 
     - The test location is the campus of Northeast Agricultural University
