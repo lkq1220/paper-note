@@ -138,9 +138,17 @@
 ##### 3.2 Software Design of the System
 - Improved LRU Algorithm
 
-![](/assets/s1.jpg)
+    ![](/assets/data_process.jpg)
+- Software Design of Subnode
+
+    ![](/assets/s1.jpg)
+
+- Software Design of Subnode multihop
 ![](/assets/s2.jpg)
-![](/assets/s3.jpg)
+
+- Software Design of Main Node
+    
+    ![](/assets/s3.jpg)
 #### 4. System Test and Analysis
 - Test Location 
     - The test location is the campus of Northeast Agricultural University
