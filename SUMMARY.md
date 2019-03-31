@@ -12,4 +12,5 @@
 * [the note of 《Internet of underground things in precision agriculture: Architecture and technology aspects》](the-note-of-internet-of-underground-things-in-precision-agriculture-architecture-and-technology-aspects.md)
 * [Monitoring Ground Subsidence Along the Shanghai Maglev Zone Using TerraSAR-X Images](111-monitoring-ground-subsidence-along-the-shanghai-maglev-zone-using-terrasar-x-images.md)
 * [In situ real-time permittivity estimation and soil moisture sensing using wireless underground communications](112-in-situ-real-time-permittivity-estimation-and-soil-moisture-sensing-using-wireless-underground-communications.md)
+* [A Low-Power Wide-Area Network Information Monitoring System by Combining NB-IoT and LoRa](113-a-low-power-wide-area-network-information-monitoring-system-by-combining-nb-iot-and-lora.md)
 
