@@ -108,7 +108,9 @@
             - ADC collection
             - RS232 and RS485 communication 
         - power unit
-
+            - solar paneL
+            - solar panel control circuit
+            - dc–dc converter. 
 ![](/assets/hardware.jpg) 
 ![](/assets/truehard.jpg)  
 
