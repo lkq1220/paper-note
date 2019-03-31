@@ -46,6 +46,7 @@
         - high coverage,
         - low power
         - low cost 
+        
 #### 2. LPWAN Technology
 ##### 2.1 LoRa
 ##### 2.2 NB-IoT
